@@ -19,96 +19,95 @@
 "common.tsi" = Используется местное время Турции.";
 
 // MARK: - General Error
-"generalErrorMessage" = "There's an error. Please try again later.";
-"internetConnectionError" = "Check your internet connection!";
-"parseError" = "An error occurred while retrieving the information!";
-"selectionError" = "Please make a choice.";
+"generalErrorMessage" = "Произошла ошибка. Повторите попытку позже.";
+"internetConnectionError" = "Проверьте подключение к интернету!";
+"parseError" = "Произошла ошибка при получении информации!";
+"selectionError" ="Пожалуйста, сделайте выбор.";
 
 // MARK: - Onboarding
-"welcome," = "Welcome,";
-"welcome" = "Welcome";
-"(skip)" = "(Skip)";
-"get_started" = "Get started!";
-"step1_text" = "Quickly book and organize an appointment";
-"step2_text" = "Video chat with your doctor from anywhere";
-"step3_text" = "Instantly view your test results and reports";
+"welcome," = "Добро пожаловать";
+"welcome" = "Добро пожаловать";
+"(skip)" = "пропускать";
+"get_started" ="Начать!";
+"step1_text" = «Быстро записаться и назначить встречу»;
+"step2_text" = «Видеочат с врачом из любой точки мира»;
+"step3_text" = "Мгновенно просматривать результаты тестирования и отчеты";
 
 // MARK: - Send SMS
-"verify_phone_text" = "Get started by verifying with your phone number.";
-"phone_number" = "Phone number";
-"accept_user_agreement" = "I Agree to the User Agreement.";
-"send_sms" = "Send SMS";
-"invalid_phone" = "Please enter a valid phone number!";
-"must_agree" = "You must confirm the user agreement!";
+"verify_phone_text" = "Начните с подтверждения по номеру телефона.";
+"phone_number" = "Номер телефона";
+"accept_user_agreement" = "Я согласен с Пользовательским соглашением.";
+"send_sms" = "Отправить смс";
+"invalid_phone" = "Пожалуйста, введите действующий телефонный номер!";
+"must_agree" = "Необходимо подтвердить пользовательское соглашение!";
 // ASM
-"send_sms_title_text" = "Get started by verifying your phone number.";
-"asm_accept_user_agreement" = "I have read and accept the User Agreement and the Information Text on the Protection of Personal Data";
-"country_code" = "Country Code";
+"send_sms_title_text" ="Начните с подтверждения номера телефона.";
+"asm_accept_user_agreement" = «Я прочитал и принимаю Пользовательское соглашение и Информационный текст о защите персональных данных»;
+"country_code" ="Код страны";
 
 // MARK: - Validate SMS
-"verify_sms" = "Verify SMS";
-"verify_mail" = "Verify Mail";
-"enter_code_text" = "Telefon numaranıza gelen sms kodunu girin";
-"enter_code_email_text" = "Enter the email code sent to your phone number";
-"sms_code" = "SMS Code";
-"validation_code" = "Validation Code";
-"resend_sms_code" = "Resend SMS Code";
-"resend_email_code" = "Resend Email Code";
-"verify" = "Verify";
-"invalid_code" = "Please enter your 6 digit SMS password!";
+"verify_sms" = «Проверить СМС»;
+"verify_mail" = «Подтвердить почту»;
+"enter_code_text" = «Введите SMS-код, отправленный на ваш номер телефона»;
+"enter_code_email_text" = "Введите код электронной почты, отправленный на ваш номер телефона";
+"sms_code" = "SMS-код";
+"validation_code" = "Код проверки";
+"resend_sms_code" =«Отправить код повторно»;
+"resend_email_code" = «Повторно отправить код электронной почты»;
+"verify" ="Проверять";
+"invalid_code" = "Пожалуйста, введите ваш 6-значный SMS-пароль!";
 //ASM
-"asm_enter_code_text" = "Verification code has been sent to the number \n%@\ .";
-"asm_enter_mail_code_text" = "Verification code has been sent to the email address at \n%@\ .";
-"asm_resend_sms_code" = "Resend";
-"asm_resend_text" = "Didn't get a password on your phone?";
+"asm_enter_code_text" ="Код подтверждения отправлен на номер \n%@\ .";
+"asm_enter_mail_code_text" = "Код подтверждения отправлен на адрес электронной почты \n%@\ .";
+"asm_resend_sms_code" = "Отправить";
+"asm_resend_text" = «Не пришел пароль на телефон?»;
 
 // MARK: - Confirm User
-"confirm_info_text" = "The number %@ you've entered , is registered to the name %@.";
-"is_your_account" = "Does this user account belong to you?";
-"yes_my_account" = "Yes, this account belongs to me.";
-"not_my_account" = "No, this account does not belong to me.";
-"deactivate_warning_message" = "%@ Other profiles associated with the phone number will be deactivated.";
-"deactivate_warning_title" = "Do you wish to continue?";
-
+"confirm_info_text" = "Введенный вами номер %@ зарегистрирован на имя %@.";
+"is_your_account" = "Эта учетная запись пользователя принадлежит вам?";
+"yes_my_account" = "Да, этот аккаунт принадлежит мне.";
+"not_my_account" = "Нет, этот аккаунт мне не принадлежит.";
+"deactivate_warning_message" = "%@ Другие профили, связанные с номером телефона, будут деактивированы.";
+"deactivate_warning_title" = "Вы хотите продолжить?";
 // MARK: - Verify User
-"verify_user" = "Confirm your profile";
-"verify_info_text" = "Enter your date of birth and your previous 6-digit user password to verify your account defined on behalf of %@.";
-"ask_forgot_password" = "Forgot password?";
-"registered_user_verify_message" = "You are registered to a different phone number with the same identity information. Please verify.";
+"verify_user" =«Подтвердить свой профиль»;
+"verify_info_text" ="Введите дату своего рождения и предыдущий 6-значный пароль пользователя, чтобы подтвердить свою учетную запись, определенную от имени %@.";
+"ask_forgot_password" ="Забыл пароль?";
+"registered_user_verify_message" = "Вы зарегистрированы на другой номер телефона с той же идентификационной информацией. Пожалуйста, подтвердите.";
 
 // MARK: - Profile
-"nationality" = "Nationality";
-"identity_no" = "Turkish Identity Number";
-"passport_no" = "Passport Number";
-"birthdate" = "Date of Birth";
-"email" = "E-Mail";
-"password" = "Password";
-"password_again" = "Password Again";
-"name" = "Name";
-"surname" = "Surname";
-"gender" = "Gender";
-"woman" = "Female";
-"man" = "Male";
-"country" = "Country";
-"city" = "City";
-"town" = "Town";
-"my_account" = "My Account";
-"account_info" = "Account Info";
-"personal_info" = "Personal Info";
-"health_card" = "Health Card";
-"cell_phone" = "Cell Phone";
-"change_password" = "Change Password";
-"blood_group" = "Blood Group";
-"height" = "Height";
-"weight" = "Weight";
-"do_you_have_chronic_diseases" = "do you have chronic diseases?";
-"do_your_family_have_chronic_diseases" = "Do you have chronic illnesses in your family history?";
-"do_you_have_allergy" = "Do you have allergy?";
-"are_you_using_drugs" = "Are there any medications you routinely use??";
-"your_account_info" = "Your Account Info";
-"logout_from_app" = "Logout from app";
-"support_center_2" = "Support Center";
-"call_center_2" = "Call Center";
+"nationality" = "Национальность";
+"identity_no" =«Турецкий идентификационный номер»;
+"passport_no" ="Номер паспорта";
+"birthdate" ="Дата рождения";
+"email" = "Эл. адрес";
+"password" = "Пароль";
+"password_again" ="Пароль снова";
+"name" = "Имя";
+"surname" = "Фамилия";
+"gender" = "Пол";
+"woman" = "Женский";
+"man" = "Мужской";
+"country" = "Страна";
+"city" = "Город";
+"town" = "Городок";
+"my_account" = "Мой счет";
+"account_info" ="Информация об аккаунте";
+"personal_info" = "Личная информация";
+"health_card" = "Медицинскую карту";
+"cell_phone" = "Сотовый телефон";
+"change_password" = "Изменить пароль";
+"blood_group" ="Группа крови";
+"height" = "Высота";
+"weight" = "Масса";
+"do_you_have_chronic_diseases" = «есть ли у вас хронические заболевания?»;
+"do_your_family_have_chronic_diseases" = «Есть ли у вас в семейном анамнезе хронические заболевания?»;
+"do_you_have_allergy" = «Есть ли у вас аллергия?»;
+"are_you_using_drugs" = «Есть ли лекарства, которые вы регулярно принимаете?»;
+"your_account_info" =«Информация о вашей учетной записи»;
+"logout_from_app" = «Выйти из приложения»;
+"support_center_2" = "Центр поддержки";
+"call_center_2" = «Колл-центр»;
 
 // MARK: - Create User
 "create_user" = "Create User";

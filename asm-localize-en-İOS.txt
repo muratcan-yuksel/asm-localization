@@ -47,7 +47,7 @@
 // MARK: - Validate SMS
 "verify_sms" = "Verify SMS";
 "verify_mail" = "Verify Mail";
-"enter_code_text" = "Telefon numaranıza gelen sms kodunu girin";
+"enter_code_text" = "Enter the SMS code sent to your phone number";
 "enter_code_email_text" = "Enter the email code sent to your phone number";
 "sms_code" = "SMS Code";
 "validation_code" = "Validation Code";
