@@ -1,0 +1,413 @@
+/*
+  Localizable.strings
+  asm
+
+  Copyright © Dijital Garaj. All rights reserved.
+*/
+
+// MARK: - Common
+"common.ok" = "Okay";
+"common.cancel" = "Cancel";
+"common.error" = "Error";
+"common.yes" = "Yes";
+"common.next" = "Next";
+"common.create" = "Create";
+"common.back" = "Back";
+"common.save" = "Save";
+"common.close" = "Close";
+"common.tsi" = Turkey local time is used.";
+
+// MARK: - General Error
+"generalErrorMessage" = "There's an error. Please try again later.";
+"internetConnectionError" = "Check your internet connection!";
+"parseError" = "An error occurred while retrieving the information!";
+"selectionError" = "Please make a choice.";
+
+// MARK: - Onboarding
+"welcome," = "Welcome,";
+"welcome" = "Welcome";
+"(skip)" = "(Skip)";
+"get_started" = "Get started!";
+"step1_text" = "Quickly book and organize an appointment";
+"step2_text" = "Video chat with your doctor from anywhere";
+"step3_text" = "Instantly view your test results and reports";
+
+// MARK: - Send SMS
+"verify_phone_text" = "Get started by verifying with your phone number.";
+"phone_number" = "Phone number";
+"accept_user_agreement" = "I Agree to the User Agreement.";
+"send_sms" = "Send SMS";
+"invalid_phone" = "Please enter a valid phone number!";
+"must_agree" = "You must confirm the user agreement!";
+// ASM
+"send_sms_title_text" = "Get started by verifying your phone number.";
+"asm_accept_user_agreement" = "I have read and accept the User Agreement and the Information Text on the Protection of Personal Data";
+"country_code" = "Country Code";
+
+// MARK: - Validate SMS
+"verify_sms" = "Verify SMS";
+"verify_mail" = "Verify Mail";
+"enter_code_text" = "Telefon numaranıza gelen sms kodunu girin";
+"enter_code_email_text" = "Enter the email code sent to your phone number";
+"sms_code" = "SMS Code";
+"validation_code" = "Validation Code";
+"resend_sms_code" = "Resend SMS Code";
+"resend_email_code" = "Resend Email Code";
+"verify" = "Verify";
+"invalid_code" = "Please enter your 6 digit SMS password!";
+//ASM
+"asm_enter_code_text" = "Verification code has been sent to the number \n%@\ .";
+"asm_enter_mail_code_text" = "Verification code has been sent to the email address at \n%@\ .";
+"asm_resend_sms_code" = "Resend";
+"asm_resend_text" = "Didn't get a password on your phone?";
+
+// MARK: - Confirm User
+"confirm_info_text" = "The number %@ you've entered , is registered to the name %@.";
+"is_your_account" = "Does this user account belong to you?";
+"yes_my_account" = "Yes, this account belongs to me.";
+"not_my_account" = "No, this account does not belong to me.";
+"deactivate_warning_message" = "%@ Other profiles associated with the phone number will be deactivated.";
+"deactivate_warning_title" = "Do you wish to continue?";
+
+// MARK: - Verify User
+"verify_user" = "Confirm your profile";
+"verify_info_text" = "Enter your date of birth and your previous 6-digit user password to verify your account defined on behalf of %@.";
+"ask_forgot_password" = "Forgot password?";
+"registered_user_verify_message" = "You are registered to a different phone number with the same identity information. Please verify.";
+
+// MARK: - Profile
+"nationality" = "Nationality";
+"identity_no" = "Turkish Identity Number";
+"passport_no" = "Passport Number";
+"birthdate" = "Date of Birth";
+"email" = "E-Mail";
+"password" = "Password";
+"password_again" = "Password Again";
+"name" = "Name";
+"surname" = "Surname";
+"gender" = "Gender";
+"woman" = "Female";
+"man" = "Male";
+"country" = "Country";
+"city" = "City";
+"town" = "Town";
+"my_account" = "My Account";
+"account_info" = "Account Info";
+"personal_info" = "Personal Info";
+"health_card" = "Health Card";
+"cell_phone" = "Cell Phone";
+"change_password" = "Change Password";
+"blood_group" = "Blood Group";
+"height" = "Height";
+"weight" = "Weight";
+"do_you_have_chronic_diseases" = "do you have chronic diseases?";
+"do_your_family_have_chronic_diseases" = "Aile bireylerinde bulunan kronik bir rahatsızlık var mı?";
+"do_you_have_allergy" = "Do you have allergy?";
+"are_you_using_drugs" = "Are there any medications you routinely use??";
+"your_account_info" = "Your Account Info";
+"logout_from_app" = "Logout from app";
+"support_center_2" = "Support Center";
+"call_center_2" = "Call Center";
+
+// MARK: - Create User
+"create_user" = "Create User";
+"create_user_info_text" = "To create a user, specify your e-mail address and 6-digit user password.";
+"start_profile_creation" = "Start profile creation";
+"invalid_email" = "Please enter a valid email!";
+"invalid_password" = "Please enter a 6 digit password!";
+"password_dont_match" = "The passwords you entered did not match!";
+"password_info_text" = "Your password must consist of 6 characters and numbers.";
+
+// MARK: - Create Profile
+"create_profile" = "Create Profile";
+"next_step" = "Next Step";
+"invalid_form" = "Please fill in all fields!";
+"create_account" = "Create Account";
+
+// MARK: - Step 1
+"cp_step1_info_text" = "You can transfer profile information by scanning your ID.";
+
+// MARK: - Step 2
+"nationality" = "Nationality";
+"change_photo" = "Change Photo";
+
+// MARK: - Location
+"invalid_identity" = "Please enter the ID number!";
+"cp_location_info_text" = "Your address information helps us to recommend health institutions closer to you.";
+"finish" = "Finish";
+"change_profile_photo" = "Change Profile Photo";
+
+// MARK: - Image Picker Actions
+"btn_cancel" = "Cancel";
+"btn_camera" = "Camera";
+"btn_gallery" = "Gallery";
+
+// MARK: - Forgot Password
+"fp_title" = "Verify Your Profile";
+"fp_profile_validate_info_text" = "Enter your information to verify your profile.";
+"change_password_success_message" = "Your password has been successfully changed.";
+"change_password_fail_message" = "Your password could not be changed!";
+
+// MARK: - New Password
+"np_title" = "Create New Password";
+"np_new_password" = "New Password";
+"np_new_password_again" = "New Password Again";
+
+// MARK: - Dashboard
+"hospital_appointment" = "Hospital Appointment";
+"video_appointment" = "Video Appointment";
+"support_center" = "Support Center";
+"appointments" = "Appointments";
+"visits" = "Visits";
+"help" = "Help";
+"pre_information" = "Preinformation";
+"update" = "Update";
+"go" = "Go";
+"hospital_match" = "Match hospitals";
+"fill_health_card" = "Fill health card";
+"good_morning" = "Good morning";
+"get_appointment" = "Get appointment";
+"control_appointment" = "Control appointment.";
+"prescription" = "Prescription";
+"prescription_detail" = "Prescription detail";
+"upcoming_appointment" = "Upcoming appointment";
+"pay" = "Pay";
+"doctor_did_not_call" = "Doctor did not call";
+"video_call_completed" = "Video call successfully completed";
+"laboratory" = "Laboratory";
+"radiology" = "Radiology";
+"your_upcoming_appointments" = "Your upcoming appointments";
+"your_past_visits" = "Your past visits
+"call_center" = "Call center";
+"shuttle_info" = "Shuttle Info";
+"open_notifications" = "Open Notifications";
+"notif_permission_text" = "Please turn on your notifications to enjoy the benefits of the application.";
+"enable_notifications" = "Enable Notifications";
+// Appointment Status
+"status_waiting" = "WAITING FOR MEETING";
+"status_completed" = "MEETING COMPLETED";
+"status_completed2" = "MEETING STARTED";
+"status_canceled" = "MEETING CANCELED";
+"status_pay" = "WAITING FOR PAYMENT";
+"status_fail" = "MEETING DID NOT HAPPEN";
+"status_waiting_hospital" = "THE APPOINTMENT IS WAITING TO OCCUR";
+// Our Distinctive Approaches
+"our_distinctive_approaches" = "Our Distinctive Approaches";
+"tumor_boards" = "Tumor Boards";
+"oncology_center" = "Oncology Center";
+"health_technologies" = "Health Technologies";
+"people_oriented_care" = "People oriented care";
+"check_up_packages" = "Check Up Packages";
+
+// MARK: - Login
+"enter_password_text" = "You can login by entering your password";
+"forgot_password" = "Forgot Password";
+"login_with_different_phone" = "Login with different phone";
+
+// MARK: - SubProfileList
+"add_new_profile" = "Add new profile";
+"you_can_add_family_members" = "You can add family members";
+
+// MARK: - Password
+"enter_info_for_profile_confirm" = "Enter your information to verify your profile.";
+"choose_verify_method" = "Choose verify method";
+
+// MARK: - New Appointment
+"get_new_appointment" = "Get New Appointment";
+"add_new_profile" = "Add New Profile";
+"who_is_the_appointment_for" = "Who are you making the appointment for?";
+"select_appointment_type" = "Select Appointment Type";
+"select_department" = "Select Department";
+"select_hospital" = "Select Hospital";
+"select_doctor" = "Select Doctor";
+"select_date" = "Select Date";
+"select_hour" = "Select Hour";
+"other_doctors" = "Other Doctors in this Department";
+"choose" = "Choose";
+"hospital" = "Hospital";
+"hospital:" = "Hospital:";
+"department" = "Department";
+"department" = "Department:";
+"doctor" = "Doctor";
+"doctor:" = "Doctor:";
+"appointment_success_message" = "Your appointment has been created successfully.";
+"appointment_owner" = "Appointment Owner";
+"appointment_type" = "Appointment Type";
+"date" = "Date";
+"note" = "Note";
+"want_add_note" = "Is there a note you would like to convey to your physician?";
+"write_note_placeholder" = "You can write your note here.";
+"delete_note" = "Delete Note";
+"examination" = "Examination";
+"note_max_count_warning" = "You can type Max. 500 characters.";
+"extra_slot_title" = "Would you like to make an appointment?";
+"extra_slot_description" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in labore et dolore magna aliqua.";
+"appointment_event_title" = "You have an appointment with %@";
+"save_event_success_message" = "Your appointment has been added to your calendar.";
+"save_event_error_message" = "Your appointment could not be added to your calendar!";
+"video_call_information_title" = "Information";
+"video_call_information_message" = "Your video calls with physicians will not be recorded and will not be shared with third parties or institutions within the principles of patient privacy. In accordance with the Personal Data Protection Law, it is not legal for our patients to record interviews and share them with third parties.";
+"for_who" = "For whom";
+
+// MARK: - Appointment List
+"empty_appointment_list_title" = "You do not have an appointment.";
+"empty_appointment_list_message" = "You can use the button below to get appointment";
+"appointment_delete_warning_message" = "Your appointment will be deleted. Do you want to continue?";
+"appointment_refund_info_title" = "Your appointment cancellation was successful. Your payment refund process has started.";
+
+// MARK: - Tabbar
+"home" = "Home";
+"other" = "Other";
+"eresults" = "Medical Results";
+
+// MARK: - EResult
+"medical_records_resuts" = "Medical Record and Results";
+"very_high_result_info" = "Critically High";
+"high_result_info" = "Reference Above Range";
+"normal_resul_info" = "Reference In Range";
+"low_result_info" = "Reference Below Range";
+"very_low_result_info" = "Critical Low";
+"click_to_see" = "Click to view";
+"result_pending" = "Waiting for Result";
+"estimated:" = "Estimated:";
+"results" = "Results";
+"show_pdf" = "View as PDF";
+"pat_warning_title" = "Your “pathology” reports are not displayed on the results display page.";
+"pat_warning_message" = "Call our call center for more information.";
+"call_support_center" = "Call Call Center";
+"empty_visit_list_title" = "You do not have a past exam.";
+"laboratory_result" = "Laboratory Result";
+
+
+
+// MARK: - Prescription
+"normal_prescription" = "NORMAL PRESCRIPTION";
+"red_prescription" = "RED PRESCRIPTION";
+"orange_prescription" = "YELLOW PRESCRIPTION";
+"purple_prescription" = "PURPLE PRESCRIPTION";
+"green_prescription" = "GREEN PRESCRIPTION";
+"optic_prescription" = "EYE PRESCRIPTION";
+// MARK: - Hospital
+"our_hospitals" = "Our Hospitals";
+"list" = "List";
+"map" = "Map";
+"closed_area" = "Closed Area";
+"week_days" = "Monday-Friday";
+"saturday" = "Saturday";
+"bed_count" = "Bed Capacity";
+"get_to_know" = "Get to know";
+"directions" = "Directions";
+"service_info" = "Service Information";
+"address_info" = "Address Information";
+"contact_info" = "Contact Information";
+"call" = "Call";
+
+"coordinates" = "Coordinates";
+"latitude" = "latitude";
+"longitude" = "Longitude";
+"patients_from_upstate" = "Our Out of City Patients";
+"patients_from_abroad" = "Patients From Abroad";
+"wire" = "wire";
+"fax" = "Fax";
+"medical_departments" = "Medical Departments";
+"our_medical_departments" = "Our Medical Departments";
+"doctors" = "Doctors";
+"our_doctors" = "Our doctors";
+"unable_to_open_map" = "Cannot Open Map.";
+"all_shuttle_routes" = "All Shuttle Routes";
+"search_shuttle_route" = "Search service route";
+"shuttle_list_warning_message" = "To use the service, you must make an appointment at 44 44 276 1 hour in advance.";
+"show_on_map" = "Show on Map";
+
+
+// MARK: - VideoCall
+
+
+"call_info_message" = "%@ wants to video call you";
+"coming_call" = "Incoming Call";
+"voice_answer" = "Voice\nAnswer";
+"video_answer" = "Video\nReply";
+"reject_call" = "Call\nReject";
+
+
+
+// MARK: - Payment
+"payment" = "Payment";
+"pay_with_credit_card" = "Pay by Credit Card";
+"name_on_card" = "Name on Card";
+"surname_on_card" = "Surname on Card";
+"card_no" = "Card Number";
+"expiry_date" = "Expiration Date";
+"cvc_no" = "CVC No";
+"approve_user_agreement" = "I Agree to User Agreement";
+"video_call_price" = "Online Call Fee";
+"total" = "Total";
+"payment_success_message" = "Your payment has been successfully made and your appointment has been created.";
+"payment_failure_message" = "Your payment failed, please try again.";
+"total_price" = "Amount Payable";
+"payment_back_warning_title" = "Are you sure you want to sign out?";
+"payment_back_warning_message" = "Your appointment request has been received. If you do not pay, your appointment will be cancelled.";
+
+
+
+// MARK: - Menu
+"logout_warning_message" = "Are you sure you want to sign out?";
+"past_visits" = "Past Exams";
+"prescriptions" = "Prescriptions";
+"import_hospital_information" = "Import Hospital Information";
+
+// MARK: - DoctorDetail
+"education" = "Education";
+"experience" = "Expertise";
+"publications" = "Publications";
+"use_filter" = "Use Filter";
+"filter_for_hospitals" = "Filter By Hospitals";
+"filter_for_departments" = "Filter by Medical Departments";
+"clear" = "Clear";
+"apply" = "Apply";
+
+
+
+// MARK: - SupportCenter
+"support_center" = "Support Center";
+"support_center_title" = "We're Listening to You";
+"support_center_message" = "We listen to your comments, suggestions and criticisms to further improve our service quality.";
+"choose_topic" = "Choose a Topic";
+"your_message" = "Your Message";
+"send" = "Send";
+"suggestion" = "Suggestion";
+"request" = "Request";
+"complaint" = "Complaint";
+"thanks" = "thanks";
+"price_info" = "Price Information";
+"about_doctor" = "About Doctor";
+"support_center_success_message" = "Your feedback has been received.";
+
+
+// MARK: - PermissionPopup
+"notif-permission-title" = "Allow notifications";
+"notif-permission-message" = "You must grant notification permission to use features such as reports, video calls, appointment reminders.";
+"gallery-permission-title" = "Grant gallery access";
+"gallery-permission-message" = "You must grant access before you can upload photos from the gallery.";
+"camera-permission-title" = "Grant camera access";
+"camera-permission-message" = "You must grant access before you can use your camera.";
+"location-permission-title" = "Grant location access";
+"location-permission-message" = "You must grant access to view the map using your location information.";
+"calendar-permission-title" = "Grant access to the calendar";
+"calendar-permission-message" = "You must grant calendar permission so that you can more easily track your appointment.";
+"mic-permission-title" = "Grant microphone access";
+"mic-permission-message" = "Microphone permission is required before you can make an online call.";
+"cam-mic-permission-title" = "Grant Camera and Microphone permissions";
+"cam-mic-permission-message" = "Permissions must be granted before you can conduct an online conversation.";
+"grant_access" = "Allow";
+"camera" = "Camera";
+"mic" = "Microphone";
+"accept" = "Accept";
+
+// MARK: - ConfirmHospital
+"confirm_hospital_page_title" = "Match Information";
+"confirm_hospital_list_title" = "Your record associated with %@ phone number could not be found.";
+"confirm_hospital_list_description" = "Additional verification is required to access the following records associated with another phone number.";
+"confirm_hospital_warning_message" = "If you don't match, you won't be able to see your past records. You can match again later.";
+"continue_without_match" = "Continue without Matching";
+
