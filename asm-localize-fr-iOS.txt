@@ -219,111 +219,129 @@
 "choose_verify_method" = "Choisir la méthode de vérification" ;
 
 // MARK: - New Appointment
-"get_new_appointment" = "Get New Appointment";
-"add_new_profile" = "Add New Profile";
-"who_is_the_appointment_for" = "Who are you making the appointment for?";
-"select_appointment_type" = "Select Appointment Type";
-"select_department" = "Select Department";
-"select_hospital" = "Select Hospital";
-"select_doctor" = "Select Doctor";
-"select_date" = "Select Date";
-"select_hour" = "Select Hour";
-"other_doctors" = "Other Doctors in this Department";
-"choose" = "Choose";
-"hospital" = "Hospital";
-"hospital:" = "Hospital:";
-"department" = "Department";
-"department" = "Department:";
-"doctor" = "Doctor";
-"doctor:" = "Doctor:";
-"appointment_success_message" = "Your appointment has been created successfully.";
-"appointment_owner" = "Appointment Owner";
-"appointment_type" = "Appointment Type";
+"get_new_appointment" = "Obtenir un nouveau rendez-vous" ;
+"add_new_profile" ="Ajouter un nouveau profil" ;
+"who_is_the_appointment_for" =« Pour qui prenez-vous rendez-vous ? » ;
+"select_appointment_type" = "Sélectionner le type de rendez-vous" ;
+"select_department" = « Sélectionner le département » ;
+"select_hospital" = "Sélectionnez l'hôpital" ;
+"select_doctor" =« Sélectionner un médecin » ;
+"select_date" = "Sélectionner une date";
+"select_hour" ="Sélectionner l'heure" ;
+"other_doctors" = « Autres médecins de ce service » ;
+"choose" = "Choisir";
+"hospital" = "Hôpital";
+"hospital:" ="Hôpital:";
+"department" ="Département";
+"department" = "Département:";
+"doctor" = "Docteur";
+"doctor:" = "Docteur:";
+"appointment_success_message" ="Votre rendez-vous a été créé avec succès.";
+"appointment_owner" = "Titulaire du rendez-vous" ;
+"appointment_type" = "Type de rendez-vous" ;
 "date" = "Date";
 "note" = "Note";
-"want_add_note" = "Is there a note you would like to convey to your physician?";
-"write_note_placeholder" = "You can write your note here.";
-"delete_note" = "Delete Note";
+"want_add_note" = « Y a-t-il une note que vous aimeriez transmettre à votre médecin ? » ;
+
+
+"write_note_placeholder" ="Vous pouvez écrire votre note ici.";
+"delete_note" = "Supprimer la note" ;
 "examination" = "Examination";
-"note_max_count_warning" = "You can type Max. 500 characters.";
-"extra_slot_title" = "Would you like to make an appointment?";
+"note_max_count_warning" = "Vous pouvez taper Max. 500 caractères.";
+
+
+"extra_slot_title" = "Souhaitez-vous prendre rendez-vous?";
+
+
 "extra_slot_description" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in labore et dolore magna aliqua.";
-"appointment_event_title" = "You have an appointment with %@";
-"save_event_success_message" = "Your appointment has been added to your calendar.";
-"save_event_error_message" = "Your appointment could not be added to your calendar!";
+"appointment_event_title" = "Vous avez rendez-vous avec %@" ;
+"save_event_success_message" ="Votre rendez-vous a été ajouté à votre calendrier.";
+
+
+"save_event_error_message" ="Votre rendez-vous n'a pas pu être ajouté à votre calendrier !" ;
+
+
 "video_call_information_title" = "Information";
-"video_call_information_message" = "Your video calls with physicians will not be recorded and will not be shared with third parties or institutions within the principles of patient privacy. In accordance with the Personal Data Protection Law, it is not legal for our patients to record interviews and share them with third parties.";
+"video_call_information_message" ="Vos appels vidéo avec des médecins ne seront pas enregistrés et ne seront pas partagés avec des tiers ou des institutions dans le respect des principes de confidentialité des patients. Conformément à la loi sur la protection des données personnelles, il n'est pas légal pour nos patients d'enregistrer des entretiens et de les partager avec des tiers." ;
 "for_who" = "For whom";
 
 // MARK: - Appointment List
-"empty_appointment_list_title" = "You do not have an appointment.";
-"empty_appointment_list_message" = "You can use the button below to get appointment";
-"appointment_delete_warning_message" = "Your appointment will be deleted. Do you want to continue?";
-"appointment_refund_info_title" = "Your appointment cancellation was successful. Your payment refund process has started.";
+"empty_appointment_list_title" = "Vous n'avez pas de rendez-vous.";
+"empty_appointment_list_message" ="Vous pouvez utiliser le bouton ci-dessous pour obtenir un rendez-vous" ;
+"appointment_delete_warning_message" = "Votre rendez-vous sera supprimé. Voulez-vous continuer ?" ;
+"appointment_refund_info_title" = "Votre annulation de rendez-vous a réussi. Votre processus de remboursement de paiement a commencé.";
 
 // MARK: - Tabbar
-"home" = "Home";
-"other" = "Other";
-"eresults" = "Medical Results";
+"home" = "Maison";
+"other" = "L'autre";
+"eresults" ="Résultats médicaux" ;
+
+
 
 // MARK: - EResult
-"medical_records_resuts" = "Medical Record and Results";
-"very_high_result_info" = "Critically High";
-"high_result_info" = "Reference Above Range";
-"normal_resul_info" = "Reference In Range";
-"low_result_info" = "Reference Below Range";
-"very_low_result_info" = "Critical Low";
-"click_to_see" = "Click to view";
-"result_pending" = "Waiting for Result";
-"estimated:" = "Estimated:";
-"results" = "Results";
-"show_pdf" = "View as PDF";
-"pat_warning_title" = "Your “pathology” reports are not displayed on the results display page.";
-"pat_warning_message" = "Call our call center for more information.";
-"call_support_center" = "Call Call Center";
-"empty_visit_list_title" = "You do not have a past exam.";
-"laboratory_result" = "Laboratory Result";
+"medical_records_resuts" =« Dossier médical et résultats » ;
+"very_high_result_info" = "Critiquement élevé" ;
+"high_result_info" = "Référence au-dessus de la plage" ;
+"normal_resul_info" = "Référence dans la plage" ;
+"low_result_info" = "Référence inférieure à la plage" ;
+"very_low_result_info" = "Critique bas" ;
+"click_to_see" = "Clique pour voir";
+"result_pending" ="En attente de résultat" ;
+"estimated:" = "Estimé:";
+"results" = "Resultats";
+"show_pdf" = "Afficher en PDF" ;
+"pat_warning_title" ="Vos rapports "pathologie" ne s'affichent pas sur la page d'affichage des résultats.";
+"pat_warning_message" = "Appelez notre centre d'appels pour plus d'informations.";
+"call_support_center" =« "Appeler Centre d'appels » ;
+"empty_visit_list_title" = "Vous n'avez pas d'examen passé.";
+"laboratory_result" = "Résultat de laboratoire" ;
 
 
 
 // MARK: - Prescription
-"normal_prescription" = "NORMAL PRESCRIPTION";
-"red_prescription" = "RED PRESCRIPTION";
-"orange_prescription" = "YELLOW PRESCRIPTION";
-"purple_prescription" = "PURPLE PRESCRIPTION";
-"green_prescription" = "GREEN PRESCRIPTION";
-"optic_prescription" = "EYE PRESCRIPTION";
+"normal_prescription" = « PRESCRIPTION NORMALE » ;
+"red_prescription" =« ORDONNANCE ROUGE » ;
+"orange_prescription" =  « ORDONNANCE Orange » ;
+"purple_prescription" = « ORDONNANCE VIOLET » ;
+"green_prescription" = « ORDONNANCE VERT » ;
+"optic_prescription" =« ORDONNANCE OCULAIRE » ;
 // MARK: - Hospital
-"our_hospitals" = "Our Hospitals";
-"list" = "List";
-"map" = "Map";
-"closed_area" = "Closed Area";
-"week_days" = "Monday-Friday";
-"saturday" = "Saturday";
-"bed_count" = "Bed Capacity";
-"get_to_know" = "Get to know";
-"directions" = "Directions";
-"service_info" = "Service Information";
-"address_info" = "Address Information";
-"contact_info" = "Contact Information";
-"call" = "Call";
+"our_hospitals" = « Nos hôpitaux » ;
+"list" = "Liste";
+"map" = "Carte";
+"closed_area" ="Zone fermée" ;
+"week_days" = "Lundi vendredi";
+"saturday" = "Samedi";
+"bed_count" = « Capacité en lits » ;
+"get_to_know" ="Faire connaissance";
+"directions" = "Les directions";
+"service_info" ="Des informations de service";
+"address_info" = « Informations sur l'adresse » ;
+"contact_info" ="Coordonnées";
+"call" = "Appel";
 
-"coordinates" = "Coordinates";
+"coordinates" = "Coordonnés";
 "latitude" = "latitude";
 "longitude" = "Longitude";
-"patients_from_upstate" = "Our Out of City Patients";
-"patients_from_abroad" = "Patients From Abroad";
-"wire" = "wire";
+"patients_from_upstate" = "Nos patients hors de la ville" ;
+"patients_from_abroad" = "Patients de l'étranger" ;
+"wire" = "fil";
 "fax" = "Fax";
-"medical_departments" = "Medical Departments";
-"our_medical_departments" = "Our Medical Departments";
-"doctors" = "Doctors";
-"our_doctors" = "Our doctors";
-"unable_to_open_map" = "Cannot Open Map.";
-"all_shuttle_routes" = "All Shuttle Routes";
-"search_shuttle_route" = "Search service route";
-"shuttle_list_warning_message" = "To use the service, you must make an appointment at 44 44 276 1 hour in advance.";
-"show_on_map" = "Show on Map";
+"medical_departments" ="Services médicaux" ;
+"our_medical_departments" = « Nos services médicaux » ;
+"doctors" = "Médecins";
+"our_doctors" = "Nos Médecins";
+"unable_to_open_map" = "Impossible d'ouvrir la carte.";
+
+
+"all_shuttle_routes" ="Tous les itinéraires de navette" ;
+"search_shuttle_route" ="Rechercher l'itinéraire du service" ;
+"shuttle_list_warning_message" = "Pour utiliser le service, vous devez prendre rendez-vous au 44 44 276 1 heure à l'avance.";
+
+
+"show_on_map" = "Afficher sur la carte" ;
+
+
 
 
 // MARK: - VideoCall
