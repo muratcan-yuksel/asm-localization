@@ -18,201 +18,205 @@
 "common.tsi" = L'heure locale de la Turquie est utilisée.";
 
 // MARK: - General Error
-"generalErrorMessage" = "Il y a une erreur. Veuillez réessayer plus tard.
-
-.";
-"internetConnectionError" = "Check your internet connection!";
-"parseError" = "An error occurred while retrieving the information!";
-"selectionError" = "Please make a choice.";
+"generalErrorMessage" = "Il y a une erreur. Veuillez réessayer plus tard.";
+"internetConnectionError" = "Vérifiez votre connection internet!";
+"parseError" = "Une erreur s'est produite lors de la récupération des informations !";
+"selectionError" = "Veuillez faire un choix.";
 
 // MARK: - Onboarding
-"welcome," = "Welcome,";
-"welcome" = "Welcome";
-"(skip)" = "(Skip)";
-"get_started" = "Get started!";
-"step1_text" = "Quickly book and organize an appointment";
-"step2_text" = "Video chat with your doctor from anywhere";
-"step3_text" = "Instantly view your test results and reports";
+"welcome," = "Bienvenu"
+"welcome" = "Bienvenu";
+"(skip)" = "(Sauter";
+"get_started" = "Commencer!";
+"step1_text" = "Réservez et organisez rapidement un rendez-vous";
+"step2_text" = "Chattez en vidéo avec votre médecin où que vous soyez";
+"step3_text" = "Visualisez instantanément vos résultats de test et vos rapports";
 
 // MARK: - Send SMS
-"verify_phone_text" = "Get started by verifying with your phone number.";
-"phone_number" = "Phone number";
-"accept_user_agreement" = "I Agree to the User Agreement.";
-"send_sms" = "Send SMS";
-"invalid_phone" = "Please enter a valid phone number!";
-"must_agree" = "You must confirm the user agreement!";
+"verify_phone_text" = "Commencez par vérifier avec votre numéro de téléphone.";
+"phone_number" = "Numéro de téléphone";
+"accept_user_agreement" = "J'accepte les conditions d'utilisation.";
+"send_sms" = "Envoyer un SMS";
+"invalid_phone" = "s'il vous plaît entrer un numéro de téléphone valide!";
+"must_agree" = "Vous devez confirmer l'accord d'utilisation!";
 // ASM
-"send_sms_title_text" = "Get started by verifying your phone number.";
-"asm_accept_user_agreement" = "I have read and accept the User Agreement and the Information Text on the Protection of Personal Data";
-"country_code" = "Country Code";
+"send_sms_title_text" = "Commencez par valider votre numéro de téléphone.";
+"asm_accept_user_agreement" = "J'ai lu et j'accepte les Conditions d'utilisation et le Texte d'information sur la protection des données personnelles";
+"country_code" = "Code postal";
 
 // MARK: - Validate SMS
-"verify_sms" = "Verify SMS";
-"verify_mail" = "Verify Mail";
+"verify_sms" = "Verifier SMS";
+"verify_mail" = "Verifier Mail";
 "enter_code_text" = "Telefon numaranıza gelen sms kodunu girin";
-"enter_code_email_text" = "Enter the email code sent to your phone number";
-"sms_code" = "SMS Code";
-"validation_code" = "Validation Code";
-"resend_sms_code" = "Resend SMS Code";
-"resend_email_code" = "Resend Email Code";
+"enter_code_email_text" = "Entrez le code e-mail envoyé à votre numéro de téléphoner";
+"sms_code" = "Code SMS ";
+"validation_code" = "Code de Validation";
+"resend_sms_code" = "Renvoyer le code SMS";
+"resend_email_code" = "Renvoyer le code Email";
 "verify" = "Verify";
-"invalid_code" = "Please enter your 6 digit SMS password!";
+"invalid_code" = "Veuillez entrer votre mot de passe SMS à 6 chiffres!";
 //ASM
-"asm_enter_code_text" = "Verification code has been sent to the number \n%@\ .";
-"asm_enter_mail_code_text" = "Verification code has been sent to the email address at \n%@\ .";
-"asm_resend_sms_code" = "Resend";
-"asm_resend_text" = "Didn't get a password on your phone?";
+"asm_enter_code_text" = "Le code de vérification a été envoyé au numéro \n%@\ .";
+"asm_enter_mail_code_text" = "Le code de vérification a été envoyé à l'adresse e-mail à \n%@\ .";
+"asm_resend_sms_code" = "Renvoyer";
+"asm_resend_text" = "Vous n'avez pas obtenu de mot de passe sur votre téléphone?";
 
 // MARK: - Confirm User
-"confirm_info_text" = "The number %@ you've entered , is registered to the name %@.";
-"is_your_account" = "Does this user account belong to you?";
-"yes_my_account" = "Yes, this account belongs to me.";
-"not_my_account" = "No, this account does not belong to me.";
-"deactivate_warning_message" = "%@ Other profiles associated with the phone number will be deactivated.";
-"deactivate_warning_title" = "Do you wish to continue?";
+"confirm_info_text" = "Le numéro %@ que vous avez saisi est enregistré sous le nom %@.";
+"is_your_account" = "Ce compte utilisateur vous appartient-il ?";
+"yes_my_account" = "Oui, ce compte m'appartient.";
+"not_my_account" = "Non, ce compte ne m'appartient pas.";
+"deactivate_warning_message" = "%@ Les autres profils associés au numéro de téléphone seront désactivés.";
+"deactivate_warning_title" = "Souhaitez-vous continuer?";
 
 // MARK: - Verify User
-"verify_user" = "Confirm your profile";
-"verify_info_text" = "Enter your date of birth and your previous 6-digit user password to verify your account defined on behalf of %@.";
-"ask_forgot_password" = "Forgot password?";
-"registered_user_verify_message" = "You are registered to a different phone number with the same identity information. Please verify.";
+"verify_user" = "Confirmez votre profil";
+"verify_info_text" = "Entrez votre date de naissance et votre ancien mot de passe utilisateur à 6 chiffres pour vérifier votre compte défini au nom de %@.";
+"ask_forgot_password" = "mot de passe oublié?";
+"registered_user_verify_message" = "Vous êtes inscrit à un numéro de téléphone différent avec les mêmes informations d'identité. Veuillez vérifier.";
 
 // MARK: - Profile
-"nationality" = "Nationality";
-"identity_no" = "Turkish Identity Number";
-"passport_no" = "Passport Number";
-"birthdate" = "Date of Birth";
+"nationality" = "Nationalité";
+"identity_no" = "Numéro d'identité turc";
+"passport_no" = "Numéro de passeport";
+"birthdate" = "Date de naissance";
 "email" = "E-Mail";
-"password" = "Password";
-"password_again" = "Password Again";
-"name" = "Name";
-"surname" = "Surname";
-"gender" = "Gender";
-"woman" = "Female";
-"man" = "Male";
-"country" = "Country";
-"city" = "City";
-"town" = "Town";
-"my_account" = "My Account";
-"account_info" = "Account Info";
-"personal_info" = "Personal Info";
-"health_card" = "Health Card";
-"cell_phone" = "Cell Phone";
-"change_password" = "Change Password";
-"blood_group" = "Blood Group";
-"height" = "Height";
-"weight" = "Weight";
-"do_you_have_chronic_diseases" = "do you have chronic diseases?";
-"do_your_family_have_chronic_diseases" = "Aile bireylerinde bulunan kronik bir rahatsızlık var mı?";
-"do_you_have_allergy" = "Do you have allergy?";
-"are_you_using_drugs" = "Are there any medications you routinely use??";
-"your_account_info" = "Your Account Info";
-"logout_from_app" = "Logout from app";
-"support_center_2" = "Support Center";
-"call_center_2" = "Call Center";
+"password" ="Mot de passe";
+"password_again" = "Mot de passe à nouveau" ;
+"name" = "Nom";
+"surname" = "Nom de famille";
+"gender" = "Le genre";
+"woman" = "Femme";
+"man" = "Homme";
+"country" = "Le Pays";
+"city" = "La ville";
+"town" = "Le region";
+"my_account" = "Mon compte";
+"account_info" ="Informations de compte";
+"personal_info" = "Informations personnelles";
+"health_card" = "Carte de santé";
+"cell_phone" = "Téléphone portable";
+"change_password" = "Changer le mot de passe";
+"blood_group" = "Groupe sanguin";
+"height" = "La Taille";
+"weight" = "Le Poids";
+"do_you_have_chronic_diseases" = "Avez-vous des maladies chroniques ?" ;
+"do_your_family_have_chronic_diseases" = « Avez-vous des maladies chroniques dans votre histoire familiale ? » ;
+"do_you_have_allergy" ="Êtes-vous allergique ?" ;
+"are_you_using_drugs" = « Y a-t-il des médicaments que vous utilisez régulièrement ? » ;
+"your_account_info" = "Vos informations de compte" ;
+"logout_from_app" = "Se déconnecter de l'application" ;
+"support_center_2" ="Centre de soutien";
+"call_center_2" ="Centre d'appel";
 
 // MARK: - Create User
-"create_user" = "Create User";
-"create_user_info_text" = "To create a user, specify your e-mail address and 6-digit user password.";
-"start_profile_creation" = "Start profile creation";
-"invalid_email" = "Please enter a valid email!";
-"invalid_password" = "Please enter a 6 digit password!";
-"password_dont_match" = "The passwords you entered did not match!";
-"password_info_text" = "Your password must consist of 6 characters and numbers.";
+"create_user" = "Créer un utilisateur";
+"create_user_info_text" ="Pour créer un utilisateur, indiquez votre adresse e-mail et votre mot de passe utilisateur à 6 chiffres.";
+"start_profile_creation" ="Démarrer la création du profil" ;
+"invalid_email" ="Veuillez saisir une adresse e-mail valide !" ;
+"invalid_password" = "Veuillez saisir un mot de passe à 6 chiffres !" ;
+"password_dont_match" ="Le mot de passe que vous avez entré ne correspond pas!";
+"password_info_text" = "Votre mot de passe doit être composé de 6 caractères et chiffres.";
 
 // MARK: - Create Profile
-"create_profile" = "Create Profile";
-"next_step" = "Next Step";
-"invalid_form" = "Please fill in all fields!";
-"create_account" = "Create Account";
+"create_profile" = "Créer un profil";
+"next_step" = "L'étape suivante";
+"invalid_form" = "Merci de remplir tous les champs!";
+"create_account" = "Créer un compte";
 
 // MARK: - Step 1
-"cp_step1_info_text" = "You can transfer profile information by scanning your ID.";
+"cp_step1_info_text" ="Vous pouvez transférer des informations de profil en scannant votre ID.";
 
 // MARK: - Step 2
-"nationality" = "Nationality";
-"change_photo" = "Change Photo";
+"nationality" = "Nationalité";
+"change_photo" = "Changer la photo";
 
 // MARK: - Location
-"invalid_identity" = "Please enter the ID number!";
-"cp_location_info_text" = "Your address information helps us to recommend health institutions closer to you.";
-"finish" = "Finish";
-"change_profile_photo" = "Change Profile Photo";
+"invalid_identity" = "Veuillez saisir le numéro d'identification !" ;
+"cp_location_info_text" ="Vos informations d'adresse nous aident à vous recommander des établissements de santé plus proches de vous.";
+"finish" = "Finir";
+"change_profile_photo" = "Modifier la photo de profil" ;
 
 // MARK: - Image Picker Actions
-"btn_cancel" = "Cancel";
-"btn_camera" = "Camera";
-"btn_gallery" = "Gallery";
+"btn_cancel" = "Annuler";
+"btn_camera" = "Caméra";
+"btn_gallery" = "Galerie";
 
 // MARK: - Forgot Password
-"fp_title" = "Verify Your Profile";
-"fp_profile_validate_info_text" = "Enter your information to verify your profile.";
-"change_password_success_message" = "Your password has been successfully changed.";
-"change_password_fail_message" = "Your password could not be changed!";
+"fp_title" = « Vérifiez votre profil » ;
+"fp_profile_validate_info_text" = "Entrez vos informations pour vérifier votre profil.";
+"change_password_success_message" = "Votre mot de passe a été changé avec succès.";
+"change_password_fail_message" = "Votre mot de passe n'a pas pu être modifié !" ;
 
 // MARK: - New Password
-"np_title" = "Create New Password";
-"np_new_password" = "New Password";
-"np_new_password_again" = "New Password Again";
+"np_title" ="Créer un nouveau mot de passe" ;
+"np_new_password" ="Nouveau mot de passe";
+"np_new_password_again" = "Retapez le nouveau mot de passe";
 
 // MARK: - Dashboard
-"hospital_appointment" = "Hospital Appointment";
-"video_appointment" = "Video Appointment";
-"support_center" = "Support Center";
-"appointments" = "Appointments";
-"visits" = "Visits";
-"help" = "Help";
-"pre_information" = "Preinformation";
-"update" = "Update";
-"go" = "Go";
-"hospital_match" = "Match hospitals";
-"fill_health_card" = "Fill health card";
-"good_morning" = "Good morning";
-"get_appointment" = "Get appointment";
-"control_appointment" = "Control appointment.";
+"hospital_appointment" = "Rendez-vous à l'hôpital" ;
+"video_appointment" = "Rendez-vous vidéo" ;
+"support_center" = "Centre de soutien";
+"appointments" = "Nominations" ;
+"visits" = " Visites " ;
+"help" = "Aider";
+"pre_information" = "Préinformation";
+"update" = "Mise à jour";
+"go" = "Vas-y";
+"hospital_match" = « Faites correspondre les hôpitaux » ;
+"fill_health_card" = « Remplir la carte de santé » ;
+"good_morning" = "Bonjour";
+"get_appointment" = "Obtenir un rendez-vous" ;
+"control_appointment" = "Controle votre rendez-vous.";
 "prescription" = "Prescription";
-"prescription_detail" = "Prescription detail";
-"upcoming_appointment" = "Upcoming appointment";
-"pay" = "Pay";
-"doctor_did_not_call" = "Doctor did not call";
-"video_call_completed" = "Video call successfully completed";
-"laboratory" = "Laboratory";
-"radiology" = "Radiology";
-"your_upcoming_appointments" = "Your upcoming appointments";
-"your_past_visits" = "Your past visits
-"call_center" = "Call center";
-"shuttle_info" = "Shuttle Info";
-"open_notifications" = "Open Notifications";
-"notif_permission_text" = "Please turn on your notifications to enjoy the benefits of the application.";
-"enable_notifications" = "Enable Notifications";
+"prescription_detail" = "Détail de l'ordonnance" ;
+"upcoming_appointment" = « Rendez-vous à venir » ;
+"pay" = "Payer";
+"doctor_did_not_call" ="Le docteur n'a pas appelé" ;
+"video_call_completed" ="Appel vidéo terminé avec succès" ;
+"laboratory" = "Laboratoire";
+"radiology" = "Radiologie";
+"your_upcoming_appointments" = « Vos prochains rendez-vous » ;
+"your_past_visits" = « Vos visites passées » ;
+"call_center" ="Centre d'appel";
+"shuttle_info" = "Info navette" ;
+"open_notifications" = "Ouvrir les notifications" ;
+"notif_permission_text" ="Veuillez activer vos notifications pour profiter des avantages de l'application.";
+"enable_notifications" = "Activer les notifications";
 // Appointment Status
-"status_waiting" = "WAITING FOR MEETING";
-"status_completed" = "MEETING COMPLETED";
-"status_completed2" = "MEETING STARTED";
-"status_canceled" = "MEETING CANCELED";
-"status_pay" = "WAITING FOR PAYMENT";
-"status_fail" = "MEETING DID NOT HAPPEN";
-"status_waiting_hospital" = "THE APPOINTMENT IS WAITING TO OCCUR";
+"status_waiting" = "EN ATTENTE DE RENCONTRE" ;
+"status_completed" = "RÉUNION TERMINÉE" ;
+"status_completed2" = "RÉUNION COMMENCÉE" ;
+"status_canceled" = « RÉUNION ANNULÉE » ;
+"status_pay" = "EN ATTENTE DE PAIEMENT";
+"status_fail" = "LA RÉUNION N'A PAS EU LIEU" ;
+"status_waiting_hospital" = « LE RENDEZ-VOUS EST EN ATTENTE » ;
 // Our Distinctive Approaches
-"our_distinctive_approaches" = "Our Distinctive Approaches";
-"tumor_boards" = "Tumor Boards";
-"oncology_center" = "Oncology Center";
-"health_technologies" = "Health Technologies";
-"people_oriented_care" = "People oriented care";
-"check_up_packages" = "Check Up Packages";
+"our_distinctive_approaches" = "Nos approches distinctives" ;
+"tumor_boards" = "Conseils des tumeurs" ;
+"oncology_center" = « Centre d'oncologie » ;
+"health_technologies" = « Technologies de la santé » ;
+"people_oriented_care" = "Soins axés sur les personnes" ;
+"check_up_packages" = « Vérifier les forfaits » ;
+
+
 
 // MARK: - Login
-"enter_password_text" = "You can login by entering your password";
-"forgot_password" = "Forgot Password";
-"login_with_different_phone" = "Login with different phone";
+"enter_password_text" = "Vous pouvez vous connecter en saisissant votre mot de passe" ;
+"forgot_password" = "Mot de passe oublié";
+
+
+"login_with_different_phone" ="Connexion avec un autre téléphone" ;
+
+
 
 // MARK: - SubProfileList
-"add_new_profile" = "Add new profile";
-"you_can_add_family_members" = "You can add family members";
+"add_new_profile" ="Ajouter un nouveau profil" ;
+"you_can_add_family_members" ="Vous pouvez ajouter des membres de la famille" ;
 
 // MARK: - Password
-"enter_info_for_profile_confirm" = "Enter your information to verify your profile.";
-"choose_verify_method" = "Choose verify method";
+"enter_info_for_profile_confirm" = "Entrez vos informations pour vérifier votre profil.";
+"choose_verify_method" = "Choisir la méthode de vérification" ;
 
 // MARK: - New Appointment
 "get_new_appointment" = "Get New Appointment";

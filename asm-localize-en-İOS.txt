@@ -101,7 +101,7 @@
 "height" = "Height";
 "weight" = "Weight";
 "do_you_have_chronic_diseases" = "do you have chronic diseases?";
-"do_your_family_have_chronic_diseases" = "Aile bireylerinde bulunan kronik bir rahatsızlık var mı?";
+"do_your_family_have_chronic_diseases" = "Do you have chronic illnesses in your family history?";
 "do_you_have_allergy" = "Do you have allergy?";
 "are_you_using_drugs" = "Are there any medications you routinely use??";
 "your_account_info" = "Your Account Info";
