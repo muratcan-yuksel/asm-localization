@@ -347,92 +347,92 @@
 // MARK: - VideoCall
 
 
-"call_info_message" = "%@ wants to video call you";
-"coming_call" = "Incoming Call";
-"voice_answer" = "Voice\nAnswer";
-"video_answer" = "Video\nReply";
-"reject_call" = "Call\nReject";
+"call_info_message" = "%@ veut vous appeler par vidéo";
+"coming_call" = "Appel entrant";
+"voice_answer" ="Réponse\nVocale" ;
+"video_answer" = "Vidéo\nRépondre" ;
+"reject_call" = "Appel\nRejeter" ;
+
+
 
 
 
 // MARK: - Payment
-"payment" = "Payment";
-"pay_with_credit_card" = "Pay by Credit Card";
-"name_on_card" = "Name on Card";
-"surname_on_card" = "Surname on Card";
-"card_no" = "Card Number";
-"expiry_date" = "Expiration Date";
+"payment" = "Paiement";
+"pay_with_credit_card" ="Payer par carte de crédit";
+"name_on_card" = "Nom sur la carte";
+"surname_on_card" = "Nom de famille sur la carte" ;
+"card_no" = "Numéro de carte";
+"expiry_date" ="Date d'expiration";
 "cvc_no" = "CVC No";
-"approve_user_agreement" = "I Agree to User Agreement";
-"video_call_price" = "Online Call Fee";
-"total" = "Total";
-"payment_success_message" = "Your payment has been successfully made and your appointment has been created.";
-"payment_failure_message" = "Your payment failed, please try again.";
-"total_price" = "Amount Payable";
-"payment_back_warning_title" = "Are you sure you want to sign out?";
-"payment_back_warning_message" = "Your appointment request has been received. If you do not pay, your appointment will be cancelled.";
-
-
+"approve_user_agreement" = « J'accepte les conditions d'utilisation » ;
+"video_call_price" = "Frais d'appel en ligne" ;
+"total" = "Totale";
+"payment_success_message" ="Votre paiement a été effectué avec succès et votre rendez-vous a été créé.";
+"payment_failure_message" = "Votre paiement a échoué, veuillez réessayer.";
+"total_price" = "Montant payable";
+"payment_back_warning_title" = "Êtes-vous certain de vouloir vous déconnecter?";
+"payment_back_warning_message" = "Votre demande de rendez-vous a été reçue. Si vous ne payez pas, votre rendez-vous sera annulé.";
 
 // MARK: - Menu
-"logout_warning_message" = "Are you sure you want to sign out?";
-"past_visits" = "Past Exams";
+"logout_warning_message" = "Êtes-vous certain de vouloir vous déconnecter?";
+"past_visits" ="Examens passés" ;
 "prescriptions" = "Prescriptions";
-"import_hospital_information" = "Import Hospital Information";
+"import_hospital_information" = « Importer des informations sur l'hôpital » ;
 
 // MARK: - DoctorDetail
 "education" = "Education";
 "experience" = "Expertise";
 "publications" = "Publications";
-"use_filter" = "Use Filter";
-"filter_for_hospitals" = "Filter By Hospitals";
-"filter_for_departments" = "Filter by Medical Departments";
-"clear" = "Clear";
-"apply" = "Apply";
+"use_filter" = "Utiliser le filtre" ;
+"filter_for_hospitals" = "Filtrer par Hôpitaux" ;
+"filter_for_departments" =« Filtrer par départements médicaux » ;
+"clear" = "Dégager";
+"apply" = "Appliquer";
 
 
 
 // MARK: - SupportCenter
-"support_center" = "Support Center";
-"support_center_title" = "We're Listening to You";
-"support_center_message" = "We listen to your comments, suggestions and criticisms to further improve our service quality.";
-"choose_topic" = "Choose a Topic";
-"your_message" = "Your Message";
-"send" = "Send";
-"suggestion" = "Suggestion";
-"request" = "Request";
-"complaint" = "Complaint";
-"thanks" = "thanks";
-"price_info" = "Price Information";
-"about_doctor" = "About Doctor";
-"support_center_success_message" = "Your feedback has been received.";
+"support_center" = "Centre de soutien";
+"support_center_title" = "Nous vous écoutons" ;
+"support_center_message" = "Nous écoutons vos commentaires, suggestions et critiques pour améliorer encore notre qualité de service.";
+"choose_topic" = "Choisir un sujet";
+"your_message" = "Votre message";
+"send" = "Envoyer";
+"suggestion" = "Les Suggestions";
+"request" = "Demande";
+"complaint" = "Réclamation" ;
+"thanks" = "Merci";
+"price_info" = « Informations sur les prix » ;
+"about_doctor" = "À propos du docteur" ;
+"support_center_success_message" = "Vos commentaires ont été reçus.";
 
 
 // MARK: - PermissionPopup
-"notif-permission-title" = "Allow notifications";
-"notif-permission-message" = "You must grant notification permission to use features such as reports, video calls, appointment reminders.";
-"gallery-permission-title" = "Grant gallery access";
-"gallery-permission-message" = "You must grant access before you can upload photos from the gallery.";
-"camera-permission-title" = "Grant camera access";
-"camera-permission-message" = "You must grant access before you can use your camera.";
-"location-permission-title" = "Grant location access";
-"location-permission-message" = "You must grant access to view the map using your location information.";
-"calendar-permission-title" = "Grant access to the calendar";
-"calendar-permission-message" = "You must grant calendar permission so that you can more easily track your appointment.";
-"mic-permission-title" = "Grant microphone access";
-"mic-permission-message" = "Microphone permission is required before you can make an online call.";
-"cam-mic-permission-title" = "Grant Camera and Microphone permissions";
-"cam-mic-permission-message" = "Permissions must be granted before you can conduct an online conversation.";
-"grant_access" = "Allow";
+"notif-permission-title" = "Autoriser les notifications" ;
+"notif-permission-message" = "Vous devez accorder l'autorisation de notification pour utiliser des fonctionnalités telles que les rapports, les appels vidéo, les rappels de rendez-vous." ;
+"gallery-permission-title" = "Accorder l'accès à la galerie" ;
+"gallery-permission-message" = "Vous devez autoriser l'accès avant de pouvoir télécharger des photos depuis la galerie.";
+"camera-permission-title" = "Accorder l'accès à la caméra" ;
+"camera-permission-message" = "Vous devez autoriser l'accès avant de pouvoir utiliser votre caméra.";
+"location-permission-title" = "Accorder l'accès à l'emplacement" ;
+"location-permission-message" = "Vous devez accorder l'accès pour afficher la carte en utilisant vos informations de localisation.";
+"calendar-permission-title" = "Accorder l'accès au calendrier" ;
+"calendar-permission-message" ="Vous devez accorder une autorisation de calendrier afin de pouvoir suivre plus facilement votre rendez-vous.";
+"mic-permission-title" = "Accorder l'accès au microphone" ;
+"mic-permission-message" = "L'autorisation du microphone est requise avant de pouvoir passer un appel en ligne.";
+"cam-mic-permission-title" = "Accorder les autorisations de caméra et de microphone" ;
+"cam-mic-permission-message" = "Les autorisations doivent être accordées avant de pouvoir mener une conversation en ligne.";
+"grant_access" = "Permettre";
 "camera" = "Camera";
 "mic" = "Microphone";
-"accept" = "Accept";
+"accept" = "Accepter";
 
 // MARK: - ConfirmHospital
-"confirm_hospital_page_title" = "Match Information";
-"confirm_hospital_list_title" = "Your record associated with %@ phone number could not be found.";
-"confirm_hospital_list_description" = "Additional verification is required to access the following records associated with another phone number.";
-"confirm_hospital_warning_message" = "If you don't match, you won't be able to see your past records. You can match again later.";
-"continue_without_match" = "Continue without Matching";
+"confirm_hospital_page_title" = « Informations sur le match » ;
+"confirm_hospital_list_title" = "Votre enregistrement associé au numéro de téléphone %@ est introuvable.";
+"confirm_hospital_list_description" = "Une vérification supplémentaire est requise pour accéder aux enregistrements suivants associés à un autre numéro de téléphone.";
+"confirm_hospital_warning_message" = "Si vous ne correspondez pas, vous ne pourrez pas voir vos anciens records. Vous pourrez refaire correspondre plus tard.";
+"continue_without_match" = "Continuer sans correspondance" ;
 
 
