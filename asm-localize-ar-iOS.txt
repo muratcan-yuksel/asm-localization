@@ -111,304 +111,300 @@
 "call_center_2" ="مركز الاتصال"؛
 
 // MARK: - Create User
-"create_user" = "Create User";
-"create_user_info_text" = "To create a user, specify your e-mail address and 6-digit user password.";
-"start_profile_creation" = "Start profile creation";
-"invalid_email" = "Please enter a valid email!";
-"invalid_password" = "Please enter a 6 digit password!";
-"password_dont_match" = "The passwords you entered did not match!";
-"password_info_text" = "Your password must consist of 6 characters and numbers.";
+"create_user" ="إنشاء مستخدم" ؛
+"create_user_info_text" = "لإنشاء مستخدم ، حدد عنوان بريدك الإلكتروني وكلمة مرور المستخدم المكونة من 6 أرقام." ؛
+"start_profile_creation" = "بدء إنشاء ملف التعريف" ؛
+"invalid_email" = "يرجى إدخال البريد الإلكتروني الصحيح!"؛
+"invalid_password" = "الرجاء إدخال كلمة مرور مكونة من 6 أرقام!" ؛
+"password_dont_match" = "الرقم السري الذي ادخلته لا يتطابق!"؛
+"password_info_text" = "كلمة مرورك يجب أن تتكون من 6 أحرف وأرقام." ؛
 
 // MARK: - Create Profile
-"create_profile" = "Create Profile";
-"next_step" = "Next Step";
-"invalid_form" = "Please fill in all fields!";
-"create_account" = "Create Account";
+"create_profile" = "إنشاء ملف تعريف" ؛
+"next_step" = "الخطوة التالية"؛
+"invalid_form" ="يرجى تعبئة جميع الحقول!"؛
+"create_account" = "إصنع حساب"؛
 
 // MARK: - Step 1
-"cp_step1_info_text" = "You can transfer profile information by scanning your ID.";
+"cp_step1_info_text" = "يمكنك نقل معلومات ملف التعريف عن طريق مسح هويتك." ؛
 
 // MARK: - Step 2
-"nationality" = "Nationality";
-"change_photo" = "Change Photo";
+"nationality" ="جنسية"؛
+"change_photo" = "غير الصوره"؛
 
 // MARK: - Location
-"invalid_identity" = "Please enter the ID number!";
-"cp_location_info_text" = "Your address information helps us to recommend health institutions closer to you.";
-"finish" = "Finish";
-"change_profile_photo" = "Change Profile Photo";
+"invalid_identity" ="الرجاء إدخال رقم الهوية!" ؛
+"cp_location_info_text" = "تساعدنا معلومات عنوانك في التوصية بالمؤسسات الصحية الأقرب إليك." ؛
+"finish" = "إنهاء"؛
+"change_profile_photo" = "تغيير صورة الملف الشخصي" ؛
 
 // MARK: - Image Picker Actions
-"btn_cancel" = "Cancel";
-"btn_camera" = "Camera";
-"btn_gallery" = "Gallery";
+"btn_cancel" ="يلغي"؛
+"btn_camera" = "آلة تصوير"؛
+"btn_gallery" = "صالة عرض"؛
 
 // MARK: - Forgot Password
-"fp_title" = "Verify Your Profile";
-"fp_profile_validate_info_text" = "Enter your information to verify your profile.";
-"change_password_success_message" = "Your password has been successfully changed.";
-"change_password_fail_message" = "Your password could not be changed!";
+"fp_title" = "تحقق من ملفك الشخصي" ؛
+"fp_profile_validate_info_text" = "أدخل معلوماتك للتحقق من ملفك الشخصي." ؛
+"change_password_success_message" = "كلمة السر الخاصة بك تم تغييرها بنجاح."؛
+"change_password_fail_message" = "كلمة مرورك لا يمكن تغييرها!" ؛
 
 // MARK: - New Password
-"np_title" = "Create New Password";
-"np_new_password" = "New Password";
-"np_new_password_again" = "New Password Again";
-
+"np_title" = "إنشاء كلمة مرور جديدة" ؛
+"np_new_password" = "كلمة السر الجديدة"؛
+"np_new_password_again" = "كلمة المرور الجديدة مرة أخرى" ؛
 // MARK: - Dashboard
-"hospital_appointment" = "Hospital Appointment";
-"video_appointment" = "Video Appointment";
-"support_center" = "Support Center";
-"appointments" = "Appointments";
-"visits" = "Visits";
-"help" = "Help";
-"pre_information" = "Preinformation";
-"update" = "Update";
-"go" = "Go";
-"hospital_match" = "Match hospitals";
-"fill_health_card" = "Fill health card";
-"good_morning" = "Good morning";
-"get_appointment" = "Get appointment";
-"control_appointment" = "Control appointment.";
-"prescription" = "Prescription";
-"prescription_detail" = "Prescription detail";
-"upcoming_appointment" = "Upcoming appointment";
-"pay" = "Pay";
-"doctor_did_not_call" = "Doctor did not call";
-"video_call_completed" = "Video call successfully completed";
-"laboratory" = "Laboratory";
-"radiology" = "Radiology";
-"your_upcoming_appointments" = "Your upcoming appointments";
-"your_past_visits" = "Your past visits
-"call_center" = "Call center";
-"shuttle_info" = "Shuttle Info";
-"open_notifications" = "Open Notifications";
-"notif_permission_text" = "Please turn on your notifications to enjoy the benefits of the application.";
-"enable_notifications" = "Enable Notifications";
+"hospital_appointment" = "موعد المستشفى" ؛
+"video_appointment" = "موعد الفيديو" ؛
+"support_center" = "مركز الدعم"؛
+"appointments" = "تعيينات"؛
+"visits" = "الزيارات" ؛
+"help" = "مساعدة"؛
+"pre_information" = "المعلومات المسبقة" ؛
+"update" = "تحديث"؛
+"go" = "يذهب"؛
+"hospital_match" = "مستشفيات مطابقة" ؛
+"fill_health_card" = "تعبئة البطاقة الصحية" ؛
+"good_morning" = "صباح الخير"؛
+"get_appointment" = "الحصول على موعد" ؛
+"control_appointment" = "تعيين المراقبة".
+"prescription" = "روشتة"؛
+"prescription_detail" = "تفاصيل الوصفة" ؛
+"upcoming_appointment" = "موعد قادم" ؛
+"pay" = "يدفع"؛
+"doctor_did_not_call" = "دكتور لم يتصل" ؛
+"video_call_completed" = "اكتملت مكالمة الفيديو بنجاح" ؛
+"laboratory" = "معمل"؛
+"radiology" = "الأشعة" ؛
+"your_upcoming_appointments" = "مواعيدك القادمة" ؛
+"your_past_visits" = "زياراتك السابقة
+"call_center" = "مركز الاتصال"؛
+"shuttle_info" = "معلومات المكوك" ؛
+"open_notifications" = "فتح الإخطارات" ؛
+"notif_permission_text" = "يرجى تشغيل إشعاراتك للاستمتاع بمزايا التطبيق." ؛
+"enable_notifications" = "تمكين الإخطارات" ؛
 // Appointment Status
-"status_waiting" = "WAITING FOR MEETING";
-"status_completed" = "MEETING COMPLETED";
-"status_completed2" = "MEETING STARTED";
-"status_canceled" = "MEETING CANCELED";
-"status_pay" = "WAITING FOR PAYMENT";
-"status_fail" = "MEETING DID NOT HAPPEN";
-"status_waiting_hospital" = "THE APPOINTMENT IS WAITING TO OCCUR";
+"status_waiting" = "انتظار الاجتماع" ؛
+"status_completed" ="اكتمل الاجتماع" ؛
+"status_completed2" = "بدأ الاجتماع" ؛
+"status_canceled" = "تم إلغاء الاجتماع" ؛
+"status_pay" = "في انتظار الدفع" ؛
+"status_fail" ="الاجتماع لم يحدث" ؛
+"status_waiting_hospital" = "الموعد في انتظار حدوثه "
 // Our Distinctive Approaches
-"our_distinctive_approaches" = "Our Distinctive Approaches";
-"tumor_boards" = "Tumor Boards";
-"oncology_center" = "Oncology Center";
-"health_technologies" = "Health Technologies";
-"people_oriented_care" = "People oriented care";
-"check_up_packages" = "Check Up Packages";
+"our_distinctive_approaches" = "مناهجنا المميزة" ؛
+"tumor_boards" = "لوحات الأورام" ؛
+"oncology_center" = "مركز الأورام" ؛
+"health_technologies" = "تقنيات الصحة" ؛
+"people_oriented_care" = "رعاية موجهة للأشخاص" ؛
+"check_up_packages" = "فحص الحزم" ؛
 
 // MARK: - Login
-"enter_password_text" = "You can login by entering your password";
-"forgot_password" = "Forgot Password";
-"login_with_different_phone" = "Login with different phone";
+"enter_password_text" = "يمكنك تسجيل الدخول عن طريق إدخال كلمة المرور الخاصة بك" ؛
+"forgot_password" = "هل نسيت كلمة السر"؛
+"login_with_different_phone" = "تسجيل الدخول باستخدام هاتف مختلف" ؛
 
 // MARK: - SubProfileList
-"add_new_profile" = "Add new profile";
-"you_can_add_family_members" = "You can add family members";
+"add_new_profile" = "إضافة ملف تعريف جديد" ؛
+"you_can_add_family_members" = "يمكنك إضافة أفراد العائلة" ؛
 
 // MARK: - Password
-"enter_info_for_profile_confirm" = "Enter your information to verify your profile.";
-"choose_verify_method" = "Choose verify method";
+"enter_info_for_profile_confirm" = "أدخل معلوماتك للتحقق من ملفك الشخصي." ؛
+"choose_verify_method" = "اختر طريقة التحقق" ؛
 
 // MARK: - New Appointment
-"get_new_appointment" = "Get New Appointment";
-"add_new_profile" = "Add New Profile";
-"who_is_the_appointment_for" = "Who are you making the appointment for?";
-"select_appointment_type" = "Select Appointment Type";
-"select_department" = "Select Department";
-"select_hospital" = "Select Hospital";
-"select_doctor" = "Select Doctor";
-"select_date" = "Select Date";
-"select_hour" = "Select Hour";
-"other_doctors" = "Other Doctors in this Department";
-"choose" = "Choose";
-"hospital" = "Hospital";
-"hospital:" = "Hospital:";
-"department" = "Department";
-"department" = "Department:";
-"doctor" = "Doctor";
-"doctor:" = "Doctor:";
-"appointment_success_message" = "Your appointment has been created successfully.";
-"appointment_owner" = "Appointment Owner";
-"appointment_type" = "Appointment Type";
-"date" = "Date";
-"note" = "Note";
-"want_add_note" = "Is there a note you would like to convey to your physician?";
-"write_note_placeholder" = "You can write your note here.";
-"delete_note" = "Delete Note";
-"examination" = "Examination";
-"note_max_count_warning" = "You can type Max. 500 characters.";
-"extra_slot_title" = "Would you like to make an appointment?";
+"get_new_appointment" = "احصل على موعد جديد" ؛
+"add_new_profile" = "إضافة ملف تعريف جديد" ؛
+"who_is_the_appointment_for" = "لمن تحدد الموعد؟" ؛
+"select_appointment_type" = "حدد نوع الموعد" ؛
+"select_department" = "حدد القسم" ؛
+"select_hospital" = "اختر مستشفى" ؛
+"select_doctor" ="اختر الطبيب" ؛
+"select_date" = "حدد تاريخ"؛
+"select_hour" = "حدد الساعة" ؛
+"other_doctors" = "أطباء آخرون في هذا القسم" ؛
+"choose" = "يختار"؛
+"hospital" = "مستشفى"؛
+"hospital:" = "مستشفى:"؛
+"department" = "قسم"؛
+"department" = "قسم:"؛
+"doctor" = "طبيب"؛
+"doctor:" = "طبيب"؛
+"appointment_success_message" = "تم إنشاء موعدك بنجاح." ؛
+"appointment_owner" = "صاحب الموعد" ؛
+"appointment_type" = "نوع الموعد" ؛
+"date" = "تاريخ"؛
+"note" ="ملحوظة"؛
+"want_add_note" = "هل هناك ملاحظة تود أن تنقلها إلى طبيبك؟" ؛
+"write_note_placeholder" = "يمكنك كتابة ملاحظتك هنا." ؛
+"delete_note" = "حذف الملاحظة" ؛
+"examination" = "فحص"؛
+"note_max_count_warning" = "يمكنك كتابة 500 حرف بحد أقصى." ؛
+"extra_slot_title" ="هل ترغب في تحديد موعد؟"؛
 "extra_slot_description" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in labore et dolore magna aliqua.";
-"appointment_event_title" = "You have an appointment with %@";
-"save_event_success_message" = "Your appointment has been added to your calendar.";
-"save_event_error_message" = "Your appointment could not be added to your calendar!";
-"video_call_information_title" = "Information";
-"video_call_information_message" = "Your video calls with physicians will not be recorded and will not be shared with third parties or institutions within the principles of patient privacy. In accordance with the Personal Data Protection Law, it is not legal for our patients to record interviews and share them with third parties.";
-"for_who" = "For whom";
-
+"appointment_event_title" ="لديك موعد مع٪ @" ؛
+"save_event_success_message" = "تمت إضافة موعدك إلى التقويم الخاص بك." ؛
+"save_event_error_message" = "لا يمكن إضافة موعدك إلى التقويم الخاص بك!" ؛
+"video_call_information_title" = "معلومة"؛
+"video_call_information_message" = "لن يتم تسجيل مكالمات الفيديو مع الأطباء ولن تتم مشاركتها مع جهات خارجية أو مؤسسات في إطار مبادئ خصوصية المريض. وفقًا لقانون حماية البيانات الشخصية ، ليس من القانوني لمرضانا تسجيل المقابلات ومشاركتها مع الأطراف الثالثة."؛
+"for_who" = "لمن"؛
 // MARK: - Appointment List
-"empty_appointment_list_title" = "You do not have an appointment.";
-"empty_appointment_list_message" = "You can use the button below to get appointment";
-"appointment_delete_warning_message" = "Your appointment will be deleted. Do you want to continue?";
-"appointment_refund_info_title" = "Your appointment cancellation was successful. Your payment refund process has started.";
-
+"empty_appointment_list_title" = "ليس لديك موعد." ؛
+"empty_appointment_list_message" = "يمكنك استخدام الزر أدناه للحصول على موعد" ؛
+"appointment_delete_warning_message" = "سيتم حذف موعدك. هل تريد المتابعة؟" ؛
+"appointment_refund_info_title" = "
+تم إلغاء موعدك بنجاح. بدأت عملية استرداد مدفوعاتك." ؛
 // MARK: - Tabbar
-"home" = "Home";
-"other" = "Other";
-"eresults" = "Medical Results";
+"home" = "مسكن"؛
+"other" = "آخر"؛
+"eresults" = "النتائج الطبية" ؛
 
 // MARK: - EResult
-"medical_records_resuts" = "Medical Record and Results";
-"very_high_result_info" = "Critically High";
-"high_result_info" = "Reference Above Range";
-"normal_resul_info" = "Reference In Range";
-"low_result_info" = "Reference Below Range";
-"very_low_result_info" = "Critical Low";
-"click_to_see" = "Click to view";
-"result_pending" = "Waiting for Result";
-"estimated:" = "Estimated:";
-"results" = "Results";
-"show_pdf" = "View as PDF";
-"pat_warning_title" = "Your “pathology” reports are not displayed on the results display page.";
-"pat_warning_message" = "Call our call center for more information.";
-"call_support_center" = "Call Call Center";
-"empty_visit_list_title" = "You do not have a past exam.";
-"laboratory_result" = "Laboratory Result";
+"medical_records_resuts" = "السجل الطبي والنتائج" ؛
+"very_high_result_info" = "عالية للغاية" ؛
+"high_result_info" = "المرجع فوق النطاق" ؛
+"normal_resul_info" = "المرجع في النطاق" ؛
+"low_result_info" = "المرجع أدناه النطاق" ؛
+"very_low_result_info" = "منخفضة حرجة" ؛
+"click_to_see" = "اضغط للعرض"؛
+"result_pending" = "في انتظار النتيجة" ؛
+"estimated:" = "مُقدَّر:"؛
+"results" = "نتائج"؛
+"show_pdf" = "عرض بصيغة PDF" ؛
+"pat_warning_title" = لا يتم عرض تقارير "علم الأمراض" الخاصة بك على صفحة عرض النتائج. "؛
+"pat_warning_message" = "اتصل بمركز الاتصال للحصول على مزيد من المعلومات." ؛
+"call_support_center" = "مركز الاتصال" ؛
+"empty_visit_list_title" = "ليس لديك امتحان سابق".
+"laboratory_result" = "نتيجة المختبر" ؛
 
 
 
 // MARK: - Prescription
-"normal_prescription" = "NORMAL PRESCRIPTION";
-"red_prescription" = "RED PRESCRIPTION";
-"orange_prescription" = "YELLOW PRESCRIPTION";
-"purple_prescription" = "PURPLE PRESCRIPTION";
-"green_prescription" = "GREEN PRESCRIPTION";
-"optic_prescription" = "EYE PRESCRIPTION";
+"normal_prescription" = "وصف عادي" ؛
+"red_prescription" = "الوصفة الحمراء" ؛
+"orange_prescription" = "وصف أصفر" ؛
+"purple_prescription" ="وصف أرجواني" ؛
+"green_prescription" = "الوصفة الخضراء" ؛
+"optic_prescription" ="
+الوصفة الخضراء" ؛
 // MARK: - Hospital
-"our_hospitals" = "Our Hospitals";
-"list" = "List";
-"map" = "Map";
-"closed_area" = "Closed Area";
-"week_days" = "Monday-Friday";
-"saturday" = "Saturday";
-"bed_count" = "Bed Capacity";
-"get_to_know" = "Get to know";
-"directions" = "Directions";
-"service_info" = "Service Information";
-"address_info" = "Address Information";
-"contact_info" = "Contact Information";
-"call" = "Call";
+"our_hospitals" = "مستشفياتنا" ؛
+"list" = "قائمة"؛
+"map" = "خريطة"؛
+"closed_area" = "منطقة مغلقة" ؛
+"week_days" = "الإثنين، الجمعة"؛
+"saturday" = "السبت"؛
+"bed_count" = "سعة السرير" ؛
+"get_to_know" = "بدأ أن يفهم"؛
+"directions" ="الاتجاهات"؛
+"service_info" = "معلومات الخدمة"؛
+"address_info" = "معلومات العنوان"؛
+"contact_info" = "معلومات التواصل"؛
+"call" = "مكالمة"؛
 
-"coordinates" = "Coordinates";
-"latitude" = "latitude";
-"longitude" = "Longitude";
-"patients_from_upstate" = "Our Out of City Patients";
-"patients_from_abroad" = "Patients From Abroad";
-"wire" = "wire";
-"fax" = "Fax";
-"medical_departments" = "Medical Departments";
-"our_medical_departments" = "Our Medical Departments";
-"doctors" = "Doctors";
-"our_doctors" = "Our doctors";
-"unable_to_open_map" = "Cannot Open Map.";
-"all_shuttle_routes" = "All Shuttle Routes";
-"search_shuttle_route" = "Search service route";
-"shuttle_list_warning_message" = "To use the service, you must make an appointment at 44 44 276 1 hour in advance.";
-"show_on_map" = "Show on Map";
+"coordinates" = "إحداثيات" ؛
+"latitude" = "خط العرض"؛
+"longitude" = "خط الطول"؛
+"patients_from_upstate" ="مرضانا خارج المدينة" ؛
+"patients_from_abroad" = "المرضى من الخارج" ؛
+"wire" = "الأسلاك"؛
+"fax" = "فاكس" ؛
+"medical_departments" ="الأقسام الطبية" ؛
+"our_medical_departments" = "أقسامنا الطبية" ؛
+"doctors" = "الأطباء"؛
+"our_doctors" = "أطباؤنا" ؛
+"unable_to_open_map" = "لا يمكن فتح الخريطة." ؛
+"all_shuttle_routes" = "جميع مسارات المكوك" ؛
+"search_shuttle_route" = "البحث عن مسار الخدمة" ؛
+"shuttle_list_warning_message" = "لاستخدام الخدمة ، يجب تحديد موعد على 44 44276 1 ساعة مقدمًا." ؛
+"show_on_map" = "عرض على الخريطة"؛
 
 
 // MARK: - VideoCall
 
 
-"call_info_message" = "%@ wants to video call you";
-"coming_call" = "Incoming Call";
-"voice_answer" = "Voice\nAnswer";
-"video_answer" = "Video\nReply";
-"reject_call" = "Call\nReject";
+"call_info_message" = "٪ @ يريد الاتصال بك بالفيديو" ؛
+"coming_call" = "مكالمة واردة"؛
+"voice_answer" = "صوت \ n إجابة" ؛
+"video_answer" = "فيديو \ n رد" ؛
+"reject_call" = "استدعاء \ n رفض" ؛
 
 
 
 // MARK: - Payment
-"payment" = "Payment";
-"pay_with_credit_card" = "Pay by Credit Card";
-"name_on_card" = "Name on Card";
-"surname_on_card" = "Surname on Card";
-"card_no" = "Card Number";
-"expiry_date" = "Expiration Date";
-"cvc_no" = "CVC No";
-"approve_user_agreement" = "I Agree to User Agreement";
-"video_call_price" = "Online Call Fee";
-"total" = "Total";
-"payment_success_message" = "Your payment has been successfully made and your appointment has been created.";
-"payment_failure_message" = "Your payment failed, please try again.";
-"total_price" = "Amount Payable";
-"payment_back_warning_title" = "Are you sure you want to sign out?";
-"payment_back_warning_message" = "Your appointment request has been received. If you do not pay, your appointment will be cancelled.";
-
-
+"payment" = "دفع"؛
+"pay_with_credit_card" = "الدفع بواسطة بطاقة الائتمان"؛
+"name_on_card" = "الاسم على البطاقة"؛
+"surname_on_card" = "اللقب على البطاقة" ؛
+"card_no" = "رقم البطاقة"؛
+"expiry_date" = "تاريخ إنتهاء الصلاحية"؛
+"cvc_no" = "CVC لا" ؛
+"approve_user_agreement" = "أوافق على اتفاقية المستخدم" ؛
+"video_call_price" = "رسوم الاتصال عبر الإنترنت" ؛
+"total" = "المجموع"؛
+"payment_success_message" = "تم سداد دفعتك بنجاح وتم إنشاء موعدك." ؛
+"payment_failure_message" ="فشل الدفع الخاص بك ، يرجى المحاولة مرة أخرى." ؛
+"total_price" = "المبلغ المستحق"؛
+"payment_back_warning_title" = "هل أنت متأكد أنك تريد الخروج؟"؛
+"payment_back_warning_message" = "تم استلام طلب موعدك. إذا لم تدفع ، فسيتم إلغاء موعدك." ؛
 
 // MARK: - Menu
-"logout_warning_message" = "Are you sure you want to sign out?";
-"past_visits" = "Past Exams";
-"prescriptions" = "Prescriptions";
-"import_hospital_information" = "Import Hospital Information";
+"logout_warning_message" = "هل أنت متأكد أنك تريد الخروج؟"؛
+"past_visits" = "الامتحانات السابقة" ؛
+"prescriptions" ="الوصفات الطبية" ؛
+"import_hospital_information" = "استيراد معلومات المستشفى" ؛
 
 // MARK: - DoctorDetail
-"education" = "Education";
-"experience" = "Expertise";
-"publications" = "Publications";
-"use_filter" = "Use Filter";
-"filter_for_hospitals" = "Filter By Hospitals";
-"filter_for_departments" = "Filter by Medical Departments";
-"clear" = "Clear";
-"apply" = "Apply";
+"education" = "تعليم"؛
+"experience" = "خبرة"؛
+"publications" = "المنشورات"؛
+"use_filter" = "استخدام عامل التصفية" ؛
+"filter_for_hospitals" = "تصفية حسب المستشفيات" ؛
+"filter_for_departments" ="تصفية حسب الأقسام الطبية" ؛
+"clear" = "صافي"؛
+"apply" = "يتقدم"؛
 
 
 
 // MARK: - SupportCenter
-"support_center" = "Support Center";
-"support_center_title" = "We're Listening to You";
-"support_center_message" = "We listen to your comments, suggestions and criticisms to further improve our service quality.";
-"choose_topic" = "Choose a Topic";
-"your_message" = "Your Message";
-"send" = "Send";
-"suggestion" = "Suggestion";
-"request" = "Request";
-"complaint" = "Complaint";
-"thanks" = "thanks";
-"price_info" = "Price Information";
-"about_doctor" = "About Doctor";
-"support_center_success_message" = "Your feedback has been received.";
+"support_center" = "مركز الدعم"؛
+"support_center_title" = "نحن نستمع إليك" ؛
+"support_center_message" = "نستمع إلى تعليقاتكم واقتراحاتكم وانتقاداتكم لتحسين جودة خدماتنا بشكل أكبر." ؛
+"choose_topic" = "اختر موضوعا"؛
+"your_message" = "رسالتك"؛
+"send" = "إرسال"؛
+"suggestion" = "اقتراح"؛
+"request" = "طلب"؛
+"complaint" ="شكوى"؛
+"thanks" = "شكرًا"؛
+"price_info" = "معلومات السعر" ؛
+"about_doctor" = "عن الطبيب" ؛
+"support_center_success_message" = "تم تلقي ملاحظاتك." ؛
 
 
 // MARK: - PermissionPopup
-"notif-permission-title" = "Allow notifications";
-"notif-permission-message" = "You must grant notification permission to use features such as reports, video calls, appointment reminders.";
-"gallery-permission-title" = "Grant gallery access";
-"gallery-permission-message" = "You must grant access before you can upload photos from the gallery.";
-"camera-permission-title" = "Grant camera access";
-"camera-permission-message" = "You must grant access before you can use your camera.";
-"location-permission-title" = "Grant location access";
-"location-permission-message" = "You must grant access to view the map using your location information.";
-"calendar-permission-title" = "Grant access to the calendar";
-"calendar-permission-message" = "You must grant calendar permission so that you can more easily track your appointment.";
-"mic-permission-title" = "Grant microphone access";
-"mic-permission-message" = "Microphone permission is required before you can make an online call.";
-"cam-mic-permission-title" = "Grant Camera and Microphone permissions";
-"cam-mic-permission-message" = "Permissions must be granted before you can conduct an online conversation.";
-"grant_access" = "Allow";
-"camera" = "Camera";
-"mic" = "Microphone";
-"accept" = "Accept";
-
+"notif-permission-title" = "السماح بالإخطارات" ؛
+"notif-permission-message" = "يجب منح إذن الإعلام لاستخدام ميزات مثل التقارير ومكالمات الفيديو وتذكيرات المواعيد." ؛
+"gallery-permission-title" = "منح الوصول إلى المعرض" ؛
+"gallery-permission-message" = "يجب أن تمنح حق الوصول قبل أن تتمكن من تحميل الصور من المعرض." ؛
+"camera-permission-title" = "منح الوصول إلى الكاميرا" ؛
+"camera-permission-message" = "يجب أن تمنح حق الوصول قبل أن تتمكن من استخدام الكاميرا الخاصة بك." ؛
+"location-permission-title" ="منح الوصول إلى الموقع" ؛
+"location-permission-message" ="يجب أن تمنح حق الوصول لعرض الخريطة باستخدام معلومات موقعك." ؛
+"calendar-permission-title" = "منح الوصول إلى التقويم" ؛
+"calendar-permission-message" = "يجب منح إذن التقويم بحيث يمكنك تتبع موعدك بسهولة أكبر." ؛
+"mic-permission-title" = "منح الوصول إلى الميكروفون" ؛
+"mic-permission-message" = "إذن الميكروفون مطلوب قبل أن تتمكن من إجراء مكالمة عبر الإنترنت." ؛
+"cam-mic-permission-title" = "منح أذونات الكاميرا والميكروفون" ؛
+"cam-mic-permission-message" ="يجب منح الأذونات قبل أن تتمكن من إجراء محادثة عبر الإنترنت." ؛
+"grant_access" = "السماح"؛
+"camera" = "آلة تصوير"؛
+"mic" = "ميكروفون"؛
+"accept" = "
+قبول"؛
 // MARK: - ConfirmHospital
-"confirm_hospital_page_title" = "Match Information";
-"confirm_hospital_list_title" = "Your record associated with %@ phone number could not be found.";
-"confirm_hospital_list_description" = "Additional verification is required to access the following records associated with another phone number.";
-"confirm_hospital_warning_message" = "If you don't match, you won't be able to see your past records. You can match again later.";
-"continue_without_match" = "Continue without Matching";
-
+"confirm_hospital_page_title" = "معلومات المباراة" ؛
+"confirm_hospital_list_title" = "تعذر العثور على سجلك المرتبط برقم هاتف٪ @." ؛
+"confirm_hospital_list_description" = "التحقق الإضافي مطلوب للوصول إلى السجلات التالية المرتبطة برقم هاتف آخر." ؛
+"confirm_hospital_warning_message" = "إذا لم تتطابق ، فلن تتمكن من رؤية سجلاتك السابقة. يمكنك المطابقة مرة أخرى لاحقًا." ؛
+"continue_without_match" = "استمر بدون مطابقة" ؛
