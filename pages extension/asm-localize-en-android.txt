@@ -1,0 +1,540 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<!-- Menu -->
+<string name="menu_login" translatable="false">Login</string>
+<string name="menu_appointments" translatable="false">Appointments</string>
+<string name="menu_reports" translatable="false">Reports</string>
+<string name="menu_medical_records">Medical Records</string>
+<string name="menu_other" translatable="false">Other</string>
+<string name="onboarding_get_started" translatable="false">Get Started !</string>
+<string name="onboarding_login" translatable="false">I already have an account</string>
+<string name="welcome" translatable="false">Welcome !</string>
+<string name="skip" translatable="false">(Skip)</string>
+<string name="icomed_home" translatable="false">Homepage</string>
+<string name="icomed_hospital_appointment" translatable="false">Hospital Appointment</string>
+<string name="icomed_video_call" translatable="false">Video Call</string>
+<string name="icomed_menu" translatable="false">Menu</string>
+<string name="send" translatable="false">Send</string>
+<string name="new_user" translatable="false">Create User</string>
+<string name="txtNewProfileInfo1" translatable="false">To create a user, specify your e-mail address and 6-digit user password.</string>
+<string name="email" translatable="false">E-Mail</string>
+<string name="password" translatable="false">Password</string>
+<string name="passwordAgain" translatable="false">Repeat Password</string>
+<string name="start_profile_creation" translatable="false">Start Profiling</string>
+<string name="new_profile" translatable="false">Create Profile</string>
+<string name="next_step" translatable="false">Next Step</string>
+<string name="gender" translatable="false">Gender</string>
+<string name="name">Name</string>
+<string name="surname">Surname</string>
+<string name="new_profile_barcode_info">You can transfer profile information by searching\n for your ID.</string>
+<string name="female">Female</string>
+<string name="male">Male</string>
+<string name="change_photo">Change Picture</string>
+<string name="nationality">Nationality</string>
+<string name="identity_no">TR Identity Number</string>
+<string name="birth_date">Date of Birth</string>
+<string name="location_info" tools:ignore="Typos">Your address information helps us to recommend health institutions closer to you.</string>
+<string name="country">Country</string>
+<string name="city">City</string>
+<string name="District">County</string>
+<string name="great_profile">your profile looks great !</string>
+<string name="skip_profile">Skip</string>
+<string name="health_card">Health Card</string>
+<string name="permission_camera">Please allow to add photos</string>
+<string name="permission_camera_and_microphone">Please allow camera and microphone permission</string>
+<string name="permission_video_call">Permissions must be granted before you can video call.</string>
+<string name="take_photo">Take Photo</string>
+<string name="upload_photo">Upload Photo</string>
+
+
+
+
+<string name="confirm_phone_number" translatable="false">Confirm your phone number\nstart using it.</string>
+<string name="hint_phone_number" translatable="false">Phone Number</string>
+<string name="confirm_user_contract" translatable="false">I Agree to User Agreement.</string>
+<string name="send_sms" translatable="false">Send SMS</string>
+<string name="resend_sms" translatable="false">Resend SMS</string>
+<string name="resend_mail" translatable="false">Resend Mail</string>
+<string name="validate_sms_code" translatable="false">Enter the sms code from your phone number</string>
+<string name="validate" translatable="false">Verify</string>
+<string name="is_this_your_account" translatable="false">Does this user account belong to you?</string>
+<string name="info_account_name" translatable="false">The 0500 000 00 00 \nphone number you entered is registered to H***** K**a \na.</string>
+<string name="account_is_mine" translatable="false">Yes, This Account Is Me</string>
+<string name="account_is_not_mine" translatable="false">No, the account is not mine</string>
+<string name="validate_sms" translatable="false">Verify SMS</string>
+<string name="hint_sms_code" translatable="false">SMS Code</string>
+<string name="info_profiles_of_phone_number" translatable="false">Other profiles associated with the phone number will be Canceled.</string>
+<string name="cancel_dialog" translatable="false">Cancel</string>
+<string name="yes" translatable="false">Yes</string>
+<string name="question_continue" translatable="false">Do you want to continue?</string>
+<string name="validate_your_profile">Verify Your Profile</string>
+<string name="did_you_forget_password">Forgot your password?</string>
+<string name="deactivated_msg">Your account has been deleted!</string>
+</string>
+<string name="custom_dialog_prompt_info">“Other profiles associated with 0500 000 00 00 phone number will be Canceled.</string>
+<string name="empty_error">Please fill in all fields.</string>
+<string name="password_match_error">The passwords you entered did not match.</string>
+<string name="password_length_error">Password must be at least 6 characters!</string>
+<string name="phone_number_error">Please enter a valid phone number.</string>
+<string name="user_agreement_error">You must confirm the user agreement.</string>
+
+
+<string name="good_morning">Good morning</string>
+<string name="weight">Weight</string>
+<string name="unit_weight">kg</string>
+<string name="height">Height</string>
+<string name="unit_height">cm</string>
+<string name="blood_group">Blood Group</string>
+<string name="blood_group_a">A</string>
+<string name="blood_group_b">B</string>
+<string name="blood_group_zero">0</string>
+<string name="blood_group_ab">AB</string>
+<string name="rh_positive">Rh +</string>
+<string name="rh_negative">Rh -</string>
+<string name="rh">Rh</string>
+<string name="profile">Profile</string>
+<string name="hospitals">Hospitals</string>
+<string name="address">Address</string>
+<string name="update">Update</string>
+<string name="bed">Bed</string>
+<string name="contact">Contact</string>
+<string name="departments">Medical Units</string>
+<string name="more">More</string>
+<string name="less">Less</string>
+<string name="experiment">Experience</string>
+<string name="appointment">Appointment</string>
+<string name="camera">Camera</string>
+<string name="microphone">Microphone</string>
+
+<string name="requestSuccessful">Request successful!</string>
+<string name="requestErrorMessage">An error occurred!</string>
+
+<!-- ASM -->
+<string name="asm_onboarding_get_started">Get Started</string>
+<string name="asm_create_profile">Create Account</string>
+<string name="asm_next">Continue</string>
+<string name="asm_onboarding_text_1">Quick appointment and\narrange</string>
+<string name="asm_onboarding_text_2">Call your doctor\nvideo from anywhere</string>
+<string name="asm_onboarding_text_3">Display your test results and reports\instant</string>
+<string name="asm_create_profile_password_info">Your password must be 6 characters and numbers.</string>
+<string name="asm_birthdate_with_format">Date of Birth (DD/MM/YY)</string>
+<string name="asm_change_profile_photo">Change Profile Photo</string>
+<string name="match_hospital">Match Hospital</string>
+<string name="match_hospital_info">We couldn't find any hospital records in our system. Then you can make \nhospital matching from profile management.</string>
+<string name="match_hospital_info_continue">You will still be able to \nthe following actions in the app;</string>
+<string name="return_home">Return to Homepage</string>
+<string name="can_create_appointment">Able to Make Appointments</string>
+<string name="video_meeting">Video Call</string>
+<string name="match_hospital_success_info">The records associated with the 0500 000 00 00 phone number have been successfully matched;</string>
+<string name="match_hospital_need_phone_validation">Additional validation is required to access the following \nrecords associated with another phone number.</string>
+<string name="save">Save</string>
+<string name="match_hospital_unsuccess_info">No related records found with phone number 0532 170 05 73.</string>
+
+
+
+
+
+<string name="asm_welcome">Hoşgeldiniz,</string>
+<string name="asm_phone_validation_info">Telefon numaranızı doğrulayarak \nkullanmaya başlayın.</string>
+<string name="asm_country_code">Ülke Kodu</string>
+<string name="asm_user_contract">Kullanıcı Sözleşmesini ve Kişisel Verilerin Korunması Kanunu Hakkında Bilgilendirme Metnini Okudum, kabul ediyorum</string>
+<string name="asm_send_sms">SMS Gönder</string>
+<string name="asm_sms_validation_info">Doğrulama kodunuz \n0555 666 77 88 \nnumarasına iletilmiştir.</string>
+<string name="asm_hint_sms_code">SMS Kodu</string>
+<string name="asm_hint_mail_code">Doğrulama Kodu</string>
+<string name="asm_hint_phone_number">Telefon Numaranız</string>
+<string name="asm_validate">Doğrula</string>
+<string name="asm_didnt_you_receieve_sms_code">Telefonunuza şifre gelmedi mi?</string>
+<string name="asm_didnt_you_receieve_mail_code">E-postana şifre gelmedi mi?</string>
+<string name="asm_resend">Tekrar Gönder</string>
+<string name="asm_is_this_your_account">Bu kullanıcı hesabı size mi ait ?</string>
+<string name="asm_account_is_mine">Evet, Bu Hesap Bana Ait</string>
+<string name="asm_account_is_not_mine">Hayır, hesap bana ait değil</string>
+<string name="custom_dialog_prompt_asm_info">0555 666 77 88 telefon numarası \nile ilişkilendirilmiş diğer profiller \niptal edilecektir</string>
+<string name="info_profiles_of_phone_number_asm" translatable="false">telefon numarası \nile ilişkilendirilmiş diğer profiller \niptal edilecektir</string>
+<string name="asm_success_phone_validation">Telefonunuzu \ndoğruladınız.</string>
+<string name="asm_sign_up">Kayıt Ol</string>
+<string name="asm_pair_phone_numbers_title">Bilgileri Eşleştir</string>
+<string name="asm_pair_phone_numbers_subtitle"> telefon numarası ile ilişkili kaydınız bulunamamıştır.</string>
+<string name="asm_pair_phone_numbers_info">Başka bir telefon numarasıyla ilişkili aşağıdaki kayıtlara erişmek için ek doğrulama yapman gerekmektedir.</string>
+<string name="asm_pair_phone_numbers_footer_info">Eşleştirme yapılmaz ise, geçmiş kayıtlarınızı göremezsiniz. \nDaha sonra tekrar eşleştirme yapabilirsiniz.</string>
+<string name="asm_pair_phone_numbers_button">Eşleştirmeden Devam Et</string>
+<string name="asm_import_hospital_data">Hastane Bilgilerini İçeri Aktar</string>
+<string name="info_account_name_asm">Girmiş olduğunuz 0555 666 77 88 telefon \nnumarası A** Y***** adına kayıtlıdır</string>
+<string name="asm_validate_profile">Profilinizi Doğrulayın</string>
+<string name="asm_profile_edit_info"> adına tanımlı hesabınızı \ndoğrulamak için doğum tarihinizi ve daha \nönce kullandığınız 6 haneli şifrenizi giriniz</string>
+<string name="asm_identity_no">T.C. Kimlik Numarası</string>
+<string name="asm_birth_date">Doğum Tarihi</string>
+<string name="asm_password">Şifre</string>
+<string name="asm_forgot_password">Şifremi Unuttum</string>
+<string name="asm_invalid_idendity">T.C Kimlik No eksik girilmiş!</string>
+<string name="asm_remind_password">Şifremi Hatırlat</string>
+<string name="asm_send">Gönder</string>
+<string name="asm_sent_password_your_phone_number">Şifreniz kayıtlı \ntelefonunuza gönderildi</string>
+<string name="asm_ok">Tamam</string>
+<string name="asm_upcoming_appointments">Yaklaşan Randevularınız</string>
+<string name="asm_visits">Geçmiş Ziyaretleriniz</string>
+<string name="asm_selection_for_you">Sizin için seçtiklerimiz</string>
+<string name="asm_our_creative_solution">Fark Yaratan Yaklaşımlarımız</string>
+<string name="asm_call_center">Çağrı \nMerkezi</string>
+<string name="asm_service_info">SERVİS \nBİLGİSİ</string>
+<string name="asm_my_appointments">Randevularım</string>
+<string name="asm_appointments_in_hospital">Yerinde Randevular</string>
+<string name="asm_video_appointments">Görüntülü Görüşme</string>
+<string name="asm_no_appointments">Randevunuz bulunmuyor.</string>
+<string name="asm_use_button_for_appointments">Randevu alabilmek için aşağıdaki \nbutonu kullanabilirsiniz</string>
+<string name="asm_get_new_appointment">Yeni Randevu Alın</string>
+<string name="asm_waiting_video_appointment">Görüşme Bekleniyor</string>
+<string name="asm_login_info">Şifreni girerek giriş yapabilirsin</string>
+<string name="asmForgotPassword">Şifremi Unuttum</string>
+<string name="asm_appointment_of_hospital">Hastane Randevusu</string>
+<string name="asm_appointment_of_video">Görüntülü Görüşme</string>
+<string name="asm_for_who">Kim için</string>
+<string name="asm_hospital">Hastane</string>
+<string name="asm_date">Tarih</string>
+<string name="asm_complaint">Şikayet</string>
+<string name="asm_lab">Lab</string>
+<string name="asm_rad">Radyoloji</string>
+<string name="asm_pat">Patoloji</string>
+<string name="asm_report">Reçete</string>
+<string name="asm_in_hospital_appointment">Hastane\nRandevusu</string>
+<string name="asm_video_appointment">Görüntülü\nGörüşme</string>
+<string name="asm_support_center">Destek\nMerkezi</string>
+<string name="asm_cancel_appointment">Randevuyu İptal Et</string>
+<string name="asm_list">Liste</string>
+<string name="asm_map">Harita</string>
+<string name="asm_our_hospitals">Hastanelerimiz</string>
+<string name="asm_name_of_asm">Anadolu Sağlık Merkezi</string>
+<string name="asm_atasehir">Ataşehir</string>
+<string name="asm_gebze">Gebze</string>
+<string name="asm_current_mark_tag">Bulunduğunuz Yer</string>
+<string name="asm_permission_granted">İzin verildi</string>
+<string name="asm_permission_denied">İzin verilmedi</string>
+<string name="asm_current_location_permission">Anlık konumunuza erişebilmemiz için izin vermeniz gereklidir!</string>
+<string name="asm_return">Geri Dön</string>
+<string name="asm_next_step">Sonraki Adım</string>
+<string name="asm_did_you_forget_password">Şifreni mi unuttun?</string>
+<string name="asm_choose_validation_way">Doğrulama yöntemi seçin</string>
+<string name="asm_sms">SMS</string>
+<string name="asm_email">E-posta</string>
+<string name="asm_create_new_password">Yeni Şifre Oluştur</string>
+<string name="asm_new_password">Yeni Şifre</string>
+<string name="asm_renew_password">Yeni Şifre Tekrar</string>
+<string name="asm_create">Oluştur</string>
+<string name="asm_login_with_another_gsm_number">Başka bir telefon numarası ile giriş yap</string>
+<string name="asm_enter_profile_info">Profilini doğrulamak için \nbilgilerini gir.</string>
+<string name="asm_start_text_for_sms_validation">Doğrulama kodun</string>
+<string name="asm_end_text_for_sms_validation">numarasına iletilmiştir.</string>
+<string name="asm_end_text_for_mail_validation">adresine iletilmiştir.</string>
+<string name="asm_medical_reports_results">Tıbbi Kayıt ve Sonuçlar</string>
+<string name="asm_laboratory">Laboratuvar</string>
+<string name="asm_radiology">Radyoloji</string>
+<string name="asm_other">Diğer</string>
+<string name="asm_hospital_general_info">Tanıyın</string>
+<string name="asm_address_description">Yol Tarifi</string>
+<string name="asm_roads_info">Servis Bilgisi</string>
+<string name="asm_hospital_departments">Tıbbi Bölümler</string>
+<string name="asm_hospital_doctors">Doktorlar</string>
+<string name="asm_hospital_working_time">Acil ve Polikiliniklerin Çalışma Saatleri</string>
+<string name="asm_weekdays">Pazartesi-Cuma</string>
+<string name="asm_weekend">Cumartesi</string>
+<string name="asm_work_hours_with_numbers">08:00 – 20:00</string>
+<string name="asm_gebze_hospital_meters">50.000 m2 Kapalı Alan</string>
+<string name="asm_bed_gebze_capacity_written">201 Yatak Kapasitesi</string>
+<string name="asm_gebze_article_header">Gebze Anadolu Sağlık Merkez’inde \ngüvendesiniz.</string>
+<string name="asm_atasehir_article_header">Ataşehir Tıp Merkez’inde \ngüvendesiniz.</string>
+<string name="asm_gebze_article_text">Türkiye’ye onlarca eser kazandırmış olan Anadolu Vakfı, Anadolu Sağlık Merkezi’ni hizmete sunarak bir hayalini daha gerçekleştirdi. Binlerce yıllık sağlık birikimine ve birçok değerli tıp insanına ev sahipliği yapmış Anadolu’nun değerli mirasına sahip çıkan hastanemiz, bu birikimi insan sağlığına katkıda bulunmak için kullanıyor. Johns Hopkins Medicine ile eğitim ve kalitenin geliştirilmesine yönelik stratejik iş birliği içinde çalışan hastanemiz; onkolojik bilimler, kalp sağlığı, kadın sağlığı ve IVF, nörolojik bilimler, cerrahi bilimler, dahili bilimler, tanı ve görüntüleme başta olmak üzere tüm branşlarda hizmet sunuyor. Yaklaşık 188.000 metrekarelik arazi alanı üzerine kurulan, 50 bin metrekarelik kapalı alanda 201 yatak kapasitesiyle çalışmalarına devam eden hastanemiz, JCI (Joint Commission International) akreditasyonu, ESMO (Avrupa Tıbbi Onkoloji Derneği) sertifikasyonlarıyla hizmet veriyor. Anadolu Sağlık Merkezi, sağlık hizmetine Ataşehir Cerrahi Tıp Merkezi ile Ataşehir’de de devam ediyor. Uydu kliniğinden hizmet alan hastaların işlem arşivleri sanal ortamda tutulabiliyor. 2010 yılı Haziran ayında hastane bünyesinde hizmet vermeye başlayan Kemik İliği Nakli Merkezi’nde aynı anda 22 hastaya kemik iliği nakli gerçekleştirebiliyor. Hastanemizde her zaman birinci önceliğimiz, hastalarımızdır. Bu nedenle, hasta ve hasta yakınlarımızın ihtiyaçlarına ve beklentilerine değer veriyor, huzurlu bir tedavi süreci geçirmeleri, kendilerini evlerinde hissetmeleri için büyük bir özenle çalışıyoruz.</string>
+<string name="asm_atasehir_article_text">Anadolu Sağlık Merkezi olarak birinci önceliğimiz hasta/hasta yakınlarımızın ve çalışanlarımızın sağlığı. Bu doğrultuda, hem ulusal hem de uluslararası otoritelerin şart koştuğu önlemleri alıyor, içinde bulunduğumuz COVID-19 pandemi sürecinde de hastalarımıza güvenli bir ortamda sağlık hizmeti sunuyoruz. Ataşehir Tıp Merkezi’nde de Gebze hastanemizde olduğu gibi, 2008 yılından beri hizmet veren Anadolu Sağlık Ataşehir Tıp Merkezi’nde de COVID-19 şüphesi olan hastalarımız Acil Servis’te özel bir ekip tarafından değerlendirilip, tedavi için ilgili devlet hastanelerine yönlendiriliyorlar. Güvenli ve steril bir ortamda sağlık hizmeti sunulan Anadolu Sağlık Ataşehir Tıp Merkezi’nde pek çok farklı branşta hizmet veriyoruz. Fark yarattığımız branşlarımızdan Fonksiyonel Tıp bölümümüzde fonksiyonel tıp hekimimiz tarafından kişiye özel ve bütüncül bir yaklaşımla hizmet veriliyor. İçinde bulunduğumuz pandemi döneminde bağışıklık sistemini güçlü tutmak isteyen misafirlerimiz ise, bağışıklık sistemini güçlendirmek amacıyla uygulanan ozon terapimizden yararlanabilirler. Anadolu Sağlık Merkezi, sağlık hizmetlerine Ataşehir Tıp Merkezi’nde de devam ediyor. Hastane ve tıp merkezindeki hastaların radyolojik görüntüleme sonuçları sanal ortamda tutulabiliyor. Böylece gerekli durumlarda Anadolu Sağlık Merkezi, Anadolu Sağlık Ataşehir Tıp Merkezi arasında rahatlıkla bilgi alışverişi yapılabiliyor. Bunun yanı sıra Anadolu Sağlık Ataşehir Tıp Merkezi’nde hasta işlemlerinin izlenmesine ve yine hasta arşivlerinin sanal ortamda tutulmasına olanak veren bir sistem yer alıyor. Bu teknoloji sayesinde hastanın kayıtları, Anadolu Sağlık Merkezi’nin bütün şubelerinde aynı sistem üzerinden görüntülenebiliyor. Anadolu Sağlık Ataşehir Tıp Merkezi 2008 yılında 8 milyon dolarlık yatırım maliyetiyle kuruldu. 3 bin 700 metrekare alana kurulan merkezin bünyesinde çocuk sağlığı ve hastalıklarından deri hastalıklarına, ürolojiden iç hastalıklarına birçok branşta poliklinikler ve acil servis bulunuyor.</string>
+<string name="asm_atasehir_adress">Barbaros Mah. Ortabahar Sokak\nNo: 28, 28A\nAtaşehir İstanbul</string>
+<string name="asm_gebze_adress">Cumhuriyet Mahallesi\n2255 sokak no:3\nGebze 41400 Kocaeli</string>
+<string name="asm_tel_no">Tel : 44 44 276</string>
+<string name="asm_atasehir_fax_no">Faks : 0216 317 00 99</string>
+<string name="asm_gebze_fax_no">Faks : 0262 678 55 45</string>
+<string name="asm_gebze_latitude">Enlem: 40.819035</string>
+<string name="asm_gebze_longitude">Boylam: 29.353974</string>
+<string name="asm_atasehir_latitude">Enlem: 40.984598</string>
+<string name="asm_atasehir_longitude">Boylam: 29.097719</string>
+<string name="asm_address_info" tools:ignore="Typos">Adres Bilgileri</string>
+<string name="asm_contact_info">İletişim Bilgileri</string>
+<string name="asm_call">Arayın</string>
+<string name="asm_coordinates">Koordinatlar</string>
+<string name="asm_all_roads">Tüm Servis Güzergahları</string>
+<string name="asm_search_roads">Servis güzergahı için ilçe arayın</string>
+<string name="asm_roads_info_warning">Servis kullanımlarında <b>1 saat önceden</b>\n<b>44 44 276</b> numaralı telefonumuzdan\nrandevu almanız gerekmektedir.</string>
+<string name="asm_atasehir_hospital_name">Ataşehir Tıp Merkezi - Anadolu Sağlık Merkezi Hastanesi</string>
+<string name="asm_izmit_hospital_name">İzmit - Anadolu Sağlık Merkezi Hastanesi</string>
+<string name="asm_our_hospital_departments">Tıbbi Bölümlerimiz</string>
+<string name="asm_search_departments">Bölüm Ara</string>
+<string name="asm_dental_health">Ağız ve Diş Sağlığı</string>
+<string name="asm_pain_management">Ağrı Tedavesi</string>
+<string name="asm_biochemistry">Biyokimya</string>
+<string name="asm_our_doctors">Doktorlarımız</string>
+<string name="asm_search_doctor">Doktor Ara</string>
+<string name="asm_show_on_map">Harita Üzerinde Göster</string>
+<string name="asm_health_guide">Sağlık Rehberi</string>
+<string name="asm_health_articles">Sağlık Rehberi Yazılar</string>
+<string name="asm_all">Hepsi</string>
+<string name="asm_nutrition_diet">Beslenme ve Diyet</string>
+<string name="asm_cancer">Kanser</string>
+<string name="asm_women">Kadınlar</string>
+<string name="asm_all_articles">Tüm Yazıları</string>
+<string name="asm_take_an_appointment">Randevu Al</string>
+<string name="asm_past_visits">Geçmiş Muayeneler</string>
+<string name="asm_search_result">Sonuç Ara</string>
+<string name="asm_visit_history_detail">Muayene Detayı</string>
+<string name="asm_details">Detaylar</string>
+<string name="asm_evaluate_point_visit">Muayeneye Puan Verin</string>
+<string name="asm_get_your_control_appointment">Kontrol Randevusu Alın</string>
+<string name="asm_results">Sonuçlar</string>
+<string name="asm_notification">Bildirimler</string>
+<string name="asm_lorem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusant dolorque laudantium, totam</string>
+<string name="asm_get_appointments">Randevu Al</string>
+<string name="asm_get_control_appointment">Kontrol Randevusu Al</string>
+<string name="asm_doctor_did_not_call_me">Doktor beni aramadı</string>
+<string name="help">Yardım</string>
+<string name="pay">Ödeme Yap</string>
+<string name="asm_account_infos">Hesap Bilgileriniz</string>
+<string name="asm_prescriptions">Reçeteler</string>
+<string name="asm_videos">Videolar</string>
+<string name="asm_take_our_survey">Anketimize Katılın</string>
+<string name="asm_contact_us">Bize Ulaşın</string>
+<string name="asm_logout_my_app">Uygulamamdan Çıkış Yap</string>
+<string name="asm_get_appointment_steps">Randevu Adımları</string>
+<string name="asm_who_is_appointment_for">Randevuyu kim için alıyorsunuz?</string>
+<string name="asm_choose_appointment_type">Randevu Türü Seçin</string>
+<string name="asm_choose_hospital">Hastane Seçin</string>
+<string name="asm_education">Eğitim</string>
+<string name="asm_doctor_specialty">Uzmanlık</string>
+<string name="asm_journal">Yayınları</string>
+<string name="asm_articles_of_doctor">Doktora ait yazılar</string>
+<string name="asm_get_appointment">Randevu Alın</string>
+<string name="asm_my_profile">Hesabım</string>
+<string name="asm_profile_informations">Hesap Bilgileri</string>
+<string name="asm_personal_informations">Kişisel Bilgiler</string>
+<string name="asm_healthy_card">Sağlık Kartı</string>
+<string name="asm_mobile_number">Cep Telefonu</string>
+<string name="asm_re_password">Şifre(tekrar)</string>
+<string name="asm_change_your_password">Şifreni Değiştir</string>
+<string name="asm_identity_number">T.C. Kimlik No</string>
+<string name="asm_blood_type">Kan Grubu</string>
+<string name="asm_body_height">Boy</string>
+<string name="asm_body_weight">Kilo</string>
+<string name="asm_have_you_chronic_disease">Kronik bir rahatsızlığınız var mı?</string>
+<string name="asm_have_family_chronic_disease">Aile bireylerinde bulunan kronik bir rahatsızlık var mı?</string>
+<string name="asm_have_you_any_allergy">Herhangi bir alerjin var mı?</string>
+<string name="asm_have_using_routine_medicine">Rutin olarak kullandığın ilaçlar var mı?</string>
+<string name="asm_add_my_selections">Seçtiklerimi Ekle</string>
+<string name="asm_appointment_for_which_profile">Randevuyu kim için alıyorsunuz?</string>
+<string name="asm_department">Bölüm</string>
+<string name="asm_doctor">Doktor</string>
+<string name="asm_other_reports">Diğer Raporlar</string>
+<string name="asm_waiting_result">Sonuç\nBekleniyor</string>
+<string name="asm_info_pathology_report">Sonuç görüntüleme sayfasından \n“patoloji” raporlarınız \ngörüntülenmemektedir.</string>
+<string name="asm_can_call_the_call_center">Daha fazla bilgi için çağrı \nmerkezimizi arayabilirsiniz.</string>
+<string name="asm_call_the_call_center">Çağrı Merkezini Ara</string>
+<string name="asm_close">Kapat</string>
+<string name="asm_hours">s</string>
+<string name="asm_minutes">dk</string>
+<string name="asm_seconds">sn</string>
+<string name="asm_waiting_meeting">GÖRÜŞME BEKLENİYOR</string>
+<string name="asm_meeting_completed">GÖRÜŞME TAMAMLANDI</string>
+<string name="asm_meeting_ending_susccess">GÖRÜŞME YAPILDI</string>
+<string name="asm_meeting_waiting_payment">ÖDEME BEKLENİYOR</string>
+<string name="asm_meeting_is_starting">GÖRÜŞME YAPILIYOR</string>
+<string name="asm_meeting_cancelled">GÖRÜŞME İPTAL EDİLDİ</string>
+<string name="asm_hospital_appointment_waiting">RANDEVU GERÇEKLEŞMEYİ BEKLİYOR</string>
+<string name="asm_meeting_no_happened">GÖRÜŞME GERÇEKLEŞMEDİ</string>
+<string name="asm_explanation">Açıklama</string>
+<string name="asm_lorem_long">Suspendisse tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo, in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Praesent id porta nunc. Vivamus malesuada at dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. In hac habitasse platea dictumst. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+Suspendisse tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo, in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Praesent id porta nunc. Vivamus malesuada at dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. In hac habitasse platea dictumst. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+</string>
+<string name="asm_result">Sonuç</string>
+<string name="asm_for_patients_visit_from_another_country">Yurt dışından gelen hastalarımız için;</string>
+<string name="asm_for_patients_visit_from_another_city">Şehir dışından gelen hastalarımız için;</string>
+<string name="asm_info_and_contact">Bilgi ve İletişim</string>
+<string name="asm_mail_for_international_patients">int.patients@anadolusaglik.org</string>
+<string name="asm_info_website">www.anadolumedicalcenter.com</string>
+<string name="asm_patients_from_out_of_country">Yurt Dışından Gelen Hastalarımız</string>
+<string name="asm_patients_from_out_of_city">Şehir Dışından Gelen Hastalarımız</string>
+<string name="asm_choose_department">Bölüm Seçin</string>
+<string name="asm_choose_doctor">Doktor Seçin</string>
+<string name="asm_choose">Seç</string>
+<string name="asm_header_department">Bölüm:</string>
+<string name="asm_header_hospital">Hastane:</string>
+<string name="asm_header_doctor">Doktor:</string>
+<string name="asm_header_date">Tarih:</string>
+<string name="asm_header_date_today">Bugün</string>
+<string name="asm_choose_time">Saat Seçin</string>
+<string name="asm_choose_date">Tarih Seçin</string>
+<string name="asm_other_our_doctors">Bu bölümdeki diğer doktorlarımız</string>
+<string name="asm_success_appointment_info">Randevunuz başarı ile oluşturuldu.</string>
+<string name="asm_note">Not</string>
+<string name="asm_appointment_type">Randevu Türü</string>
+<string name="asm_appointment_holder">Randevu Sahibi</string>
+<string name="asm_delete_note">Notu Sil</string>
+<string name="asm_completed">Tamamla</string>
+<string name="asm_is_there_note">Hekiminize iletmek istediğiniz bir not var mı?</string>
+<string name="asm_note_hint">Notunuzu buraya yazabilirsiniz.</string>
+<string name="asm_success_visit">Görüşme Başarılı</string>
+<string name="asm_cvc_no">CVC No</string>
+<string name="asm_name_on_the_card">Kart Üzerindeki İsim</string>
+<string name="asm_surname_on_the_card">Kart Üzerindeki Soyisim</string>
+<string name="asm_card_number">Kart Numarası</string>
+<string name="asm_expiration_date">Son Kullanma Tarihi</string>
+<string name="asm_pay_with_credit_card">Kredi Kartı ile Öde</string>
+<string name="asm_approve_user_agreement">Kullanıcı sözleşmesini onaylıyorum</string>
+<string name="asm_online_meeting_price">Online Görüşme Ücreti</string>
+<string name="asm_tax">KDV %8</string>
+<string name="asm_appointment_discount">İndirim</string>
+<string name="asm_total_price">Ödenecek Tutar</string>
+<string name="asm_download_as_pdf">PDF olarak görüntüle</string>
+<string name="asm_click_to_see">Görmek İçin Tıklayın</string>
+<string name="minutes">dk</string>
+<string name="asm_success_payment">Ödemeniz başarılı bir şekilde yapıldı ve randevunuz oluşturuldu.</string>
+<string name="asm_error_payment">Ödemeniz yapılamadı,\nlütfen tekrar deneyin.</string>
+<string name="asm_unsuccess_visit">Görüşme Başarısız</string>
+<string name="asm_login_welcome">Hoşgeldin</string>
+<string name="asm_invalid_email">Lütfen geçerli bir e-posta adresi giriniz.</string>
+<string name="asm_sms_code_error">Lütfen 6 haneli sms kodunu girin.</string>
+<string name="asm_choose_error">Lütfen seçim yapınız.</string>
+<string name="asm_test">%1$d Test</string>
+<string name="asm_waiting_test">%1$d Sonuç Bekleniyor</string>
+<string name="asm_estimate_time">Tahmini: %1$s</string>
+<string name="asm_explain">Açıklama</string>
+<string name="asm_normal_prescription">NORMAL REÇETE</string>
+<string name="asm_text_value_for_lab_termes">%1$s.%2$s</string>
+<string name="asm_red_prescription">KIRMIZI REÇETE</string>
+<string name="asm_yellow_prescription">SARI REÇETE</string>
+<string name="asm_purple_prescription">MOR REÇETE</string>
+<string name="asm_green_prescription">YEŞİL REÇETE</string>
+<string name="asm_optic_prescription">GÖZ REÇETESİ</string>
+<string name="asm_success_download_report">Rapor Kaydedildi</string>
+<string name="asm_storage_permission">İndirme işlemi için lütfen depolama izni verin!</string>
+<string name="asm_test_for_lab_child">test</string>
+<string name="asm_critical_high">Kritik Yüksek</string>
+<string name="asm_above_reference_range">Referans Aralık Üstünde</string>
+<string name="asm_reference_within_range">Referans Aralık İçinde</string>
+<string name="asm_below_reference_range">Referans Aralık Altında</string>
+<string name="asm_critical_low">Kritik Düşük</string>
+<string name="asm_match_phone_number_info">Aynı kimlik bilgileri ile farklı telefon numarasına kaydınız bulunuyor. Lütfen doğrulama işlemi yapınız.</string>
+<string name="asm_success_new_password">Şifreniz başarılı bir şekilde değiştirildi.</string>
+<string name="asm_information">Bilgilendirme</string>
+<string name="asm_accept">Kabul et</string>
+
+<string name="icomed_mail_validation_info">Doğrulama kodun "%1$s" adresine iletilmiştir.</string>
+<string name="icomed_sms_validation_info">Doğrulama kodun "%1$s" numarasına iletilmiştir.</string>
+<string name="icomed_sms_validation_info_example">Doğrulama kodunuz 0555 666 77 88 numarasına iletilmiştir.</string>
+<string name="asm_prescription_detail">Reçete Detayı</string>
+<string name="asm_payment">Ödeme</string>
+<string name="asm_use_filter">Filtre Kullan</string>
+<string name="asm_filter_by_hospitals">Hastanelere Göre Filtrele</string>
+<string name="asm_filter_by_departments">Tıbbi Bölümlere Göre Filtrele</string>
+<string name="asm_choose_department_for_filter">Bölüm Seçiniz</string>
+<string name="asm_clear">Temizle</string>
+<string name="asm_apply">Uygula</string>
+<string name="title_activity_twilio">TwilioActivity</string>
+<string name="next">Next</string>
+<string name="previous">Previous</string>
+<string name="asm_call_reject">Reddet</string>
+<string name="asm_call_accept">Cevapla</string>
+<string name="asm_doctor_calling">sizi görüntülü aramak istiyor</string>
+<string name="asm_no_history_report">Geçmiş muayeneniz \nbulunmuyor.</string>
+<string name="asm_max_500_characters">Max. 500 karakter yazabilirsiniz.</string>
+<string name="asm_would_you_like_to_an_appointment">Ara randevu almak ister misiniz?</string>
+<string name="asm_permission_call">Arama işlemi yapmak için lütfen izin verin.</string>
+<string name="asm_additional_appointment">Randevusu</string>
+<string name="asm_your_upcoming_appointments">Yaklaşan Randevularınız</string>
+<string name="asm_tsi_info">Türkiye yerel saati kullanılmaktadır.</string>
+<string name="asm_lab_result">Laboratuvar Sonucu</string>
+<string name="asm_support_center_flat">Destek Merkezi</string>
+<string name="asm_choose_subject">Konu Seçiniz</string>
+<string name="asm_we_are_listening_to_you">Sizi Dinliyoruz</string>
+<string name="asm_support_center_sub_info">Hizmet kalitemizi daha da yükseltmek için görüşlerinize, önerilerinize ve eleştirilerinize kulak veriyoruz.</string>
+<string name="asm_your_message">Mesajınız</string>
+<string name="asm_subject_proposal">Öneri</string>
+<string name="asm_subject_request">İstek</string>
+<string name="asm_subject_complaint">Şikayet</string>
+<string name="asm_subject_thanks">Teşekkür</string>
+<string name="asm_subject_price_information">Fiyat Bilgisi</string>
+<string name="asm_about_the_doctor">Doktor Hakkında</string>
+<string name="asm_are_you_sure_want_to_logout">Çıkış yapmak istediğinize emin misiniz?</string>
+<string name="asm_are_you_sure_want_to_delete_appointment">Randevunuz iptal edilicektir. Devam etmek istiyor musunuz?</string>
+<string name="asm_appointment_success_canceled">Randevu iptal işleminiz \nbaşarılı olmuştur. Ödeme \niade süreciniz başlamıştır.</string>
+<string name="asm_request_error_try_again">Bir hata oluştu. Lütfen tekrar deneyin.</string>
+<string name="asm_my_mother">Annem</string>
+<string name="asm_my_father">Babam</string>
+<string name="asm_brother">Erkek Kardeş</string>
+<string name="asm_sister">Kız Kardeş</string>
+<string name="asm_video_call_information">Hekimlerle yapılan görüntülü görüşmeleriniz kaydedilmeyecek ve hasta mahremiyeti prensipleri dahilinde üçüncü şahıs veya kurumlarla paylaşılmayacaktır. Kişisel Verileri Koruma Kanunu gereğince hastalarımızın da görüşmeleri kaydetmesi ve üçüncü kişilerle paylaşması yasal değildir.</string>
+<string name="asm_add_to_phone_calendar">Telefonun takvimine ekle</string>
+<string name="asm_appointment_successfull_must_pay">Randevu talebiniz alınmıştır. Ödemenizi gerçekleştirmezseniz randevunuz iptal edilecektir.</string>
+
+<string name="room_status">status</string>
+<string name="permissions_needed">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+<string name="error_retrieving_access_token">Error retrieving token</string>
+<string name="title_activity_settings">Settings</string>
+<string name="settings">Settings</string>
+<string name="codec_title">Set your preferred audio and video codec. Not all codecs are supported with Group rooms. The media server will fallback to OPUS or VP8 if a preferred codec is not supported.</string>
+<string name="pref_title_audio_codec">Audio Codec</string>
+<string name="pref_title_video_codec">Video Codec</string>
+<string name="sender_bandwidth_constraints">Set sender bandwidth constraints. Zero represents the WebRTC default value which varies by codec.</string>
+<string name="max_audio_bitrate">Max Audio Bitrate (bits per second)</string>
+<string name="max_video_bitrate">Max Video Bitrate (bits per second)</string>
+<string name="vp8_simulcast">VP8 Simulcast</string>
+<string name="audio_device">Audio Device</string>
+<string name="room_screen_select_device">Select Device</string>
+
+<string name="icomed_signup_match_phone_numbers_title">Kayıtlı Profil Bilgisi</string>
+<string name="icomed_identity_passport_no">TC Kimlik No veya Pasaport No</string>
+<string name="icomed_enter_profile_info">Profilini doğrulamak için bilgilerini gir.</string>
+<string name="icomed_mail">Mail</string>
+<string name="icomed_email">E - Mail</string>
+<string name="icomed_profile_address">%1$s - %2$s - %3$s</string>
+<string name="icomed_profile_nationality_id">%1$s - %2$s</string>
+<string name="icomed_nationality_identify_id">Uyruk - TC</string>
+<string name="icomed_my_drugs">İlaçlarım</string>
+<string name="icomed_my_allergies">Alerjilerim</string>
+<string name="icomed_my_chronics">Kronik\nRahatsızlıklarım</string>
+<string name="icomed_my_family_disease">Ailemde Olan\nRahatsızlıklar</string>
+<string name="icomed_my_body">Vücut\nÖlçülerim</string>
+<string name="icomed_all_appointments">Tüm Randevular</string>
+<string name="icomed_medical_results">Tıbbi Kayıt ve Sonuçlar</string>
+<string name="icomed_prescriptions">Reçete</string>
+<string name="icomed_drug_reminder">İlaç Hatırlatma</string>
+<string name="icomed_my_cards">Kartlarım</string>
+<string name="icomed_do_exit">Çıkış yap</string>
+<string name="icomed_share_friends">Arkadaşına öner</string>
+<string name="icomed_settings">Ayarlar</string>
+<string name="icomed_show_profile">Profili görüntüle</string>
+<string name="icomed_onsite_appointments">Yerinde Randevular</string>
+<string name="icomed_video_calls">Görüntülü Görüşmeler</string>
+<string name="icomed_upcoming_appointment">Yaklaşan Randevu</string>
+<string name="icomed_fore_info">Önbilgi</string>
+<string name="icomed_i_will_late">Gecikeceğim</string>
+<string name="icomed_cancel">İptal et</string>
+<string name="icomed_department">Bölüm</string>
+<string name="icomed">iCoMED</string>
+<string name="icomed_publications">Yayınlar</string>
+<string name="icomed_nearest_appointment">En Yakın Randevu</string>
+<string name="asm_experience">Deneyim</string>
+
+<string name="asm_allow_permission">İzin ver</string>
+<string name="asm_title_permission_calendar">Takvim için bildirimleri açın</string>
+<string name="asm_title_permission_gallery">Galeri erişim izni verin</string>
+<string name="asm_title_permission_camera">Kamera erişim izni verin</string>
+<string name="asm_title_permission_location">Konum erişim izni verin</string>
+<string name="asm_title_permission_microphone">Mikrofon erişim izni verin</string>
+<string name="asm_subtitle_permission_calendar">Randevunuzun takibini daha rahat yapabilmeniz için takvim iznini vermelisiniz.</string>
+<string name="asm_subtitle_permission_gallery">Galeriden fotoğraf yükleyebilmeniz için erişim iznini vermelisiniz.</string>
+<string name="asm_subtitle_permission_camera">Kameranızı kullanabilmeniz için erişim iznini vermelisiniz.</string>
+<string name="asm_subtitle_permission_location">Konum bilginizi kullanarak haritayı görüntüleyebilmek için erişim izni vermelisiniz.</string>
+<string name="asm_subtitle_permission_microphone">Mikrofonunuzu kullanabilmeniz için erişim iznini vermelisiniz.</string>
+<string name="asm_allow_notifications">Bildirimlere\nizin verin</string>
+<string name="asm_call_voice_accept">Sesli\nCevapla</string>
+<string name="asm_call_cancel">Çağrıyı\nReddet</string>
+<string name="asm_call_video_accept">Görüntülü\nCevapla</string>
+
+</resources>
+
