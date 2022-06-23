@@ -1,0 +1,565 @@
+<ressources xmlns:tools="http://schemas.android.com/tools">
+
+<!-- Menu -->
+<string name="menu_login" translatable="false">Connexion</string>
+<string name="menu_appointments" translatable="false">Rendez-vous</string>
+<string name="menu_reports" translatable="false">Rapports</string>
+<string name="menu_medical_records">Dossiers médicaux</string>
+<string name="menu_other" translatable="false">Autre</string>
+<string name="onboarding_get_started" translatable="false">Démarrez !</string>
+<string name="onboarding_login" translatable="false">J'ai déjà un compte</string>
+<string name="welcome" translatable="false">Bienvenue !</string>
+<string name="sauter" translatable="false">(sauter)</string>
+
+
+<string name="icomed_home" translatable="false">Page d'accueil</string>
+<string name="icomed_hospital_appointment" translatable="false">Rendez-vous à l'hôpital</string>
+<string name="icomed_video_call" translatable="false">Appel vidéo</string>
+<string name="icomed_menu" translatable="false">Menu</string>
+<string name="send" translatable="false">Envoyer</string>
+<string name="new_user" translatable="false">Créer un utilisateur</string>
+<string name="txtNewProfileInfo1" translatable="false">Pour créer un utilisateur, indiquez votre adresse e-mail et votre mot de passe utilisateur à 6 chiffres.</string>
+<string name="email" translatable="false">Courriel</string>
+<string name="password" translatable="false">Mot de passe</string>
+<string name="passwordAgain" translatable="false">Répéter le mot de passe</string>
+<string name="start_profile_creation" translatable="false">Démarrer le profilage</string>
+<string name="new_profile" translatable="false">Créer un profil</string>
+<string name="next_step" translatable="false">Étape suivante</string>
+<string name="gender" translatable="false">Sexe</string>
+<string name="name">Nom</string>
+<string name="surname">Nom de famille</string>
+<string name="new_profile_barcode_info">Vous pouvez transférer des informations de profil en recherchant\n votre ID.</string>
+<string name="female">Femme</string>
+<string name="male">Homme</string>
+<string name="change_photo">Changer l'image</string>
+<string name="nationality">Nationalité</string>
+<string name="identity_no">Numéro d'identité TR</string>
+<string name="birth_date">Date de naissance</string>
+<string name="location_info" tools:ignore="Typos">Vos informations d'adresse nous aident à recommander des établissements de santé plus proches de vous.</string>
+<string name="country">Pays</string>
+<string name="ville">Ville</string>
+<string name="District">Comté</string>
+<string name="great_profile">votre profil a fière allure !</string>
+<string name="skip_profile">Ignorer</string>
+<string name="health_card">Carte Santé</string>
+<string name="permission_camera">Veuillez autoriser l'ajout de photos</string>
+<string name="permission_camera_and_microphone">Veuillez autoriser l'autorisation de la caméra et du microphone</string>
+<string name="permission_video_call">Les autorisations doivent être accordées avant de pouvoir passer un appel vidéo.</string>
+<string name="take_photo">Prendre une photo</string>
+<string name="upload_photo">Télécharger une photo</string>
+
+
+
+<string name="confirm_phone_number" translatable="false">Confirmez votre numéro de téléphone\ncommencez à l'utiliser.</string>
+<string name="hint_phone_number" translatable="false">Numéro de téléphone</string>
+<string name="confirm_user_contract" translatable="false">J'accepte les conditions d'utilisation.</string>
+<string name="send_sms" translatable="false">Envoyer un SMS</string>
+<string name="resend_sms" translatable="false">Renvoyer le SMS</string>
+<string name="resend_mail" translatable="false">Renvoyer le courrier</string>
+<string name="validate_sms_code" translatable="false">Entrez le code SMS de votre numéro de téléphone</string>
+<string name="validate" translatable="false">Vérifier</string>
+<string name="is_this_your_account" translatable="false">Ce compte utilisateur vous appartient-il ?</string>
+<string name="info_account_name" translatable="false">Le 0500 000 00 00 \nnuméro de téléphone que vous avez saisi est enregistré auprès de H***** K**a \na.</string>
+<string name="account_is_mine" translatable="false">Oui, ce compte est moi</string>
+<string name="account_is_not_mine" translatable="false">Non, le compte n'est pas le mien</string>
+<string name="validate_sms" translatable="false">Vérifier les SMS</string>
+<string name="hint_sms_code" translatable="false">Code SMS</string>
+<string name="info_profiles_of_phone_number" translatable="false">Les autres profils associés au numéro de téléphone seront annulés.</string>
+<string name="cancel_dialog" translatable="false">Annuler</string>
+<string name="yes" translatable="false">Oui</string>
+<string name="question_continue" translatable="false">Voulez-vous continuer ?</string>
+<string name="validate_your_profile">Vérifiez votre profil</string>
+<string name="did_you_forget_password">Mot de passe oublié ?</string>
+<string name="deactivated_msg">Votre compte a été supprimé !</string>
+</string>
+<string name="custom_dialog_prompt_info">"Les autres profils associés au numéro de téléphone 0500 000 00 00 seront annulés.</string>
+<string name="empty_error">Veuillez remplir tous les champs.</string>
+<string name="password_match_error">Les mots de passe que vous avez saisis ne correspondent pas.</string>
+<string name="password_length_error">Le mot de passe doit comporter au moins 6 caractères !</string>
+<string name="phone_number_error">Veuillez saisir un numéro de téléphone valide.</string>
+<string name="user_agreement_error">Vous devez confirmer le contrat d'utilisation.</string>
+
+<string name="good_morning">Bonjour</string>
+<string name="weight">Poids</string>
+<string name="unit_weight">kg</string>
+<string name="height">Hauteur</string>
+<string name="unit_height">cm</string>
+<string name="blood_group">Groupe sanguin</string>
+<string name="blood_group_a">A</string>
+<string name="blood_group_b">B</string>
+<string name="blood_group_zero">0</string>
+<string name="blood_group_ab">AB</string>
+<string name="rh_positive">Rh +</string>
+<string name="rh_negative">Rh -</string>
+<string name="rh">Rh</string>
+<string name="profile">Profil</string>
+<string name="hôpitaux">Hôpitaux</string>
+<string name="address">Adresse</string>
+<string name="update">Mettre à jour</string>
+<string name="bed">Lit</string>
+<string name="contact">Contact</string>
+<string name="departments">Unités médicales</string>
+<string name="more">Plus</string>
+<string name="moins">Moins</string>
+<string name="experiment">Expérience</string>
+<string name="appointment">Rendez-vous</string>
+<string name="camera">Caméra</string>
+<string name="microphone">Micro</string>
+
+<string name="requestSuccessful">Demande réussie !</string>
+<string name="requestErrorMessage">Une erreur s'est produite !</string>
+
+
+<!-- ASM -->
+<string name="asm_onboarding_get_started">Commencer</string>
+<string name="asm_create_profile">Créer un compte</string>
+<string name="asm_next">Continuer</string>
+<string name="asm_onboarding_text_1">Rendez-vous rapide et\narrange</string>
+<string name="asm_onboarding_text_2">Appelez votre médecin\nvidéo de n'importe où</string>
+<string name="asm_onboarding_text_3">Afficher vos résultats de test et vos rapports\instantanés</string>
+<string name="asm_create_profile_password_info">Votre mot de passe doit comporter 6 caractères et chiffres.</string>
+<string name="asm_birthdate_with_format">Date de naissance (JJ/MM/AA)</string>
+<string name="asm_change_profile_photo">Changer la photo du profil</string>
+<string name="match_hospital">Match Hôpital</string>
+<string name="match_hospital_info">Nous n'avons trouvé aucun dossier hospitalier dans notre système. Ensuite, vous pouvez effectuer \nla mise en correspondance des hôpitaux à partir de la gestion des profils.</string>
+<string name="match_hospital_info_continue">Vous pourrez toujours effectuer \nles actions suivantes dans l'application ;</string>
+<string name="return_home">Retour à la page d'accueil</string>
+<string name="can_create_appointment">Capable de prendre des rendez-vous</string>
+<string name="video_meeting">Appel vidéo</string>
+<string name="match_hospital_success_info">Les enregistrements associés au numéro de téléphone 0500 000 00 00 ont été appariés ;</string>
+<string name="match_hospital_need_phone_validation">Une validation supplémentaire est requise pour accéder aux \nenregistrements suivants associés à un autre numéro de téléphone.</string>
+<string name="save">Enregistrer</string>
+<string name="match_hospital_unsuccess_info">Aucun enregistrement associé trouvé avec le numéro de téléphone 0532 170 05 73.</string>
+
+
+
+
+
+
+<string name="asm_welcome">Bienvenue,</string>
+<string name="asm_phone_validation_info">Confirmez votre numéro de téléphone\ncommencez à l'utiliser.</string>
+<string name="asm_country_code">Code pays</string>
+<string name="asm_user_contract">J'ai lu et j'accepte les Conditions d'utilisation et le Texte d'information sur la protection des données personnelles</string>
+<string name="asm_send_sms">Envoyer un SMS</string>
+<string name="asm_sms_validation_info">Votre code de vérification a été envoyé à \n0555 666 77 88 \n</string>
+<string name="asm_hint_sms_code">Code SMS</string>
+<string name="asm_hint_mail_code">Code de vérification</string>
+<string name="asm_hint_phone_number">Votre numéro de téléphone</string>
+<string name="asm_validate">Vérifier</string>
+<string name="asm_didnt_you_receieve_sms_code">Vous n'avez pas reçu de mot de passe sur votre téléphone ?</string>
+<string name="asm_didnt_you_receieve_mail_code">Vous n'avez pas reçu de mot de passe pour votre e-mail ?</string>
+<string name="asm_resend">Renvoyer</string>
+<string name="asm_is_this_your_account">Ce compte utilisateur vous appartient-il ?</string>
+<string name="asm_account_is_mine">Oui, ce compte est moi</string>
+<string name="asm_account_is_not_mine">Non, le compte n'est pas le mien</string>
+<string name="custom_dialog_prompt_asm_info">Les autres profils associés au numéro de téléphone 0555 666 77 88 \n seront annulés</string>
+<string name="info_profiles_of_phone_number_asm" translatable="false">les autres profils associés au numéro de téléphone \n seront \ncoupés</string>
+<string name="asm_success_phone_validation">Vous avez\nvérifié votre téléphone.</string>
+<string name="asm_sign_up">S'inscrire</string>
+<string name="asm_pair_phone_numbers_title">Informations de correspondance</string>
+<string name="asm_pair_phone_numbers_subtitle"> n'a pas pu trouver votre enregistrement associé au numéro de téléphone.</string>
+<string name="asm_pair_phone_numbers_info">Une authentification supplémentaire est requise pour accéder aux enregistrements suivants associés à un autre numéro de téléphone.</string>
+<string name="asm_pair_phone_numbers_footer_info">Si non couplé, vous ne pourrez pas voir vos enregistrements historiques. \nVous pourrez réassocier ultérieurement.</string>
+<string name="asm_pair_phone_numbers_button">Continuer sans appairage</string>
+<string name="asm_import_hospital_data">Importer des informations sur l'hôpital</string>
+<string name="info_account_name_asm">Le numéro de téléphone 0555 666 77 88 que vous avez saisi est enregistré sous le nom A** Y*****</string>
+<string name="asm_validate_profile">Vérifier votre profil</string>
+Pour vérifier votre compte sous <string name="asm_profile_edit_info">, entrez votre date de naissance et votre ancien mot de passe à 6 chiffres</string>
+<string name="asm_identity_no">T.C. Numéro d'identification</string>
+
+
+
+
+<string name="asm_birth_date">Date of Birth</string>
+<string name="asm_password">Password</string>
+<string name="asm_forgot_password">Forgot Password</string>
+<string name="asm_invalid_idendity">T.C. Identity Number was entered missing!</string>
+<string name="asm_remind_password">Remind Password</string>
+<string name="asm_send">Send</string>
+<string name="asm_sent_password_your_phone_number">Your password has been sent to your registered phone</string>
+<string name="asm_ok">OK</string>
+<string name="asm_upcoming_appointments">Your Upcoming Appointments</string>
+<string name="asm_visits">Your Past Visits</string>
+<string name="asm_selection_for_you">What we picked for you</string>
+<string name="asm_our_creative_solution">Our Approaches That Make a Difference</string>
+<string name="asm_call_center">Call Center</string>
+<string name="asm_service_info">SERVICE \nINFORMATION</string>
+<string name="asm_my_appointments">My appointments</string>
+<string name="asm_appointments_in_hospital">Onsite Appointments</string>
+<string name="asm_video_appointments">Video Call</string>
+<string name="asm_no_appointments">You do not have an appointment.</string>
+<string name="asm_use_button_for_appointments">You can use the following \nbutton to make an appointment</string>
+<string name="asm_get_new_appointment">Make New Appointment</string>
+<string name="asm_waiting_video_appointment">Waiting for Call</string>
+<string name="asm_login_info">You can login by entering your password</string>
+<string name="asmForgotPassword">Forgot Password</string>
+<string name="asm_appointment_of_hospital">Hospital Appointment</string>
+<string name="asm_appointment_of_video">Video Call</string>
+<string name="asm_for_who">For whom</string>
+<string name="asm_hospital">Hospital</string>
+<string name="asm_date">Date</string>
+<string name="asm_complaint">Complaint</string>
+<string name="asm_lab">Lab</string>
+<string name="asm_rad">Radiology</string>
+<string name="asm_pat">Pathology</string>
+<string name="asm_report">Recipe</string>
+
+
+<string name="asm_in_hospital_appointment">Hospital\nAppointment</string>
+<string name="asm_video_appointment">Video\nInterview</string>
+<string name="asm_support_center">Support\nCenter</string>
+<string name="asm_cancel_appointment">Cancel Appointment</string>
+<string name="asm_list">List</string>
+<string name="asm_map">Map</string>
+<string name="asm_our_hospitals">Our Hospitals</string>
+<string name="asm_name_of_asm">Anatolian Health Center</string>
+<string name="asm_atasehir">Ataşehir</string>
+<string name="asm_gebze">Gebze</string>
+<string name="asm_current_mark_tag">Your Location</string>
+<string name="asm_permission_granted">Permitted</string>
+<string name="asm_permission_denied">Permission denied</string>
+<string name="asm_current_location_permission">You need permission to access your current location!</string>
+<string name="asm_return">Return</string>
+<string name="asm_next_step">Next Step</string>
+<string name="asm_did_you_forget_password">Forgot your password?</string>
+<string name="asm_choose_validation_way">Choose verification method</string>
+<string name="asm_sms">SMS</string>
+<string name="asm_email">Email</string>
+<string name="asm_create_new_password">Create New Password</string>
+<string name="asm_new_password">New Password</string>
+<string name="asm_renew_password">Repeat New Password</string>
+<string name="asm_create">Create</string>
+<string name="asm_login_with_another_gsm_number">Login with another phone number</string>
+<string name="asm_enter_profile_info">Enter your \ninfo to verify your profile.</string>
+<string name="asm_start_text_for_sms_validation">Your validation code</string>
+It was forwarded to <string name="asm_end_text_for_sms_validation"></string>
+<string name="asm_end_text_for_mail_validation"> forwarded to.</string>
+<string name="asm_medical_reports_results">Medical Record and Results</string>
+<string name="asm_laboratory">Laboratory</string>
+<string name="asm_radiology">Radiology</string>
+<string name="asm_other">Other</string>
+
+
+<string name="asm_hospital_general_info">Get to know</string>
+<string name="asm_address_description">Directions</string>
+<string name="asm_roads_info">Service Information</string>
+<string name="asm_hospital_departments">Medical Departments</string>
+<string name="asm_hospital_doctors">Doctors</string>
+<string name="asm_hospital_working_time">Working Hours of Emergency and Polyclinics</string>
+<string name="asm_weekdays">Monday-Friday</string>
+<string name="asm_weekend">Saturday</string>
+<string name="asm_work_hours_with_numbers">08:00 – 20:00</string>
+<string name="asm_gebze_hospital_meters">50,000 m2 Closed Area</string>
+<string name="asm_bed_gebze_capacity_written">201 Bed Capacity</string>
+<string name="asm_gebze_article_header">You are safe in Gebze Anadolu Medical Center.</string>
+<string name="asm_atasehir_article_header">You are safe at Ataşehir Medical Center.</string>
+
+<string name="asm_gebze_article_text">Anatolian Foundation, which has brought dozens of works to Turkey, has fulfilled another dream by putting Anadolu Medical Center into service. Our hospital, which protects the valuable heritage of Anatolia, which has hosted thousands of years of health experience and many valuable medical people, uses this knowledge to contribute to human health. Our hospital, which works in strategic cooperation with Johns Hopkins Medicine for the improvement of education and quality; offers services in all branches, especially oncological sciences, heart health, women's health and IVF, neurological sciences, surgical sciences, internal sciences, diagnosis and imaging. Our hospital, which was established on a land area of ​​approximately 188,000 square meters and continues to work with a 201 bed capacity in a closed area of ​​50 thousand square meters, provides services with JCI (Joint Commission International) accreditation and ESMO (European Medical Oncology Association) certifications. Anadolu Medical Center continues its health services with Ataşehir Surgical Medical Center in Ataşehir. Transaction archives of patients receiving service from the satellite clinic can be kept in a virtual environment. Bone Marrow Transplantation Center, which started to serve within the hospital in June 2010, can perform bone marrow transplantation to 22 patients at the same time. Our first priority at our hospital is always our patients. For this reason, we value the needs and expectations of our patients and their relatives, and we work with great care to ensure that they have a peaceful treatment process and feel at home.</string>
+<string name="asm_atasehir_article_text">As Anadolu Health Center, our first priority is the health of our patients/patient relatives and employees. In this direction, we take the measures required by both national and international authorities, and we offer health services to our patients in a safe environment during the current COVID-19 pandemic. In Ataşehir Medical Center, as in our Gebze hospital, in Anadolu Health Ataşehir Medical Center, which has been serving since 2008, our patients with suspected COVID-19 are evaluated by a special team in the Emergency Service and referred to the relevant state hospitals for treatment. We provide services in many different branches at Anadolu Health Ataşehir Medical Center, which provides health services in a safe and sterile environment. In our Functional Medicine department, one of the branches where we make a difference, our functional medicine physician provides service with a personalized and holistic approach. Our guests who want to keep their immune system strong during the current pandemic period can benefit from our ozone therapy, which is applied to strengthen the immune system. Anadolu Medical Center continues its health services at Ataşehir Medical Center. Radiologic imaging results of patients in hospitals and medical centers can be kept in a virtual environment. Thus, when necessary, information can be easily exchanged between Anadolu Medical Center and Anadolu Health Ataşehir Medical Center. In addition, Anadolu Health Ataşehir Medical Center has a system that allows monitoring of patient procedures and keeping patient archives in a virtual environment. Thanks to this technology, patient records can be viewed on the same system in all branches of Anadolu Medical Center. Anadolu Health Ataşehir Medical Center was established in 2008 with an investment cost of 8 million dollars. The center, which was established on an area of ​​3 thousand 700 square meters, has polyclinics and emergency services in many branches from pediatric health and diseases to skin diseases, from urology to internal diseases.</string>
+<string name="asm_atasehir_adress">Barbaros Mah. Ortabahar Sokak\nNo: 28, 28A\nAtaşehir Istanbul</string>
+<string name="asm_gebze_adress">Cumhuriyet Mahallesi\n2255 street no:3\nGebze 41400 Kocaeli</string>
+<string name="asm_tel_no">Tel : 44 44 276</string>
+<string name="asm_atasehir_fax_no">Fax : 0216 317 00 99</string>
+<string name="asm_gebze_fax_no">Fax : 0262 678 55 45</string>
+<string name="asm_gebze_latitude">Latitude: 40.819035</string>
+<string name="asm_gebze_longitude">Longitude: 29.353974</string>
+<string name="asm_atasehir_latitude">Latitude: 40.984598</string>
+<string name="asm_atasehir_longitude">Longitude: 29.097719</string>
+<string name="asm_address_info" tools:ignore="Typos">Address Information</string>
+<string name="asm_contact_info">Contact Information</string>
+<string name="asm_call">Call</string>
+
+
+
+<string name="asm_coordinates">Coordinates</string>
+<string name="asm_all_roads">All Service Routes</string>
+<string name="asm_search_roads">Search county for service route</string>
+<string name="asm_roads_info_warning">To use the service, you need to make an appointment <b>1 hour before</b>\n<b>44 44 276</b>\nappointment.</string>
+<string name="asm_atasehir_hospital_name">Ataşehir Medical Center - Anadolu Medical Center Hospital</string>
+<string name="asm_izmit_hospital_name">Izmit - Anadolu Medical Center Hospital</string>
+<string name="asm_our_hospital_departments">Our Medical Departments</string>
+<string name="asm_search_departments">Search Department</string>
+<string name="asm_dental_health">Oral and Dental Health</string>
+<string name="asm_pain_management">Pain Management</string>
+<string name="asm_biochemistry">Biochemistry</string>
+<string name="asm_our_doctors">Our doctors</string>
+<string name="asm_search_doctor">Search Doctor</string>
+<string name="asm_show_on_map">Show on Map</string>
+<string name="asm_health_guide">Health Guide</string>
+<string name="asm_health_articles">Health Directory Articles</string>
+<string name="asm_all">All</string>
+<string name="asm_nutrition_diet">Nutrition and Diet</string>
+<string name="asm_cancer">Cancer</string>
+<string name="asm_women">Women</string>
+<string name="asm_all_articles">All Posts</string>
+<string name="asm_take_an_appointment">Make Appointment</string>
+<string name="asm_past_visits">Past Exams</string>
+<string name="asm_search_result">Search Results</string>
+<string name="asm_visit_history_detail">Inspection Detail</string>
+<string name="asm_details">Details</string>
+<string name="asm_evaluate_point_visit">Score the Exam</string>
+<string name="asm_get_your_control_appointment">Make a Control Appointment</string>
+<string name="asm_results">Results</string>
+<string name="asm_notification">Notifications</string>
+<string name="asm_lorem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusant dolorque laudantium, totam</string>
+<string name="asm_get_appointments">Make Appointment</string>
+<string name="asm_get_control_appointment">Make Control Appointment</string>
+<string name="asm_doctor_did_not_call_me">The doctor did not call me</string>
+<string name="help">Help</string>
+<string name="pay">Make Payment</string>
+<string name="asm_account_infos">Your Account Information</string>
+<string name="asm_prescriptions">Prescriptions</string>
+<string name="asm_videos">Videos</string>
+<string name="asm_take_our_survey">Take Our Survey</string>
+<string name="asm_contact_us">Contact Us</string>
+<string name="asm_logout_my_app">Logout My App</string>
+<string name="asm_get_appointment_steps">Appointment Steps</string>
+<string name="asm_who_is_appointment_for">Who are you taking the appointment for?</string>
+<string name="asm_choose_appointment_type">Choose Appointment Type</string>
+<string name="asm_choose_hospital">Choose Hospital</string>
+<string name="asm_education">Training</string>
+<string name="asm_doctor_specialty">Specialization</string>
+<string name="asm_journal">Publications</string>
+<string name="asm_articles_of_doctor">Presidential articles</string>
+<string name="asm_get_appointment">Make Appointment</string>
+<string name="asm_my_profile">My Account</string>
+<string name="asm_profile_informations">Account Information</string>
+<string name="asm_personal_informations">Personal Information</string>
+<string name="asm_healthy_card">Health Card</string>
+<string name="asm_mobile_number">Mobile Phone</string>
+<string name="asm_re_password">Password(again)</string>
+<string name="asm_change_your_password">Change Password</string>
+<string name="asm_identity_number">T.C. ID No</string>
+<string name="asm_blood_type">Blood Type</string>
+
+
+
+
+
+
+<string name="asm_body_height">Height</string>
+<string name="asm_body_weight">Weight</string>
+<string name="asm_have_you_chronic_disease">Do you have a chronic condition?</string>
+<string name="asm_have_family_chronic_disease">Is there a chronic disorder in family members?</string>
+<string name="asm_have_you_any_allergy">Do you have any allergies?</string>
+<string name="asm_have_using_routine_medicine">Do you routinely use medications?</string>
+<string name="asm_add_my_selections">Add My Picks</string>
+<string name="asm_appointment_for_which_profile">Who are you taking the appointment for?</string>
+<string name="asm_department">Division</string>
+<string name="asm_doctor">Doctor</string>
+<string name="asm_other_reports">Other Reports</string>
+<string name="asm_waiting_result">Result\nWaiting</string>
+<string name="asm_info_pathology_report">Your "pathology" reports \nfrom the result display page\nare not displayed.</string>
+<string name="asm_can_call_the_call_center">For more information, you can call our call center.</string>
+<string name="asm_call_the_call_center">Call Call Center</string>
+<string name="asm_close">Close</string>
+<string name="asm_hours">s</string>
+<string name="asm_minutes">min</string>
+<string name="asm_seconds">s</string>
+<string name="asm_waiting_meeting">WAITING FOR CALL</string>
+<string name="asm_meeting_completed">CALL COMPLETED</string>
+<string name="asm_meeting_ending_susccess">CALL MADE</string>
+<string name="asm_meeting_waiting_payment">WAITING PAYMENT</string>
+<string name="asm_meeting_is_starting">TOUCHING A CALL</string>
+<string name="asm_meeting_cancelled">CALL CANCELED</string>
+<string name="asm_hospital_appointment_waiting">WAITING FOR APPOINTMENT</string>
+<string name="asm_meeting_no_happened">CALL FAILED</string>
+<string name="asm_explanation">Description</string>
+<string name="asm_lorem_long">Suspendisse tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo, in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Praesent id porta nunc. Vivamus malesuada at dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. In pilgrimage habitasse platea dictumst. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+Suspendisse tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo, in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Praesent id porta nunc. Vivamus malesuada at dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. In pilgrimage habitasse platea dictumst. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+</string>
+
+
+<string name="asm_result">Result</string>
+<string name="asm_for_patients_visit_from_another_country">For our patients from abroad;</string>
+<string name="asm_for_patients_visit_from_another_city">For our out-of-town patients;</string>
+<string name="asm_info_and_contact">Information and Communication</string>
+<string name="asm_mail_for_international_patients">int.patients@anadolusaglik.org</string>
+<string name="asm_info_website">www.anadolumedicalcenter.com</string>
+<string name="asm_patients_from_out_of_country">Our Patients From Abroad</string>
+<string name="asm_patients_from_out_of_city">Our Out of City Patients</string>
+<string name="asm_choose_department">Select Department</string>
+<string name="asm_choose_doctor">Choose Doctor</string>
+<string name="asm_choose">Select</string>
+<string name="asm_header_department">Section:</string>
+<string name="asm_header_hospital">Hospital:</string>
+<string name="asm_header_doctor">Doctor:</string>
+<string name="asm_header_date">Date:</string>
+<string name="asm_header_date_today">Today</string>
+<string name="asm_choose_time">Choose Time</string>
+<string name="asm_choose_date">Choose Date</string>
+<string name="asm_other_our_doctors">Our other doctors in this section</string>
+<string name="asm_success_appointment_info">Your appointment has been successfully created.</string>
+<string name="asm_note">Note</string>
+<string name="asm_appointment_type">Appointment Type</string>
+<string name="asm_appointment_holder">Appointer</string>
+<string name="asm_delete_note">Delete Note</string>
+<string name="asm_completed">Complete</string>
+<string name="asm_is_there_note">Is there a note you would like to forward to your physician?</string>
+<string name="asm_note_hint">You can write your note here.</string>
+<string name="asm_success_visit">Negotiation Success</string>
+<string name="asm_cvc_no">CVC No</string>
+<string name="asm_name_on_the_card">Name on Card</string>
+<string name="asm_surname_on_the_card">Surname on Card</string>
+<string name="asm_card_number">Card Number</string>
+<string name="asm_expiration_date">Expiration Date</string>
+<string name="asm_pay_with_credit_card">Pay by Credit Card</string>
+<string name="asm_approve_user_agreement">I accept the user agreement</string>
+<string name="asm_online_meeting_price">Online Call Fee</string>
+<string name="asm_tax">VAT 8%</string>
+<string name="asm_appointment_discount">Discount</string>
+<string name="asm_total_price">Amount Payable</string>
+<string name="asm_download_as_pdf">View as PDF</string>
+<string name="asm_click_to_see">Click to view</string>
+<string name="minutes">min</string>
+<string name="asm_success_payment">Your payment has been made successfully and your appointment has been created.</string>
+<string name="asm_error_payment">Your payment failed,\nplease try again.</string>
+<string name="asm_unsuccess_visit">Negotiation Failed</string>
+<string name="asm_login_welcome">Welcome</string>
+<string name="asm_invalid_email">Please enter a valid email address.</string>
+<string name="asm_sms_code_error">Please enter 6 digit sms code.</string>
+<string name="asm_choose_error">Please select.</string>
+<string name="asm_test">%1$d Test</string>
+<string name="asm_waiting_test">%1$d Waiting for Results</string>
+<string name="asm_estimate_time">Estimated: %1$s</string>
+<string name="asm_explain">Description</string>
+<string name="asm_normal_prescription">NORMAL RECIPE</string>
+<string name="asm_text_value_for_lab_termes">%1$s.%2$s</string>
+<string name="asm_red_prescription">RED RECIPE</string>
+<string name="asm_yellow_prescription">YELLOW RECIPE</string>
+<string name="asm_purple_prescription">PURPLE RECIPE</string>
+<string name="asm_green_prescription">GREEN RECIPE</string>
+<string name="asm_optic_prescription">EYE RECIPE</string>
+<string name="asm_success_download_report">Report Saved</string>
+<string name="asm_storage_permission">Please grant storage permission for download!</string>
+<string name="asm_test_for_lab_child">test</string>
+<string name="asm_critical_high">Critical High</string>
+<string name="asm_above_reference_range">Reference Above Range</string>
+<string name="asm_reference_within_range">Reference In Range</string>
+<string name="asm_below_reference_range">Reference Under Range</string>
+<string name="asm_critical_low">Critical Low</string>
+<string name="asm_match_phone_number_info">You are registered to a different phone number with the same credentials. Please verify.</string>
+<string name="asm_success_new_password">Your password has been changed successfully.</string>
+<string name="asm_information">Information</string>
+<string name="asm_accept">Accept</string>
+
+
+
+<string name="icomed_mail_validation_info">Your verification code has been sent to "%1$s".</string>
+<string name="icomed_sms_validation_info">Verification code has been forwarded to "%1$s".</string>
+<string name="icomed_sms_validation_info_example">Your verification code has been sent to 0555 666 77 88.</string>
+<string name="asm_prescription_detail">Recipe Detail</string>
+<string name="asm_payment">Payment</string>
+<string name="asm_use_filter">Use Filter</string>
+<string name="asm_filter_by_hospitals">Filter By Hospitals</string>
+<string name="asm_filter_by_departments">Filter by Medical Departments</string>
+<string name="asm_choose_department_for_filter">Select Department</string>
+<string name="asm_clear">Clear</string>
+<string name="asm_apply">Apply</string>
+<string name="title_activity_twilio">TwilioActivity</string>
+<string name="next">Next</string>
+<string name="previous">Previous</string>
+<string name="asm_call_reject">Reject</string>
+<string name="asm_call_accept">Reply</string>
+<string name="asm_doctor_calling">she wants to video call you</string>
+<string name="asm_no_history_report">Your past exam is \nno.</string>
+<string name="asm_max_500_characters">Max. You can type 500 characters.</string>
+<string name="asm_would_you_like_to_an_appointment">Would you like to make a break appointment?</string>
+<string name="asm_permission_call">Please grant permission to search.</string>
+<string name="asm_additional_appointment">Appointment</string>
+<string name="asm_your_upcoming_appointments">Your Upcoming Appointments</string>
+<string name="asm_tsi_info">Turkish local time is used.</string>
+<string name="asm_lab_result">Laboratory Result</string>
+<string name="asm_support_center_flat">Support Center</string>
+<string name="asm_choose_subject">Choose Subject</string>
+<string name="asm_we_are_listening_to_you">We're Listening to You</string>
+<string name="asm_support_center_sub_info">We listen to your comments, suggestions and criticisms to further improve our service quality.</string>
+<string name="asm_your_message">Your message</string>
+<string name="asm_subject_proposal">Suggestion</string>
+<string name="asm_subject_request">Request</string>
+<string name="asm_subject_complaint">Complaint</string>
+<string name="asm_subject_thanks">Thanks</string>
+<string name="asm_subject_price_information">Price Information</string>
+<string name="asm_about_the_doctor">About the Doctor</string>
+<string name="asm_are_you_sure_want_to_logout">Are you sure you want to log out?</string>
+<string name="asm_are_you_sure_want_to_delete_appointment">Your appointment will be cancelled. Do you want to continue?</string>
+<string name="asm_appointment_success_canceled">Your appointment cancellation was \nsuccessful. Your payment \nia refund process has started.</string>
+<string name="asm_request_error_try_again">An error occurred. Please try again.</string>
+<string name="asm_my_mother">My mother</string>
+<string name="asm_my_father">My father</string>
+<string name="asm_brother">Brother</string>
+<string name="asm_sister">Sister</string>
+<string name="asm_video_call_information">Your video calls with physicians will not be recorded and will not be shared with third parties or institutions within the principles of patient privacy. In accordance with the Personal Data Protection Law, it is not legal for our patients to record the interviews and share them with third parties.</string>
+<string name="asm_add_to_phone_calendar">Add to phone's calendar</string>
+<string name="asm_appointment_successfull_must_pay">Your appointment request has been received. If you do not make your payment, your appointment will be cancelled.</string>
+
+
+<string name="room_status">status</string>
+<string name="permissions_needed">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+<string name="error_retrieving_access_token">Error retrieving token</string>
+<string name="title_activity_settings">Settings</string>
+<string name="settings">Settings</string>
+<string name="codec_title">Set your preferred audio and video codec. Not all codecs are supported with Group rooms. The media server will fallback to OPUS or VP8 if a preferred codec is not supported.</string>
+<string name="pref_title_audio_codec">Audio Codec</string>
+<string name="pref_title_video_codec">Video Codec</string>
+<string name="sender_bandwidth_constraints">Set sender bandwidth constraints. Zero represents the WebRTC default value which varies by codec.</string>
+<string name="max_audio_bitrate">Max Audio Bitrate (bits per second)</string>
+<string name="max_video_bitrate">Max Video Bitrate (bits per second)</string>
+<string name="vp8_simulcast">VP8 Simulcast</string>
+<string name="audio_device">Audio Device</string>
+<string name="room_screen_select_device">Select Device</string>
+
+<string name="icomed_signup_match_phone_numbers_title">Registered Profile Info</string>
+<string name="icomed_identity_passport_no">TR Identity Number or Passport Number</string>
+<string name="icomed_enter_profile_info">Enter your information to verify your profile.</string>
+<string name="icomed_mail">Mail</string>
+<string name="icomed_email">E - Mail</string>
+<string name="icomed_profile_address">%1$s - %2$s - %3$s</string>
+<string name="icomed_profile_nationality_id">%1$s - %2$s</string>
+<string name="icomed_nationality_identify_id">Nationality - TR</string>
+<string name="icomed_my_drugs">My Medicines</string>
+<string name="icomed_my_allergies">My allergies</string>
+<string name="icomed_my_chronics">Chronic\nMy Disorders</string>
+<string name="icomed_my_family_disease">My Family\nThe Troubles</string>
+<string name="icomed_my_body">Body\nMy Measurements</string>
+<string name="icomed_all_appointments">All Appointments</string>
+<string name="icomed_medical_results">Medical Record and Results</string>
+<string name="icomed_prescriptions">Prescription</string>
+<string name="icomed_drug_reminder">Medication Reminder</string>
+<string name="icomed_my_cards">My cards</string>
+<string name="icomed_do_exit">Sign out</string>
+<string name="icomed_share_friends">Suggest to friend</string>
+<string name="icomed_settings">Settings</string>
+<string name="icomed_show_profile">View profile</string>
+<string name="icomed_onsite_appointments">Onsite Appointments</string>
+<string name="icomed_video_calls">Video Calls</string>
+<string name="icomed_upcoming_appointment">Upcoming Appointment</string>
+<string name="icomed_fore_info">Foreword</string>
+<string name="icomed_i_will_late">I'll be late</string>
+<string name="icomed_cancel">Cancel</string>
+<string name="icomed_department">Division</string>
+<string name="icomed">iCoMED</string>
+<string name="icomed_publications">Publications</string>
+<string name="icomed_nearest_appointment">Nearest Appointment</string>
+<string name="asm_experience">Experience</string>
+
+<string name="asm_allow_permission">Allow</string>
+<string name="asm_title_permission_calendar">Turn on notifications for calendar</string>
+<string name="asm_title_permission_gallery">Grant gallery access</string>
+<string name="asm_title_permission_camera">Grant camera access</string>
+<string name="asm_title_permission_location">Grant location access</string>
+<string name="asm_title_permission_microphone">Grant microphone access</string>
+<string name="asm_subtitle_permission_calendar">You must grant the calendar permission so that you can track your appointment more easily.</string>
+<string name="asm_subtitle_permission_gallery">You must grant access before you can upload photos from the gallery.</string>
+<string name="asm_subtitle_permission_camera">You must grant access before you can use your camera.</string>
+<string name="asm_subtitle_permission_location">You must grant access to view the map using your location information.</string>
+<string name="asm_subtitle_permission_microphone">You must grant access before you can use your microphone.</string>
+<string name="asm_allow_notifications">Allow your notifications</string>
+<string name="asm_call_voice_accept">Voice\nAnswer</string>
+<string name="asm_call_cancel">Call\nReject</string>
+<string name="asm_call_video_accept">Display\nReply</string>
+
+</resources>
+
