@@ -250,164 +250,163 @@
 "for_who" = "Для кого";
 
 // MARK: - Appointment List
-"empty_appointment_list_title" = "You do not have an appointment.";
-"empty_appointment_list_message" = "You can use the button below to get appointment";
-"appointment_delete_warning_message" = "Your appointment will be deleted. Do you want to continue?";
-"appointment_refund_info_title" = "Your appointment cancellation was successful. Your payment refund process has started.";
+"empty_appointment_list_title" ="У вас нет записи.";
+"empty_appointment_list_message" = "Вы можете использовать кнопку ниже, чтобы записаться на прием";
+"appointment_delete_warning_message" = "Ваша запись будет удалена. Продолжить?";
+"appointment_refund_info_title" = "Ваша отмена встречи прошла успешно. Процесс возврата платежа начался.";
 
 // MARK: - Tabbar
-"home" = "Home";
-"other" = "Other";
-"eresults" = "Medical Results";
+"home" = "Дом";
+"other" = "Другой";
+"eresults" = «Медицинские результаты»;
 
 // MARK: - EResult
-"medical_records_resuts" = "Medical Record and Results";
-"very_high_result_info" = "Critically High";
-"high_result_info" = "Reference Above Range";
-"normal_resul_info" = "Reference In Range";
-"low_result_info" = "Reference Below Range";
+"medical_records_resuts" = «Медицинская карта и результаты»;
+"very_high_result_info" = «Критически высокий»;
+"high_result_info" = «Эталон выше диапазона»;
+"normal_resul_info" =«Эталон в диапазоне»;
+"low_result_info" = «Эталон ниже диапазона»;
 "very_low_result_info" = "Critical Low";
-"click_to_see" = "Click to view";
-"result_pending" = "Waiting for Result";
-"estimated:" = "Estimated:";
-"results" = "Results";
-"show_pdf" = "View as PDF";
-"pat_warning_title" = "Your “pathology” reports are not displayed on the results display page.";
-"pat_warning_message" = "Call our call center for more information.";
-"call_support_center" = "Call Call Center";
-"empty_visit_list_title" = "You do not have a past exam.";
-"laboratory_result" = "Laboratory Result";
+"click_to_see" = «Нажмите для просмотра»;
+"result_pending" = «Ожидание результата»;
+"estimated:" = "Оцененный:";
+"results" = "Полученные результаты";
+"show_pdf" = «Просмотреть как PDF»;
+"pat_warning_title" = "Ваши отчеты «патология» не отображаются на странице отображения результатов.";
+"pat_warning_message" ="Позвоните в наш колл-центр для получения дополнительной информации.";
+"call_support_center" =«Колл-центр»;
+"empty_visit_list_title" = "У вас нет прошлого экзамена.";
+"laboratory_result" =«Лабораторный результат»;
 
 
 
 // MARK: - Prescription
-"normal_prescription" = "NORMAL PRESCRIPTION";
-"red_prescription" = "RED PRESCRIPTION";
-"orange_prescription" = "YELLOW PRESCRIPTION";
-"purple_prescription" = "PURPLE PRESCRIPTION";
-"green_prescription" = "GREEN PRESCRIPTION";
-"optic_prescription" = "EYE PRESCRIPTION";
+"normal_prescription" = «ОБЫЧНЫЙ РЕЦЕПТ»;
+"red_prescription" = "КРАСНЫЙ РЕЦЕПТ";
+"orange_prescription" = "ЖЕЛТЫЙ РЕЦЕПТ";
+"purple_prescription" = "ФИОЛЕТОВЫЙ РЕЦЕПТ";
+"green_prescription" = "ЗЕЛЕНЫЙ РЕЦЕПТ»;
+"optic_prescription" = «РЕЦЕПТ ДЛЯ ГЛАЗ»;
 // MARK: - Hospital
-"our_hospitals" = "Our Hospitals";
-"list" = "List";
-"map" = "Map";
-"closed_area" = "Closed Area";
-"week_days" = "Monday-Friday";
-"saturday" = "Saturday";
-"bed_count" = "Bed Capacity";
-"get_to_know" = "Get to know";
-"directions" = "Directions";
-"service_info" = "Service Information";
-"address_info" = "Address Information";
-"contact_info" = "Contact Information";
-"call" = "Call";
+"our_hospitals" = «Наши больницы»;
+"list" = "Список";
+"map" ="Карта";
+"closed_area" = «Закрытая территория»;
+"week_days" = "Понедельник Пятница";
+"saturday" = "Суббота";
+"bed_count" = «Вместимость койки»;
+"get_to_know" = "Узнать";
+"directions" = «Направления»;
+"service_info" = "Служебная информация";
+"address_info" = "Информация об адресе";
+"contact_info" = "Контакты";
+"call" = "Вызов";
 
-"coordinates" = "Coordinates";
-"latitude" = "latitude";
-"longitude" = "Longitude";
-"patients_from_upstate" = "Our Out of City Patients";
-"patients_from_abroad" = "Patients From Abroad";
-"wire" = "wire";
-"fax" = "Fax";
-"medical_departments" = "Medical Departments";
-"our_medical_departments" = "Our Medical Departments";
-"doctors" = "Doctors";
-"our_doctors" = "Our doctors";
-"unable_to_open_map" = "Cannot Open Map.";
-"all_shuttle_routes" = "All Shuttle Routes";
-"search_shuttle_route" = "Search service route";
-"shuttle_list_warning_message" = "To use the service, you must make an appointment at 44 44 276 1 hour in advance.";
-"show_on_map" = "Show on Map";
+"coordinates" ="Координаты";
+"latitude" = "широта";
+"longitude" = «Долгота»;
+"patients_from_upstate" = «Наши иногородние пациенты»;
+"patients_from_abroad" = «Пациенты из-за рубежа»;
+"wire" = "провод";
+"fax" =«Факс»;
+"medical_departments" = «Лечебные отделения»;
+"our_medical_departments" = «Наши медицинские отделы»;
+"doctors" = «Врачи»;
+"our_doctors" =«Наши врачи»;
+"unable_to_open_map" = "Не удается открыть карту.";
+"all_shuttle_routes" = «Все маршрутки»;
+"search_shuttle_route" = «Поиск служебного маршрута»;
+"shuttle_list_warning_message" = "Чтобы воспользоваться услугой, необходимо записаться на прием по телефону 44 44 276 за 1 час.";
+"show_on_map" = «Показать на карте»;
 
 
 // MARK: - VideoCall
 
 
-"call_info_message" = "%@ wants to video call you";
-"coming_call" = "Incoming Call";
-"voice_answer" = "Voice\nAnswer";
-"video_answer" = "Video\nReply";
-"reject_call" = "Call\nReject";
+"call_info_message" = "%@ хочет позвонить вам по видеосвязи";
+"coming_call" = "Входящий звонок";
+"voice_answer" = "Голос\nОтветить";
+"video_answer" = "Видео\nОтветить";
+"reject_call" ="Вызов\nОтклонить";
 
 
 
 // MARK: - Payment
-"payment" = "Payment";
-"pay_with_credit_card" = "Pay by Credit Card";
-"name_on_card" = "Name on Card";
-"surname_on_card" = "Surname on Card";
-"card_no" = "Card Number";
-"expiry_date" = "Expiration Date";
-"cvc_no" = "CVC No";
-"approve_user_agreement" = "I Agree to User Agreement";
-"video_call_price" = "Online Call Fee";
-"total" = "Total";
-"payment_success_message" = "Your payment has been successfully made and your appointment has been created.";
-"payment_failure_message" = "Your payment failed, please try again.";
-"total_price" = "Amount Payable";
-"payment_back_warning_title" = "Are you sure you want to sign out?";
-"payment_back_warning_message" = "Your appointment request has been received. If you do not pay, your appointment will be cancelled.";
-
+"payment" ="Оплата";
+"pay_with_credit_card" = "Оплатить кредитной картой";
+"name_on_card" = "Имя на карте";
+"surname_on_card" = «Фамилия на карточке»;
+"card_no" = "Номер карты";
+"expiry_date" = "Срок годности";
+"cvc_no" = "CVC №";
+"approve_user_agreement" = «Я согласен с пользовательским соглашением»;
+"video_call_price" = «Плата за онлайн-звонок»;
+"total" = "Общий";
+"payment_success_message" = "Ваш платеж успешно произведен, и ваша запись создана.";
+"payment_failure_message" = "Ваш платеж не прошел, попробуйте еще раз.";
+"total_price" ="Подлежащая уплате сумма";
+"payment_back_warning_title" = "Вы уверены, что хотите выйти?";
+"payment_back_warning_message" = "Ваша заявка на прием получена. Если вы не заплатите, ваша запись будет отменена.";
 
 
 // MARK: - Menu
-"logout_warning_message" = "Are you sure you want to sign out?";
-"past_visits" = "Past Exams";
-"prescriptions" = "Prescriptions";
-"import_hospital_information" = "Import Hospital Information";
+"logout_warning_message" = "Вы уверены, что хотите выйти?";
+"past_visits" = «Прошлые экзамены»;
+"prescriptions" = «Рецепты»;
+"import_hospital_information" =«Импорт информации о больницах»;
 
 // MARK: - DoctorDetail
-"education" = "Education";
-"experience" = "Expertise";
-"publications" = "Publications";
-"use_filter" = "Use Filter";
-"filter_for_hospitals" = "Filter By Hospitals";
-"filter_for_departments" = "Filter by Medical Departments";
-"clear" = "Clear";
-"apply" = "Apply";
+"education" = "Образование";
+"experience" = «Экспертиза»;
+"publications" = «Публикации»;
+"use_filter" = «Использовать фильтр»;
+"filter_for_hospitals" = «Фильтр по больницам»;
+"filter_for_departments" = «Фильтр по медицинским отделениям»;
+"clear" = "Чистый";
+"apply" = "Подать заявление";
 
 
 
 // MARK: - SupportCenter
-"support_center" = "Support Center";
-"support_center_title" = "We're Listening to You";
-"support_center_message" = "We listen to your comments, suggestions and criticisms to further improve our service quality.";
-"choose_topic" = "Choose a Topic";
-"your_message" = "Your Message";
-"send" = "Send";
-"suggestion" = "Suggestion";
-"request" = "Request";
-"complaint" = "Complaint";
-"thanks" = "thanks";
-"price_info" = "Price Information";
-"about_doctor" = "About Doctor";
-"support_center_success_message" = "Your feedback has been received.";
+"support_center" = "Центр поддержки";
+"support_center_title" = «Мы вас слушаем»;
+"support_center_message" = "Мы прислушиваемся к вашим комментариям, предложениям и критике, чтобы еще больше улучшить качество наших услуг.";
+"choose_topic" ="Выберите тему";
+"your_message" = "Твое сообщение";
+"send" = "Отправлять";
+"suggestion" = "Предложение";
+"request" = "Запрос";
+"complaint" = "Жалоба";
+"thanks" = "Благодарность";
+"price_info" = «Информация о ценах»;
+"about_doctor" =«О докторе»;
+"support_center_success_message" = "Ваш отзыв получен.";
 
 
 // MARK: - PermissionPopup
-"notif-permission-title" = "Allow notifications";
-"notif-permission-message" = "You must grant notification permission to use features such as reports, video calls, appointment reminders.";
-"gallery-permission-title" = "Grant gallery access";
-"gallery-permission-message" = "You must grant access before you can upload photos from the gallery.";
-"camera-permission-title" = "Grant camera access";
-"camera-permission-message" = "You must grant access before you can use your camera.";
-"location-permission-title" = "Grant location access";
-"location-permission-message" = "You must grant access to view the map using your location information.";
-"calendar-permission-title" = "Grant access to the calendar";
-"calendar-permission-message" = "You must grant calendar permission so that you can more easily track your appointment.";
-"mic-permission-title" = "Grant microphone access";
-"mic-permission-message" = "Microphone permission is required before you can make an online call.";
-"cam-mic-permission-title" = "Grant Camera and Microphone permissions";
-"cam-mic-permission-message" = "Permissions must be granted before you can conduct an online conversation.";
-"grant_access" = "Allow";
-"camera" = "Camera";
-"mic" = "Microphone";
-"accept" = "Accept";
+"notif-permission-title" = «Разрешить уведомления»;
+"notif-permission-message" = "Вы должны предоставить разрешение на уведомление, чтобы использовать такие функции, как отчеты, видеозвонки, напоминания о встречах.";
+"gallery-permission-title" = "Предоставить доступ к галерее";
+"gallery-permission-message" = "Вы должны предоставить доступ, прежде чем сможете загружать фотографии из галереи.";
+"camera-permission-title" = «Предоставить доступ к камере»;
+"camera-permission-message" ="Вы должны предоставить доступ, прежде чем сможете использовать камеру.";
+"location-permission-title" =«Предоставить доступ к местоположению»;
+"location-permission-message" = "Вы должны предоставить доступ для просмотра карты, используя информацию о вашем местоположении.";
+"calendar-permission-title" = «Предоставить доступ к календарю»;
+"calendar-permission-message" ="Вы должны предоставить доступ к календарю, чтобы вам было легче отслеживать встречу.";
+"mic-permission-title" = «Предоставить доступ к микрофону»;
+"mic-permission-message" = "Для совершения онлайн-вызова требуется разрешение микрофона.";
+"cam-mic-permission-title" = «Предоставить разрешения для камеры и микрофона»;
+"cam-mic-permission-message" = "Разрешения должны быть предоставлены, прежде чем вы сможете вести онлайн-разговор.";
+"grant_access" = "Разрешать";
+"camera" = «Камера»;
+"mic" = "Микрофон";
+"accept" = "Принимать";
 
 // MARK: - ConfirmHospital
-"confirm_hospital_page_title" = "Match Information";
-"confirm_hospital_list_title" = "Your record associated with %@ phone number could not be found.";
-"confirm_hospital_list_description" = "Additional verification is required to access the following records associated with another phone number.";
-"confirm_hospital_warning_message" = "If you don't match, you won't be able to see your past records. You can match again later.";
-"continue_without_match" = "Continue without Matching";
+"confirm_hospital_page_title" = «Информация о матче»;
+"confirm_hospital_list_title" = "Ваша запись, связанная с номером телефона %@, не найдена.";
+"confirm_hospital_list_description" ="Для доступа к следующим записям, связанным с другим номером телефона, требуется дополнительная проверка.";
+"confirm_hospital_warning_message" = "Если вы не совпадете, вы не сможете увидеть свои прошлые записи. Вы сможете сопоставить снова позже.";
+"continue_without_match" =«Продолжить без сопоставления»;
 
