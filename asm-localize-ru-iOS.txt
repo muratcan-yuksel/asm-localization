@@ -110,144 +110,144 @@
 "call_center_2" = «Колл-центр»;
 
 // MARK: - Create User
-"create_user" = "Create User";
-"create_user_info_text" = "To create a user, specify your e-mail address and 6-digit user password.";
-"start_profile_creation" = "Start profile creation";
-"invalid_email" = "Please enter a valid email!";
-"invalid_password" = "Please enter a 6 digit password!";
-"password_dont_match" = "The passwords you entered did not match!";
-"password_info_text" = "Your password must consist of 6 characters and numbers.";
+"create_user" = "Создать пользователя";
+"create_user_info_text" = "Для создания пользователя укажите свой адрес электронной почты и 6-значный пароль пользователя.";
+"start_profile_creation" = «Начать создание профиля»;
+"invalid_email" = "Пожалуйста, введите действительный адрес электронной почты!";
+"invalid_password" = "Пожалуйста, введите 6-значный пароль!";
+"password_dont_match" = "Введенные вами пароли не совпадают!";
+"password_info_text" = "Ваш пароль должен состоять из 6 символов и цифр.";
 
 // MARK: - Create Profile
-"create_profile" = "Create Profile";
-"next_step" = "Next Step";
-"invalid_form" = "Please fill in all fields!";
-"create_account" = "Create Account";
+"create_profile" = "Создать профиль";
+"next_step" = "Следующий шаг";
+"invalid_form" = "Пожалуйста, заполните все поля!";
+"create_account" = "Зарегистрироваться";
 
 // MARK: - Step 1
-"cp_step1_info_text" = "You can transfer profile information by scanning your ID.";
+"cp_step1_info_text" = "Вы можете передать информацию о профиле, отсканировав свое удостоверение личности.";
 
 // MARK: - Step 2
-"nationality" = "Nationality";
-"change_photo" = "Change Photo";
+"nationality" = "Национальность";
+"change_photo" = "Измени фотографию";
 
 // MARK: - Location
-"invalid_identity" = "Please enter the ID number!";
-"cp_location_info_text" = "Your address information helps us to recommend health institutions closer to you.";
-"finish" = "Finish";
-"change_profile_photo" = "Change Profile Photo";
+"invalid_identity" = "Пожалуйста, введите идентификационный номер!";
+"cp_location_info_text" = "Ваша адресная информация помогает нам рекомендовать ближайшие медицинские учреждения.";
+"finish" = "Заканчивать";
+"change_profile_photo" = «Изменить фото профиля»;
 
 // MARK: - Image Picker Actions
-"btn_cancel" = "Cancel";
-"btn_camera" = "Camera";
-"btn_gallery" = "Gallery";
+"btn_cancel" = "Отмена";
+"btn_camera" = «Камера»;
+"btn_gallery" = "Галерея";
 
 // MARK: - Forgot Password
-"fp_title" = "Verify Your Profile";
-"fp_profile_validate_info_text" = "Enter your information to verify your profile.";
-"change_password_success_message" = "Your password has been successfully changed.";
-"change_password_fail_message" = "Your password could not be changed!";
+"fp_title" = «Подтвердите свой профиль»;
+"fp_profile_validate_info_text" = "Введите информацию, чтобы подтвердить свой профиль.";
+"change_password_success_message" = "Ваш пароль был успешно изменен.";
+"change_password_fail_message" = "Ваш пароль не может быть изменен!";
 
 // MARK: - New Password
-"np_title" = "Create New Password";
-"np_new_password" = "New Password";
-"np_new_password_again" = "New Password Again";
+"np_title" = «Создать новый пароль»;
+"np_new_password" = "Новый пароль";
+"np_new_password_again" ="Новый пароль еще раз";
 
 // MARK: - Dashboard
-"hospital_appointment" = "Hospital Appointment";
-"video_appointment" = "Video Appointment";
-"support_center" = "Support Center";
-"appointments" = "Appointments";
-"visits" = "Visits";
-"help" = "Help";
-"pre_information" = "Preinformation";
-"update" = "Update";
-"go" = "Go";
-"hospital_match" = "Match hospitals";
-"fill_health_card" = "Fill health card";
-"good_morning" = "Good morning";
-"get_appointment" = "Get appointment";
-"control_appointment" = "Control appointment.";
-"prescription" = "Prescription";
-"prescription_detail" = "Prescription detail";
-"upcoming_appointment" = "Upcoming appointment";
-"pay" = "Pay";
-"doctor_did_not_call" = "Doctor did not call";
-"video_call_completed" = "Video call successfully completed";
-"laboratory" = "Laboratory";
-"radiology" = "Radiology";
-"your_upcoming_appointments" = "Your upcoming appointments";
-"your_past_visits" = "Your past visits
-"call_center" = "Call center";
-"shuttle_info" = "Shuttle Info";
-"open_notifications" = "Open Notifications";
-"notif_permission_text" = "Please turn on your notifications to enjoy the benefits of the application.";
-"enable_notifications" = "Enable Notifications";
+"hospital_appointment" = «Больничный прием»;
+"video_appointment" = «Видео-прием»;
+"support_center" = "Центр поддержки";
+"appointments" = «Назначения»;
+"visits" = «Визиты»;
+"help" = "Помощь";
+"pre_information" =«Прединформация»;
+"update" = "Обновлять";
+"go" = "Идти";
+"hospital_match" = «Матч больниц»;
+"fill_health_card" = «Заполнить карту здоровья»;
+"good_morning" = "Доброе утро";
+"get_appointment" = «Записаться на прием»;
+"control_appointment" = «Контрольное назначение.»;
+"prescription" = «Рецепт»;
+"prescription_detail" = «Детали рецепта»;
+"upcoming_appointment" = «Предстоящая встреча»;
+"pay" = "Платить";
+"doctor_did_not_call" = «Врач не звонил»;
+"video_call_completed" = "Видеозвонок успешно завершен";
+"laboratory" = "Лаборатория»;
+"radiology" = «Радиология»;
+"your_upcoming_appointments" = «Ваши предстоящие встречи»;
+"your_past_visits" ="Ваши прошлые визиты
+"call_center" =«Колл-центр»;
+"shuttle_info" = «Информация о шаттле»;
+"open_notifications" = «Открыть уведомления»;
+"notif_permission_text" = "Включите уведомления, чтобы пользоваться преимуществами приложения.";
+"enable_notifications" = "Включить уведомления";
 // Appointment Status
-"status_waiting" = "WAITING FOR MEETING";
-"status_completed" = "MEETING COMPLETED";
-"status_completed2" = "MEETING STARTED";
-"status_canceled" = "MEETING CANCELED";
-"status_pay" = "WAITING FOR PAYMENT";
-"status_fail" = "MEETING DID NOT HAPPEN";
-"status_waiting_hospital" = "THE APPOINTMENT IS WAITING TO OCCUR";
+"status_waiting" = "ЖДУ ВСТРЕЧИ";
+"status_completed" = "ВСТРЕЧА ЗАВЕРШЕНА";
+"status_completed2" = "ВСТРЕЧА НАЧАЛАСЬ";
+"status_canceled" = "ВСТРЕЧА ОТМЕНЕНА";
+"status_pay" = "ОЖИДАЕТСЯ ПЛАТЕЖ";
+"status_fail" = "ВСТРЕЧИ НЕ ПРОИЗОШЛО";
+"status_waiting_hospital" =«ВСТРЕЧА ЖДЕТ ПРОИЗОЙДЕНИЯ»;
 // Our Distinctive Approaches
-"our_distinctive_approaches" = "Our Distinctive Approaches";
-"tumor_boards" = "Tumor Boards";
-"oncology_center" = "Oncology Center";
-"health_technologies" = "Health Technologies";
-"people_oriented_care" = "People oriented care";
-"check_up_packages" = "Check Up Packages";
+"our_distinctive_approaches" = «Наши отличительные подходы»;
+"tumor_boards" =«Опухолевые доски»;
+"oncology_center" = «Онкологический центр»;
+"health_technologies" = «Технологии здравоохранения»;
+"people_oriented_care" =«Забота о людях»;
+"check_up_packages" = «Проверить пакеты»;
 
 // MARK: - Login
-"enter_password_text" = "You can login by entering your password";
-"forgot_password" = "Forgot Password";
-"login_with_different_phone" = "Login with different phone";
+"enter_password_text" = "Вы можете войти, введя свой пароль";
+"forgot_password" = "Забыл пароль";
+"login_with_different_phone" ="Войти с другого телефона";
 
 // MARK: - SubProfileList
-"add_new_profile" = "Add new profile";
-"you_can_add_family_members" = "You can add family members";
+"add_new_profile" = «Добавить новый профиль»;
+"you_can_add_family_members" = "Вы можете добавить членов семьи";
 
 // MARK: - Password
-"enter_info_for_profile_confirm" = "Enter your information to verify your profile.";
-"choose_verify_method" = "Choose verify method";
+"enter_info_for_profile_confirm" = "Введите информацию, чтобы подтвердить свой профиль.";
+"choose_verify_method" = "Выберите способ проверки";
 
 // MARK: - New Appointment
-"get_new_appointment" = "Get New Appointment";
-"add_new_profile" = "Add New Profile";
-"who_is_the_appointment_for" = "Who are you making the appointment for?";
-"select_appointment_type" = "Select Appointment Type";
-"select_department" = "Select Department";
-"select_hospital" = "Select Hospital";
-"select_doctor" = "Select Doctor";
-"select_date" = "Select Date";
-"select_hour" = "Select Hour";
-"other_doctors" = "Other Doctors in this Department";
-"choose" = "Choose";
-"hospital" = "Hospital";
-"hospital:" = "Hospital:";
-"department" = "Department";
-"department" = "Department:";
-"doctor" = "Doctor";
-"doctor:" = "Doctor:";
-"appointment_success_message" = "Your appointment has been created successfully.";
-"appointment_owner" = "Appointment Owner";
-"appointment_type" = "Appointment Type";
-"date" = "Date";
-"note" = "Note";
-"want_add_note" = "Is there a note you would like to convey to your physician?";
-"write_note_placeholder" = "You can write your note here.";
-"delete_note" = "Delete Note";
-"examination" = "Examination";
-"note_max_count_warning" = "You can type Max. 500 characters.";
-"extra_slot_title" = "Would you like to make an appointment?";
-"extra_slot_description" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in labore et dolore magna aliqua.";
-"appointment_event_title" = "You have an appointment with %@";
-"save_event_success_message" = "Your appointment has been added to your calendar.";
-"save_event_error_message" = "Your appointment could not be added to your calendar!";
-"video_call_information_title" = "Information";
-"video_call_information_message" = "Your video calls with physicians will not be recorded and will not be shared with third parties or institutions within the principles of patient privacy. In accordance with the Personal Data Protection Law, it is not legal for our patients to record interviews and share them with third parties.";
-"for_who" = "For whom";
+"get_new_appointment" = «Получить новую встречу»;
+"add_new_profile" = «Добавить новый профиль»;
+"who_is_the_appointment_for" =«Кому вы назначаете встречу?»;
+"select_appointment_type" =«Выберите тип встречи»;
+"select_department" = «Выберите отдел»;
+"select_hospital" = «Выберите больницу»;
+"select_doctor" = «Выберите врача»;
+"select_date" =«Выберите дату»;
+"select_hour" = «Выберите час»;
+"other_doctors" = «Другие врачи этого отделения»;
+"choose" = "Выбирать";
+"hospital" = «Больница»;
+"hospital:" = «Больница:»;
+"department" = "Отделение";
+"department" ="Отделение:";
+"doctor" = "Доктор";
+"doctor:" ="Доктор:";
+"appointment_success_message" ="Ваша встреча успешно создана.";
+"appointment_owner" = «Назначение владельца»;
+"appointment_type" =«Тип встречи»;
+"date" ="Свидание";
+"note" = "Примечание";
+"want_add_note" = «Есть ли записка, которую вы хотели бы передать своему врачу?»;
+"write_note_placeholder" = "Вы можете написать свою заметку здесь.";
+"delete_note" = "Удалить заметку";
+"examination" = «Экзамен»;
+"note_max_count_warning" = "Вы можете ввести не более 500 символов.";
+"extra_slot_title" =«Хотите записаться на прием?»;
+"extra_slot_description" =«Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in Labore et dolore magna aliqua»;
+"appointment_event_title" ="У вас назначена встреча с %@";
+"save_event_success_message" = "Ваша встреча добавлена ​​в ваш календарь.";
+"save_event_error_message" = "Ваша встреча не может быть добавлена ​​в ваш календарь!";
+"video_call_information_title" = "Информация";
+"video_call_information_message" = «Ваши видеозвонки с врачами не будут записываться и не будут передаваться третьим лицам или учреждениям в соответствии с принципами конфиденциальности пациентов. В соответствии с Законом о защите персональных данных наши пациенты не имеют права записывать интервью и делиться ими с третьи стороны.";
+"for_who" = "Для кого";
 
 // MARK: - Appointment List
 "empty_appointment_list_title" = "You do not have an appointment.";
