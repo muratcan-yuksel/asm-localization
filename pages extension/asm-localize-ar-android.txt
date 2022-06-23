@@ -1,0 +1,546 @@
+ 
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<!-- Menu -->
+<string name = "menu_login" translatable = "false"> تسجيل الدخول </ string>
+<string name = "menu_appointments" translatable = "false"> المواعيد </ string>
+<string name = "menu_reports" translatable = "false"> التقارير </ string>
+<string name = "menu_medical_records"> السجلات الطبية </ string>
+<string name = "menu_other" translatable = "false"> أخرى </ string>
+<string name = "onboarding_get_started" translatable = "false"> ابدأ! </ string>
+<string name = "onboarding_login" translatable = "false"> لدي حساب بالفعل </ string>
+<string name = "welcome" translatable = "false"> مرحبًا! </ string>
+<string name = "skip" translatable = "false"> (تخطي) </ string>
+<string name = "icomed_home" translatable = "false"> الصفحة الرئيسية </ string>
+<string name = "icomed_hospital_appointment" translatable = "false"> موعد المستشفى </ string>
+<string name = "icomed_video_call" translatable = "false"> مكالمة فيديو </ string>
+<string name = "icomed_menu" translatable = "false"> القائمة </ string>
+<string name = "send" translatable = "false"> إرسال </ string>
+<string name = "new_user" translatable = "false"> إنشاء مستخدم </ string>
+<string name = "txtNewProfileInfo1" translatable = "false"> لإنشاء مستخدم ، حدد عنوان البريد الإلكتروني وكلمة مرور المستخدم المكونة من 6 أرقام. </ string>
+<string name = "email" translatable = "false"> البريد الإلكتروني </ string>
+<string name = "password" translatable = "false"> كلمة المرور </ string>
+<string name = "passwordAgain" translatable = "false"> كرر كلمة المرور </ string>
+<string name = "start_profile_creation" translatable = "false"> بدء التشكيل الجانبي </ string>
+<string name = "new_profile" translatable = "false"> إنشاء ملف تعريف </ string>
+<string name = "next_step" translatable = "false"> الخطوة التالية </ string>
+<string name = "gender" translatable = "false"> الجنس </ string>
+<string name = "name"> الاسم </ string>
+<string name = "لقب"> اللقب </ string>
+<string name = "new_profile_barcode_info"> يمكنك نقل معلومات ملف التعريف من خلال البحث \ n عن المعرف الخاص بك. </ string>
+<string name = "female"> أنثى </ string>
+<string name = "male"> ذكر </ string>
+<string name = "change_photo"> تغيير الصورة </ string>
+<string name = "الجنسية"> الجنسية </ string>
+<string name = "Ident_no"> رقم هوية TR </string>
+<string name = "birth_date"> تاريخ الميلاد </ string>
+<string name = "location_info" tools: ignore = "Typos"> تساعدنا معلومات عنوانك في التوصية بالمؤسسات الصحية الأقرب إليك. </ string>
+<string name = "country"> البلد </ string>
+<string name = "city"> المدينة </ string>
+<string name = "District"> مقاطعة </string>
+<string name = "great_profile"> ملفك الشخصي يبدو رائعًا! </ string>
+<string name = "skip_profile"> تخطي </ string>
+<string name = "health_card"> البطاقة الصحية </ string>
+<string name = "allow_camera"> يُرجى السماح بإضافة الصور </ string>
+<string name = "allow_camera_and_microphone"> يُرجى السماح بإذن الكاميرا والميكروفون </ string>
+<string name = "allow_video_call"> يجب منح الأذونات قبل أن تتمكن من إجراء مكالمة فيديو. </ string>
+<string name = "take_photo"> التقاط صورة </ string>
+<string name = "upload_photo"> تحميل الصورة </ string>
+
+<string name = "insurance_phone_number" translatable = "false"> تأكيد رقم هاتفك \ n ابدأ استخدامه. </ string>
+<string name = "hint_phone_number" translatable = "false"> رقم الهاتف </ string>
+<string name = "insurance_user_contract" translatable = "false"> أوافق على اتفاقية المستخدم. </ string>
+<string name = "send_sms" translatable = "false"> إرسال الرسائل القصيرة </ string>
+<string name = "resend_sms" translatable = "false"> إعادة إرسال SMS </string>
+<string name = "resend_mail" translatable = "false"> إعادة إرسال البريد </ string>
+<string name = "validate_sms_code" translatable = "false"> أدخل رمز sms من رقم هاتفك </ string>
+<string name = "validate" translatable = "false"> تحقق </ string>
+<string name = "is_this_your_account" translatable = "false"> هل حساب المستخدم هذا يخصك؟ </ string>
+<string name = "info_account_name" translatable = "false"> رقم الهاتف 0500 000 00 00 \ n الذي أدخلته مسجل لـ H ***** K ** a \ n. </string>
+<string name = "account_is_mine" translatable = "false"> نعم ، هذا الحساب أنا </ string>
+<string name = "account_is_not_mine" translatable = "false"> لا ، الحساب ليس لي </ string>
+<string name = "validate_sms" translatable = "false"> تحقق من SMS </string>
+<string name = "hint_sms_code" translatable = "false"> رمز SMS </string>
+<string name = "info_profiles_of_phone_number" translatable = "false"> سيتم إلغاء الملفات الشخصية الأخرى المرتبطة برقم الهاتف. </ string>
+<string name = "Cancel_dialog" translatable = "false"> إلغاء </ string>
+<string name = "yes" translatable = "false"> نعم </ string>
+<string name = "question_continue" translatable = "false"> هل تريد المتابعة؟ </ string>
+<string name = "validate_your_profile"> تحقق من ملفك الشخصي </ string>
+<string name = "did_you_forget_password"> هل نسيت كلمة المرور؟ </ string>
+<string name = "deactivated_msg"> تم حذف حسابك! </ string>
+</string>
+<string name = "custom_dialog_prompt_info"> "سيتم إلغاء الملفات الشخصية الأخرى المرتبطة برقم هاتف 0500 000 00 00. </ string>
+<string name = "blank_error"> يرجى ملء جميع الحقول. </ string>
+<string name = "password_match_error"> كلمات المرور التي أدخلتها غير متطابقة. </ string>
+<string name = "password_length_error"> يجب أن تتكون كلمة المرور من 6 أحرف على الأقل! </ string>
+<string name = "phone_number_error"> الرجاء إدخال رقم هاتف صالح. </ string>
+<string name = "user_agreement_error"> يجب تأكيد اتفاقية المستخدم. </ string>
+
+
+<string name = "good_morning"> صباح الخير </ string>
+<string name = "weight"> الوزن </ string>
+<string name = "unit_weight"> كجم </ string>
+<string name = "height"> الارتفاع </ string>
+<string name = "unit_height"> سم </ string>
+<string name = "blood_group"> فصيلة الدم </ string>
+<string name = "blood_group_a"> أ </ string>
+<string name = "blood_group_b"> ب </ string>
+<string name = "blood_group_zero"> 0 </string>
+<string name = "blood_group_ab"> AB </string>
+<string name = "rh_positive"> Rh + </string>
+<string name = "rh_negative"> Rh - </string>
+<string name = "rh"> Rh </string>
+<string name = "profile"> الملف الشخصي </ string>
+<string name = "المستشفيات"> المستشفيات </ string>
+<string name = "address"> العنوان </ string>
+<string name = "update"> تحديث </ string>
+<string name = "bed"> سرير </ string>
+<string name = "contact"> جهة الاتصال </ string>
+<string name = "categories"> الوحدات الطبية </ string>
+<string name = "more"> المزيد </ string>
+<string name = "less"> أقل </ string>
+<string name = "experience"> التجربة </ string>
+<string name = "الموعد"> موعد </ string>
+<string name = "camera"> الكاميرا </ string>
+<string name = "microphone"> ميكروفون </ string>
+
+<string name = "requestSuccessful"> نجح الطلب! </ string>
+<string name = "requestErrorMessage"> حدث خطأ! </ string>
+
+<!-- ASM -->
+<string name = "asm_onboarding_get_started"> البدء </ string>
+<string name = "asm_create_profile"> إنشاء حساب </ string>
+<string name = "asm_next"> متابعة </ string>
+<string name = "asm_onboarding_text_1"> موعد سريع و \ ضيق </ string>
+<string name = "asm_onboarding_text_2"> اتصل بطبيبك \ n فيديو من أي مكان </ string>
+<string name = "asm_onboarding_text_3"> اعرض نتائج الاختبار والتقارير \ فورية </ string>
+<string name = "asm_create_profile_password_info"> يجب أن تتكون كلمة المرور الخاصة بك من 6 أحرف وأرقام. </ string>
+<string name = "asm_birthdate_with_format"> تاريخ الميلاد (اليوم / الشهر / السنة) </ string>
+<string name = "asm_change_profile_photo"> تغيير صورة الملف الشخصي </ string>
+<string name = "match_hospital"> مطابقة المستشفى </ string>
+<string name = "match_hospital_info"> تعذر علينا العثور على أي سجلات مستشفى في نظامنا. ثم يمكنك إجراء \ n مطابقة مستشفيات من إدارة الملف الشخصي. </ string>
+<string name = "match_hospital_info_continue"> ستظل قادرًا على \ n الإجراءات التالية في التطبيق ؛ </ string>
+<string name = "return_home"> العودة إلى الصفحة الرئيسية </ string>
+<string name = "can_create_appointment"> قادرة على تحديد المواعيد </ string>
+<string name = "video_meeting"> مكالمة فيديو </ string>
+<string name = "match_hospital_success_info"> تمت مطابقة السجلات المرتبطة برقم الهاتف 0500 000 00 00 بنجاح ؛ </ string>
+<string name = "match_hospital_need_phone_validation"> مطلوب تحقق إضافي للوصول إلى \ n السجلات التالية المرتبطة برقم هاتف آخر. </ string>
+<string name = "save"> حفظ </ string>
+<string name = "match_hospital_unsuccess_info"> لم يتم العثور على سجلات ذات صلة برقم الهاتف 0532170 05 73. </string>
+
+
+
+
+
+
+<string name = "asm_welcome"> مرحبًا ، </ string>
+<string name = "asm_phone_validation_info"> أكد رقم هاتفك \ n وابدأ في استخدامه. </ string>
+<string name = "asm_country_code"> رمز البلد </ string>
+<string name = "asm_user_contract"> لقد قرأت وأوافق على اتفاقية المستخدم ونص المعلومات حول حماية البيانات الشخصية </ string>
+<string name = "asm_send_sms"> إرسال الرسائل القصيرة </ string>
+<string name = "asm_sms_validation_info"> تم إرسال رمز التحقق الخاص بك إلى \ n0555666 77 88 \ n </string>
+<string name = "asm_hint_sms_code"> رمز SMS </string>
+<string name = "asm_hint_mail_code"> رمز التحقق </ string>
+<string name = "asm_hint_phone_number"> رقم هاتفك </ string>
+<string name = "asm_validate"> تحقق </ string>
+<string name = "asm_didnt_you_receieve_sms_code"> ألم تستلم كلمة مرور على هاتفك؟ </ string>
+<string name = "asm_didnt_you_receieve_mail_code"> ألم تحصل على كلمة مرور لبريدك الإلكتروني؟ </ string>
+<string name = "asm_resend"> إعادة الإرسال </ string>
+<string name = "asm_is_this_your_account"> هل حساب المستخدم هذا يخصك؟ </ string>
+<string name = "asm_account_is_mine"> نعم ، هذا الحساب أنا </ string>
+<string name = "asm_account_is_not_mine"> لا ، الحساب ليس لي </ string>
+<string name = "custom_dialog_prompt_asm_info"> سيتم إلغاء الملفات الشخصية الأخرى المرتبطة برقم هاتف 0555666 77 88 \ n </string>
+<string name = "info_profiles_of_phone_number_asm" translatable = "false"> سيتم \ n إخراج الملفات الشخصية الأخرى المرتبطة برقم الهاتف \ n </string>
+<string name = "asm_success_phone_validation"> لقد \ n تحققت من هاتفك. </ string>
+<string name = "asm_sign_up"> تسجيل </ string>
+<string name = "asm_pair_phone_numbers_title"> معلومات المطابقة </ string>
+<string name = "asm_pair_phone_numbers_subtitle"> تعذر العثور على سجلك المرتبط برقم الهاتف. </ string>
+<string name = "asm_pair_phone_numbers_info"> مطلوب مصادقة إضافية للوصول إلى السجلات التالية المرتبطة برقم هاتف آخر. </ string>
+<string name = "asm_pair_phone_numbers_footer_info"> إذا لم يتم الاقتران ، فلن تتمكن من رؤية سجلاتك التاريخية. \ n يمكنك الإقران مرة أخرى لاحقًا. </ string>
+<string name = "asm_pair_phone_numbers_button"> المتابعة بدون الاقتران </ string>
+<string name = "asm_import_hospital_data"> استيراد معلومات المستشفى </ string>
+<string name = "info_account_name_asm"> رقم الهاتف 0555666 77 88 الذي أدخلته مسجل في A ** Y ***** name </string>
+<string name = "asm_validate_profile"> تحقق من ملفك الشخصي </ string>
+للتحقق من حسابك ضمن <string name = "asm_profile_edit_info"> ، أدخل تاريخ ميلادك وكلمة المرور السابقة المكونة من 6 أرقام </ string>
+<string name = "asm_identity_no"> T. رقم الهوية </ string>
+
+
+<string name = "asm_birth_date"> تاريخ الميلاد </ string>
+<string name = "asm_password"> كلمة المرور </ string>
+<string name = "asm_forgot_password"> نسيت كلمة المرور </ string>
+<string name = "asm_invalid_idendity"> T. تم إدخال رقم الهوية في عداد المفقودين! </ string>
+<string name = "asm_remind_password"> تذكير كلمة المرور </ string>
+<string name = "asm_send"> إرسال </ string>
+<string name = "asm_sent_password_your_phone_number"> تم إرسال كلمة المرور الخاصة بك إلى هاتفك المسجل </ string>
+<string name = "asm_ok"> موافق </ string>
+<string name = "asm_upcoming_appointments"> مواعيدك القادمة </ string>
+<string name = "asm_visits"> زياراتك السابقة </ string>
+<string name = "asm_selection_for_you"> ما اخترناه لك </ string>
+<string name = "asm_our_creative_solution"> مناهجنا التي تحدث فرقًا </ string>
+<string name = "asm_call_center"> مركز الاتصال </ string>
+<string name = "asm_service_info"> الخدمة \ n المعلومات </ string>
+<string name = "asm_my_appointments"> المواعيد </ string>
+<string name = "asm_appointments_in_hospital"> المواعيد في الموقع </ string>
+<string name = "asm_video_appointments"> مكالمة فيديو </ string>
+<string name = "asm_no_appointments"> ليس لديك موعد. </ string>
+<string name = "asm_use_button_for_appointments"> يمكنك استخدام الزر التالي \ n لتحديد موعد </ string>
+<string name = "asm_get_new_appointment"> تحديد موعد جديد </ string>
+<string name = "asm_waiting_video_appointment"> في انتظار المكالمة </ string>
+<string name = "asm_login_info"> يمكنك تسجيل الدخول عن طريق إدخال كلمة المرور الخاصة بك </ string>
+<string name = "asmForgotPassword"> نسيت كلمة المرور </ string>
+<string name = "asm_appointment_of_hospital"> موعد المستشفى </ string>
+<string name = "asm_appointment_of_video"> مكالمة فيديو </ string>
+<string name = "asm_for_who"> لمن </ string>
+<string name = "asm_hospital"> المستشفى </ string>
+<string name = "asm_date"> التاريخ </ string>
+<string name = "asm_complaint"> شكوى </ string>
+<string name = "asm_lab"> معمل </ string>
+<string name = "asm_rad"> الأشعة </ string>
+<string name = "asm_pat"> علم الأمراض </ string>
+<string name = "asm_report"> وصفة </ string>
+
+
+<string name = "asm_in_hospital_appointment"> موعد \ n مستشفى </ string>
+<string name = "asm_video_appointment"> مقابلة \ n فيديو </ string>
+<string name = "asm_support_center"> مركز الدعم \ n </string>
+<string name = "asm_cancel_appointment"> إلغاء الموعد </ string>
+<string name = "asm_list"> قائمة </ string>
+<string name = "asm_map"> خريطة </ string>
+<string name = "asm_our_hospitals"> مستشفياتنا </ string>
+<string name = "asm_name_of_asm"> مركز الأناضول الصحي </ string>
+<string name = "asm_atasehir"> أتاشهير </ string>
+<string name = "asm_gebze"> جبزي </ string>
+<string name = "asm_current_mark_tag"> موقعك </ string>
+<string name = "asm_permission_granted"> مسموح به </ string>
+<string name = "asm_permission_denied"> تم رفض الإذن </ string>
+<string name = "asm_current_location_permission"> أنت بحاجة إلى إذن للوصول إلى موقعك الحالي! </ string>
+<string name = "asm_return"> عودة </ string>
+<string name = "asm_next_step"> الخطوة التالية </ string>
+<string name = "asm_did_you_forget_password"> هل نسيت كلمة المرور؟ </ string>
+<string name = "asm_choose_validation_way"> اختر طريقة التحقق </ string>
+<string name = "asm_sms"> الرسائل القصيرة </ string>
+<string name = "asm_email"> البريد الإلكتروني </ string>
+<string name = "asm_create_new_password"> إنشاء كلمة مرور جديدة </ string>
+<string name = "asm_new_password"> كلمة مرور جديدة </ string>
+<string name = "asm_renew_password"> كرر كلمة المرور الجديدة </ string>
+<string name = "asm_create"> إنشاء </ string>
+<string name = "asm_login_with_another_gsm_number"> تسجيل الدخول باستخدام رقم هاتف آخر </ string>
+<string name = "asm_enter_profile_info"> أدخل \ n المعلومات الخاصة بك للتحقق من ملفك الشخصي. </ string>
+<string name = "asm_start_text_for_sms_validation"> رمز التحقق الخاص بك </ string>
+تمت إعادة توجيهه إلى <string name = "asm_end_text_for_sms_validation"> </string>
+<string name = "asm_end_text_for_mail_validation"> مُعاد التوجيه إليه. </ string>
+<string name = "asm_medical_reports_results"> السجلات الطبية والنتائج </ string>
+<string name = "asm_laboratory"> المختبر </ string>
+<string name = "asm_radiology"> الأشعة </ string>
+<string name = "asm_other"> أخرى </ string>
+
+
+
+<string name = "asm_hospital_general_info"> تعرف على </ string>
+<string name = "asm_address_description"> الاتجاهات </ string>
+<string name = "asm_roads_info"> معلومات الخدمة </ string>
+<string name = "asm_hospital_departments"> الأقسام الطبية </ string>
+<string name = "asm_hospital_doctor"> الأطباء </ string>
+<string name = "asm_hospital_working_time"> ساعات العمل في الطوارئ والعيادات الشاملة </ string>
+<string name = "asm_weekdays"> الاثنين-الجمعة </ string>
+<string name = "asm_weekend"> السبت </ string>
+<string name = "asm_work_hours_with_numbers"> 08:00 - 20:00 </string>
+<string name = "asm_gebze_hospital_meters"> منطقة مغلقة 50000 متر مربع </ string>
+<string name = "asm_bed_gebze_capacity_written"> 201 سعة السرير </ string>
+<string name = "asm_gebze_article_header"> أنت بأمان في مركز Gebze Anadolu الطبي. </ string>
+<string name = "asm_atasehir_article_header"> أنت بأمان في مركز أتاشهير الطبي. </ string>
+
+<string name = "asm_gebze_article_text"> حققت مؤسسة الأناضول ، التي جلبت العشرات من الأعمال إلى تركيا ، حلمًا آخر من خلال وضع مركز الأناضول الطبي في الخدمة. يستخدم مستشفانا ، الذي يحمي التراث القيّم للأناضول ، والذي استضاف آلاف السنين من الخبرة الصحية والعديد من الأطباء القيّمين ، هذه المعرفة للمساهمة في صحة الإنسان. مستشفانا ، الذي يعمل بالتعاون الاستراتيجي مع Johns Hopkins Medicine لتحسين التعليم والجودة ؛ يقدم خدماته في جميع الفروع وخاصة علوم الأورام وصحة القلب وصحة المرأة وأطفال الأنابيب والعلوم العصبية والعلوم الجراحية والعلوم الداخلية والتشخيص والتصوير. مستشفانا ، الذي تم إنشاؤه على مساحة أرض تبلغ حوالي 188000 متر مربع ويستمر في العمل بسعة 201 سرير في منطقة مغلقة تبلغ مساحتها 50 ألف متر مربع ، يقدم خدماته مع اعتماد JCI (اللجنة الدولية المشتركة) و ESMO (جمعية الأورام الطبية الأوروبية) شهادات. يواصل مركز الأناضول الطبي خدماته الصحية مع مركز أتاشهير الطبي الجراحي في أتاشهير. يمكن الاحتفاظ بأرشيف المعاملات للمرضى الذين يتلقون الخدمة من العيادة الفضائية في بيئة افتراضية. يمكن لمركز زراعة نخاع العظام ، الذي بدأ تقديم خدماته داخل المستشفى في يونيو 2010 ، إجراء زراعة نخاع العظم لـ 22 مريضًا في نفس الوقت. أولويتنا الأولى في مستشفانا هي دائمًا مرضانا. لهذا السبب ، فإننا نقدر احتياجات وتوقعات مرضانا وأقاربهم ، ونعمل بعناية فائقة لضمان حصولهم على عملية علاج سلمية ويشعرون بأنهم في منازلهم. </ string>
+<string name = "asm_atasehir_article_text"> بصفتنا مركز الأناضول الصحي ، فإن أولويتنا الأولى هي صحة مرضانا / أقاربهم وموظفينا. في هذا الاتجاه ، نتخذ التدابير المطلوبة من قبل السلطات الوطنية والدولية على حد سواء ، ونقدم الخدمات الصحية لمرضانا في بيئة آمنة خلال جائحة COVID-19 الحالي. في مركز أتاشهير الطبي ، كما هو الحال في مستشفى جيبزي ، في مركز أناضول الصحي أتاشهير الطبي ، الذي يعمل منذ عام 2008 ، يتم تقييم مرضانا المشتبه في إصابتهم بفيروس كورونا من قبل فريق خاص في خدمة الطوارئ وإحالتهم إلى المستشفيات الحكومية ذات الصلة من أجل علاج او معاملة. نحن نقدم خدمات في العديد من الفروع المختلفة في مركز أناضول الصحي أتاشهير الطبي ، والذي يقدم الخدمات الصحية في بيئة آمنة ومعقمة. في قسم الطب الوظيفي لدينا ، وهو أحد الفروع التي نحدث فيها فرقًا ، يقدم طبيب الطب الوظيفي لدينا الخدمة بنهج شخصي وشامل. يمكن لضيوفنا الذين يرغبون في الحفاظ على قوة جهاز المناعة لديهم خلال فترة الوباء الحالية الاستفادة من العلاج بالأوزون ، والذي يتم تطبيقه لتقوية جهاز المناعة. يواصل مركز الأناضول الطبي خدماته الصحية في مركز أتاشهير الطبي. يمكن حفظ نتائج التصوير الإشعاعي للمرضى في المستشفيات والمراكز الطبية في بيئة افتراضية. وبالتالي ، عند الضرورة ، يمكن تبادل المعلومات بسهولة بين Anadolu Medical Center و Anadolu Health Ataşehir Medical Center. بالإضافة إلى ذلك ، يحتوي مركز Anadolu Health Ataşehir الطبي على نظام يسمح بمراقبة إجراءات المرضى وحفظ أرشيفات المرضى في بيئة افتراضية. بفضل هذه التقنية ، يمكن الاطلاع على سجلات المرضى على نفس النظام في جميع فروع مركز الأناضول الطبي. تأسس مركز الأناضول الصحي أتاشهير الطبي في عام 2008 بتكلفة استثمارية 8 ملايين دولار. المركز الذي أنشئ على مساحة 3 آلاف 700 متر مربع ، يضم عيادات وخدمات طوارئ في العديد من الفروع من صحة الأطفال وأمراضهم إلى الأمراض الجلدية ، ومن المسالك البولية إلى الأمراض الباطنية. </ string>
+<string name = "asm_atasehir_adress"> بارباروس ماه. Ortabahar Sokak \ nNo: 28، 28A \ nAtaşehir Istanbul </string>
+<string name = "asm_gebze_adress"> جمهوريت ماهاليسي \ n2255 رقم الشارع: 3 \ n جبزي 41400 كوجايلي </ string>
+<string name = "asm_tel_no"> الهاتف: 44 44276 </string>
+<string name = "asm_atasehir_fax_no"> فاكس: 0216317 00 99 </string>
+<اسم السلسلة = "asm
+
+<string name = "asm_coordinates"> الإحداثيات </ string>
+<string name = "asm_all_roads"> كافة مسارات الخدمة </ string>
+<string name = "asm_search_roads"> بحث في المقاطعة عن مسار الخدمة </ string>
+<string name = "asm_roads_info_warning"> لاستخدام الخدمة ، تحتاج إلى تحديد موعد <b> قبل ساعة واحدة </ b> \ n <b> 44 44276 </b> \ n موعد. </ string>
+<string name = "asm_atasehir_hospital_name"> مركز أتاشهير الطبي - مستشفى مركز الأناضول الطبي </ string>
+<string name = "asm_izmit_hospital_name"> إزميت - مستشفى مركز الأناضول الطبي </ string>
+<string name = "asm_our_hospital_departments"> الأقسام الطبية لدينا </ string>
+<string name = "asm_search_departments"> قسم البحث </ string>
+<string name = "asm_dental_health"> صحة الفم والأسنان </ string>
+<string name = "asm_pain_management"> إدارة الألم </ string>
+<string name = "asm_biochemistry"> الكيمياء الحيوية </ string>
+<string name = "asm_our_doctor"> أطبائنا </ string>
+<string name = "asm_search_doctor"> ابحث عن طبيب </ string>
+<string name = "asm_show_on_map"> إظهار على الخريطة </ string>
+<string name = "asm_health_guide"> دليل الصحة </ string>
+<string name = "asm_health_articles"> مقالات دليل الصحة </ string>
+<string name = "asm_all"> الكل </ string>
+<string name = "asm_nutrition_diet"> التغذية والنظام الغذائي </ string>
+<string name = "asm_cancer"> السرطان </ string>
+<string name = "asm_women"> النساء </ string>
+<string name = "asm_all_articles"> كل المشاركات </ string>
+<string name = "asm_take_an_appointment"> تحديد موعد </ string>
+<string name = "asm_past_visits"> الاختبارات السابقة </ string>
+<string name = "asm_search_result"> نتائج البحث </ string>
+<string name = "asm_visit_history_detail"> تفاصيل الفحص </ string>
+<string name = "asm_details"> التفاصيل </ string>
+<string name = "asm_evaluate_point_visit"> يسجل الاختبار </ string>
+<string name = "asm_get_your_control_appointment"> حدد موعدًا للتحكم </ string>
+<string name = "asm_results"> النتائج </ string>
+<string name = "asm_notification"> الإخطارات </ string>
+<string name = "asm_lorem"> Sed ut Persiciatis unde omnis iste natus error sit voluptatem accusant dolorque laudantium، totam </string>
+<string name = "asm_get_appointments"> تحديد موعد </ string>
+<string name = "asm_get_control_appointment"> تحديد موعد للتحكم </ string>
+<string name = "asm_doctor_did_not_call_me"> لم يتصل بي الطبيب </ string>
+<string name = "help"> تعليمات </ string>
+<string name = "pay"> إجراء الدفع </ string>
+<string name = "asm_account_infos"> معلومات حسابك </ string>
+<string name = "asm_prescriptions"> الوصفات الطبية </ string>
+<string name = "asm_videos"> مقاطع الفيديو </ string>
+<string name = "asm_take_our_survey"> شارك في استبياننا </ string>
+<string name = "asm_contact_us"> اتصل بنا </ string>
+<string name = "asm_logout_my_app"> تسجيل الخروج من تطبيقي </ string>
+<string name = "asm_get_appointment_steps"> خطوات الموعد </ string>
+<string name = "asm_who_is_appointment_for"> لمن ستحدد الموعد؟ </ string>
+<string name = "asm_choose_appointment_type"> اختر نوع الموعد </ string>
+<string name = "asm_choose_hospital"> اختر مستشفى </ string>
+<string name = "asm_education"> تدريب </ string>
+<string name = "asm_doctor_specialty"> التخصص </ string>
+<string name = "asm_journal"> المنشورات </ string>
+<string name = "asm_articles_of_doctor"> المقالات الرئاسية </ string>
+<string name = "asm_get_appointment"> تحديد موعد </ string>
+<string name = "asm_my_profile"> حسابي </ string>
+<string name = "asm_profile_informations"> معلومات الحساب </ string>
+<string name = "asm_personal_informations"> المعلومات الشخصية </ string>
+<string name = "asm_healthy_card"> البطاقة الصحية </ string>
+<string name = "asm_mobile_number"> الهاتف المحمول </ string>
+<string name = "asm_re_password"> كلمة المرور (مرة أخرى) </ string>
+<string name = "asm_change_your_password"> تغيير كلمة المرور </ string>
+<string name = "asm_identity_number"> T. رقم الهوية </ string>
+<string name = "asm_blood_type"> فصيلة الدم </ string>
+
+
+
+<string name = "asm_body_height"> الارتفاع </ string>
+<string name = "asm_body_weight"> الوزن </ string>
+<string name = "asm_have_you_chronic_disease"> هل لديك حالة مزمنة؟ </ string>
+<string name = "asm_have_family_chronic_disease"> هل يوجد اضطراب مزمن في أفراد الأسرة؟ </ string>
+<string name = "asm_have_you_any_allergy"> هل لديك أي حساسية؟ </ string>
+<string name = "asm_have_using_routine_medicine"> هل تستخدم الأدوية بشكل روتيني؟ </ string>
+<string name = "asm_add_my_selections"> إضافة اختياراتي </ string>
+<string name = "asm_appointment_for_which_profile"> لمن تحدد الموعد؟ </ string>
+<string name = "asm_department"> قسم </ string>
+<string name = "asm_doctor"> دكتور </ string>
+<string name = "asm_other_reports"> تقارير أخرى </ string>
+<string name = "asm_waiting_result"> النتيجة \ n الانتظار </ string>
+<string name = "asm_info_pathology_report"> لا يتم عرض تقارير "علم الأمراض" \ n من صفحة عرض النتائج. </ string>
+<string name = "asm_can_call_the_call_center"> لمزيد من المعلومات ، يمكنك الاتصال بمركز الاتصال الخاص بنا. </ string>
+<string name = "asm_call_the_call_center"> مركز الاتصال </ string>
+<string name = "asm_close"> إغلاق </ string>
+<string name = "asm_hours"> s </string>
+<string name = "asm_minutes"> دقيقة </ string>
+<string name = "asm_seconds"> s </string>
+<string name = "asm_waiting_meeting"> انتظار المكالمة </ string>
+<string name = "asm_meeting_completed"> اكتملت المكالمة </ string>
+<string name = "asm_meeting_ending_susccess"> تم إجراء مكالمة </ string>
+<string name = "asm_meeting_waiting_payment"> في انتظار الدفع </ string>
+<string name = "asm_meeting_is_starting"> لمس مكالمة </ string>
+<string name = "asm_meeting_cancelled"> تم إلغاء المكالمة </ string>
+<string name = "asm_hospital_appointment_waiting"> في انتظار التعيين </ string>
+<string name = "asm_meeting_no_happened"> فشل الاتصال </ string>
+<string name = "asm_explanation"> الوصف </ string>
+<string name = "asm_lorem_long"> تعليق tincidunt ex eros، nec venenatis odio gravida elementum. Ut sit amet neque vitae mi Goodso maximus vitae non quam. ماوريس إمبيرديت فينبوس لوريم أس تواتر. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo ، في laoreet velit. عرض الزخرفة على مدار الساعة هو أمر رائع. معرف البطاقة nunc. Vivamus malesuada في dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor ، ac tincidunt nisi rutrum non. Nunc nunc magna ، cursus ac enim eget ، auctor tincidunt dolor. في هضبة موطن الحج القول المأثور. برج القوس أوديو لوبورتيس. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet Goods. موطن بيلينتسك morbi tristique senectus et netus et malesuada fames ac turpis egestas. \ n
+Suspendisse tincidunt ex eros، nec venatis odio gravida elementum. Ut sit amet neque vitae mi Goodso maximus vitae non quam. ماوريس إمبيرديت فينبوس لوريم أس تواتر. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo ، في laoreet velit. عرض الزخرفة على مدار الساعة هو أمر رائع. معرف البطاقة nunc. Vivamus malesuada في dolor pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor ، ac tincidunt nisi rutrum non. Nunc nunc magna ، cursus ac enim eget ، auctor tincidunt dolor. في هضبة موطن الحج القول المأثور. برج القوس أوديو لوبورتيس. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet Goods. موطن بيلينتسك morbi tristique senectus et netus et malesuada fames ac turpis egestas. \ n
+</string>
+
+<string name = "asm_result"> النتيجة </ string>
+<string name = "asm_for_patients_visit_from_another_country"> لمرضانا من الخارج ؛ </ string>
+<string name = "asm_for_patients_visit_from_another_city"> لمرضانا خارج المدينة ؛ </ string>
+<string name = "asm_info_and_contact"> المعلومات والاتصالات </ string>
+<string name = "asm_mail_for_international_patients"> int.patients@anadolusaglik.org </string>
+<string name = "asm_info_website"> www.anadolumedicalcenter.com </string>
+<string name = "asm_patients_from_out_of_country"> مرضانا من الخارج </ string>
+<string name = "asm_patients_from_out_of_city"> مرضانا خارج المدينة </ string>
+<string name = "asm_choose_department"> حدد القسم </ string>
+<string name = "asm_choose_doctor"> اختر الطبيب </ string>
+<string name = "asm_choose"> حدد </ string>
+<string name = "asm_header_department"> القسم: </ string>
+<string name = "asm_header_hospital"> المستشفى: </ string>
+<string name = "asm_header_doctor"> الطبيب: </ string>
+<string name = "asm_header_date"> التاريخ: </ string>
+<string name = "asm_header_date_today"> اليوم </ string>
+<string name = "asm_choose_time"> اختر الوقت </ string>
+<string name = "asm_choose_date"> اختر التاريخ </ string>
+<string name = "asm_other_our_doctor"> أطبائنا الآخرون في هذا القسم </ string>
+<string name = "asm_success_appointment_info"> تم إنشاء موعدك بنجاح. </ string>
+<string name = "asm_note"> ملاحظة </ string>
+<string name = "asm_appointment_type"> نوع الموعد </ string>
+<string name = "asm_appointment_holder"> مقسم </ string>
+<string name = "asm_delete_note"> حذف الملاحظة </ string>
+<string name = "asm_completed"> كامل </ string>
+<string name = "asm_is_there_note"> هل هناك ملاحظة تود إرسالها إلى طبيبك؟ </ string>
+<string name = "asm_note_hint"> يمكنك كتابة ملاحظتك هنا. </ string>
+<string name = "asm_success_visit"> نجاح التفاوض </ string>
+<string name = "asm_cvc_no"> رقم رمز التحقق من البطاقة (CVC) </string>
+<string name = "asm_name_on_the_card"> الاسم على البطاقة </ string>
+<string name = "asm_sname_on_the_card"> اللقب على البطاقة </ string>
+<string name = "asm_card_number"> رقم البطاقة </ string>
+<string name = "asm_expiration_date"> تاريخ انتهاء الصلاحية </ string>
+<string name = "asm_pay_with_credit_card"> الدفع ببطاقة الائتمان </ string>
+<string name = "asm_approve_user_agreement"> أقبل اتفاقية المستخدم </ string>
+<string name = "asm_online_meeting_price"> رسوم المكالمات عبر الإنترنت </ string>
+<string name = "asm_tax"> ضريبة القيمة المضافة 8٪ </string>
+<string name = "asm_appointment_discount"> خصم </ string>
+<string name = "asm_total_price"> المبلغ المستحق الدفع </ string>
+<string name = "asm_download_as_pdf"> عرض كملف PDF </string>
+<string name = "asm_click_to_see"> انقر للعرض </ string>
+<string name = "minutes"> min </string>
+<string name = "asm_success_payment"> تم سداد دفعتك بنجاح وتم إنشاء موعدك. </ string>
+<string name = "asm_error_payment"> فشل الدفع ، \ n يرجى المحاولة مرة أخرى. </ string>
+<string name = "asm_unsuccess_visit"> فشل التفاوض </ string>
+<string name = "asm_login_welcome"> مرحبًا </ string>
+<string name = "asm_invalid_email"> الرجاء إدخال عنوان بريد إلكتروني صالح. </ string>
+<string name = "asm_sms_code_error"> الرجاء إدخال رمز الرسائل القصيرة المكون من 6 أرقام </ string>
+<string name = "asm_choose_error"> الرجاء التحديد. </ string>
+<string name = "asm_test"> اختبار٪ 1 $ d </string>
+<string name = "asm_waiting_test">٪ 1 $ d في انتظار النتائج </ string>
+<string name = "asm_estimate_time"> المقدّر:٪ 1 $ s </string>
+<string name = "asm_explain"> الوصف </ string>
+<string name = "asm_normal_prescription"> الوصفة العادية </ string>
+<string name = "asm_text_value_for_lab_termes">٪ 1 $ s.٪ 2 $ s </string>
+<string name = "asm_red_prescription"> RED RECIPE </string>
+<string name = "asm_yellow_prescription"> الوصفة الصفراء </ string>
+<string name = "asm_purple_prescription"> الوصفة الأرجواني </ string>
+<string name = "asm_green_prescription"> الوصفة الخضراء </ string>
+<string name = "asm_optic_prescription"> إيصال العين </ string>
+<string name = "asm_success_download_report"> تم حفظ التقرير </ string>
+<string name = "asm_storage_permission"> الرجاء منح إذن التخزين للتنزيل! </ string>
+<string name = "asm_test_for_lab_child"> اختبار </ string>
+<string name = "asm_critical_high"> ارتفاع حرج </ string>
+<string name = "asm_above_reference_range"> مرجع أعلى من النطاق </ string>
+<string name = "asm_reference_within_range"> المرجع في النطاق </ string>
+<string name = "asm_below_reference_range"> المرجع ضمن النطاق </ string>
+<string name = "asm_critical_low"> منخفض حرج </ string>
+<string name = "asm_match_phone_number_info"> أنت مسجل برقم هاتف مختلف بنفس بيانات الاعتماد. يرجى التحقق. </ string>
+<string name = "asm_success_new_password"> تم تغيير كلمة المرور الخاصة بك بنجاح. </ string>
+<string name = "asm_information"> معلومات </ string>
+<string name = "asm_accept"> قبول </ string>
+
+<string name = "icomed_mail_validation_info"> تم إرسال رمز التحقق الخاص بك إلى "٪ 1 $ s". </string>
+<string name = "icomed_sms_validation_info"> تمت إعادة توجيه رمز التحقق إلى "٪ 1 $ s". </string>
+<string name = "icomed_sms_validation_info_example"> تم إرسال رمز التحقق الخاص بك إلى 0555666 77 88. </string>
+<string name = "asm_prescription_detail"> تفاصيل الوصفة </ string>
+<string name = "asm_payment"> الدفع </ string>
+<string name = "asm_use_filter"> استخدم عامل التصفية </ string>
+<string name = "asm_filter_by_hospitals"> تصفية حسب المستشفيات </ string>
+<string name = "asm_filter_by_departments"> تصفية حسب الأقسام الطبية </ string>
+<string name = "asm_choose_department_for_filter"> حدد القسم </ string>
+<string name = "asm_clear"> مسح </ string>
+<string name = "asm_apply"> تطبيق </ string>
+<string name = "title_activity_twilio"> نشاط TwilioActivity </string>
+<string name = "next"> التالي </ string>
+<string name = "previous"> السابق </ string>
+<string name = "asm_call_reject"> رفض </ string>
+<string name = "asm_call_accept"> رد </ string>
+<string name = "asm_doctor_calling"> تريد إجراء مكالمة فيديو معك </ string>
+<string name = "asm_no_history_report"> امتحانك السابق \ n لا. </ string>
+<string name = "asm_max_500_characters"> حد أقصى يمكنك كتابة 500 حرف. </ string>
+<string name = "asm_would_you_like_to_an_appointment"> هل ترغب في تحديد موعد استراحة؟ </ string>
+<string name = "asm_permission_call"> الرجاء منح الإذن للبحث. </ string>
+<string name = "asm_additional_appointment"> موعد </ string>
+<string name = "asm_your_upcoming_appointments"> مواعيدك القادمة </ string>
+<string name = "asm_tsi_info"> يتم استخدام التوقيت المحلي التركي. </ string>
+<string name = "asm_lab_result"> نتيجة المعمل </ string>
+<string name = "asm_support_center_flat"> مركز الدعم </ string>
+<string name = "asm_choose_subject"> اختر الموضوع </ string>
+<string name = "asm_we_are_listening_to_you"> نصغي إليك </ string>
+<string name = "asm_support_center_sub_info"> نستمع إلى تعليقاتك واقتراحاتك وانتقاداتك لتحسين جودة خدماتنا. </ string>
+<string name = "asm_your_message"> رسالتك </ string>
+<string name = "asm_subject_proposal"> اقتراح </ string>
+<string name = "asm_subject_request"> طلب </ string>
+<string name = "asm_subject_complaint"> شكوى </ string>
+<string name = "asm_subject_thanks"> شكرًا </ string>
+<string name = "asm_subject_price_information"> معلومات السعر </ string>
+<string name = "asm_about_the_doctor"> حول الطبيب </ string>
+<string name = "asm_are_you_sure_want_to_logout"> هل أنت متأكد أنك تريد تسجيل الخروج؟ </ string>
+<string name = "asm_are_you_sure_want_to_delete_appointment"> سيتم إلغاء موعدك. هل تريد الاستمرار؟ </string>
+<string name = "asm_appointment_success_canceled"> كان إلغاء موعدك \ n ناجحًا. بدأت عملية استرداد دفعتك \ nia. </string>
+<string name = "asm_request_error_try_again"> حدث خطأ. يرجى المحاولة مرة أخرى. </ string>
+<string name = "asm_my_mother"> والدتي </ string>
+<string name = "asm_my_father"> والدي </ string>
+<string name = "asm_brother"> الأخ </ string>
+<string name = "asm_sister"> أخت </ string>
+<string name = "asm_video_call_information"> لن يتم تسجيل مكالمات الفيديو مع الأطباء ولن تتم مشاركتها مع جهات خارجية أو مؤسسات في إطار مبادئ خصوصية المريض. وفقًا لقانون حماية البيانات الشخصية ، ليس من القانوني لمرضانا تسجيل المقابلات ومشاركتها مع أطراف ثالثة. </ string>
+<string name = "asm_add_to_phone_calendar"> إضافة إلى تقويم الهاتف </ string>
+<string name = "asm_appointment_successfull_must_pay"> تم استلام طلب موعدك. إذا لم تقم بالدفع ، فسيتم إلغاء موعدك. </ string>
+
+
+<string name = "room_status"> الحالة </ string>
+<string name = "auth_needed"> مطلوب أذونات الكاميرا والميكروفون. يرجى السماح في "إعدادات التطبيق" للحصول على وظائف إضافية. </ string>
+<string name = "error_retrieving_access_token"> خطأ في استرداد الرمز المميز </ string>
+<string name = "title_activity_settings"> الإعدادات </ string>
+<string name = "settings"> الإعدادات </ string>
+<string name = "codec_title"> قم بتعيين برنامج ترميز الصوت والفيديو المفضل لديك. لا يتم دعم جميع برامج الترميز مع غرف المجموعة. سيعود خادم الوسائط إلى OPUS أو VP8 إذا لم يكن برنامج الترميز المفضل مدعومًا. </ string>
+<string name = "pref_title_audio_codec"> برنامج ترميز الصوت </ string>
+<string name = "pref_title_video_codec"> برنامج ترميز الفيديو </ string>
+<string name = "sender_bandwidth_constraints"> قم بتعيين قيود النطاق الترددي للمرسل. يمثل الصفر القيمة الافتراضية لـ WebRTC والتي تختلف حسب برنامج الترميز. </ string>
+<string name = "max_audio_bitrate"> أقصى معدل نقل للصوت (بت في الثانية) </ string>
+<string name = "max_video_bitrate"> الحد الأقصى لمعدل نقل بيانات الفيديو (بت في الثانية) </ string>
+<string name = "vp8_simulcast"> بث متزامن لـ VP8 </string>
+<string name = "audio_device"> جهاز الصوت </ string>
+<string name = "room_screen_select_device"> حدد الجهاز </ string>
+
+<string name = "icomed_signup_match_phone_numbers_title"> معلومات الملف الشخصي المسجل </ string>
+<string name = "icomed_identity_passport_no"> رقم هوية TR أو رقم جواز السفر </ string>
+<string name = "icomed_enter_profile_info"> أدخل معلوماتك للتحقق من ملفك الشخصي. </ string>
+<string name = "icomed_mail"> البريد </ string>
+<string name = "icomed_email"> البريد الإلكتروني </ string>
+<string name = "icomed_profile_address">٪ 1 $ s -٪ 2 $ s -٪ 3 $ s </string>
+<string name = "icomed_profile_nationality_id">٪ 1 $ s -٪ 2 $ s </string>
+<string name = "icomed_nationality_identify_id"> الجنسية - TR </string>
+<string name = "icomed_my_drugs"> الأدوية الخاصة بي </ string>
+<string name = "icomed_my_allergies"> حساسيات </ string>
+<string name = "icomed_my_chronics"> مزمن \ n اضطراباتي </ string>
+<string name = "icomed_my_family_disease"> عائلتي \ n المشكلات </ string>
+<string name = "icomed_my_body"> الجسم \ n قياساتي </ string>
+<string name = "icomed_all_appointments"> كافة المواعيد </ string>
+<string name = "icomed_medical_results"> السجلات الطبية والنتائج </ string>
+<string name = "icomed_prescriptions"> الوصفة الطبية </ string>
+<string name = "icomed_drug_reminder"> تذكير الدواء </ string>
+<string name = "icomed_my_cards"> بطاقاتي </ string>
+<string name = "icomed_do_exit"> تسجيل الخروج </ string>
+<string name = "icomed_share_friends"> أقترح على صديق </ string>
+<string name = "icomed_settings"> الإعدادات </ string>
+<string name = "icomed_show_profile"> عرض الملف الشخصي </ string>
+<string name = "icomed_onsite_appointments"> المواعيد في الموقع </ string>
+<string name = "icomed_video_calls"> مكالمات الفيديو </ string>
+<string name = "icomed_upcoming_appointment"> موعد قادم </ string>
+<string name = "icomed_fore_info"> مقدمة </ string>
+<string name = "icomed_i_will_late"> سأتأخر </ string>
+<string name = "icomed_cancel"> إلغاء </ string>
+<string name = "icomed_department"> قسم </ string>
+<string name = "icomed"> iCoMED </string>
+<string name = "icomed_publications"> المنشورات </ string>
+<string name = "icomed_nearest_appointment"> أقرب موعد </ string>
+<string name = "asm_experience"> الخبرة </ string>
+
+<string name = "asm_allow_permission"> سماح </ string>
+<string name = "asm_title_permission_calendar"> تشغيل الإعلامات للتقويم </ string>
+<string name = "asm_title_permission_gallery"> منح الوصول إلى المعرض </ string>
+<string name = "asm_title_permission_camera"> منح الوصول إلى الكاميرا </ string>
+<string name = "asm_title_permission_location"> منح الوصول إلى الموقع </ string>
+<string name = "asm_title_permission_microphone"> منح الوصول إلى الميكروفون </ string>
+<string name = "asm_subtitle_permission_calendar"> يجب منح إذن التقويم حتى تتمكن من تتبع موعدك بسهولة أكبر. </ string>
+<string name = "asm_subtitle_permission_gallery"> يجب منح حق الوصول قبل أن تتمكن من تحميل الصور من المعرض. </ string>
+<string name = "asm_subtitle_permission_camera"> يجب أن تمنح حق الوصول قبل أن تتمكن من استخدام الكاميرا. </ string>
+<string name = "asm_subtitle_permission_location"> يجب منح حق الوصول لعرض الخريطة باستخدام معلومات موقعك. </ string>
+<string name = "asm_subtitle_permission_microphone"> يجب أن تمنح حق الوصول قبل أن تتمكن من استخدام الميكروفون. </ string>
+<string name = "asm_allow_notifications"> السماح بالإشعارات </ string>
+<string name = "asm_call_voice_accept"> صوت \ n إجابة </ string>
+<string name = "asm_call_cancel"> اتصال \ n رفض </ string>
+<string name = "asm_call_video_accept"> عرض \ n رد </ string>
+
+</resources>
+
