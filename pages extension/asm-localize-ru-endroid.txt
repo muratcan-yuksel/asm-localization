@@ -1,0 +1,556 @@
+ 
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<!-- Menu -->
+<string name="menu_login"translatable="false">Войти</string>
+<string name="menu_appointments"translatable="false">Встречи</string>
+<string name="menu_reports"translatable="false">Отчеты</string>
+<string name="menu_medical_records">Медицинские записи</string>
+<string name="menu_other"translatable="false">Другое</string>
+<string name="onboarding_get_started"translatable="false">Начать!</string>
+<string name="onboarding_login"translatable="false">У меня уже есть аккаунт</string>
+<string name="welcome"translatable="false">Добро пожаловать!</string>
+<string name="skip"translatable="false">(Пропустить)</string>
+<string name="icomed_home"translatable="false">Домашняя страница</string>
+<string name="icomed_hospital_appointment"translatable="false">Запись на прием в больницу</string>
+<string name="icomed_video_call"translatable="false">Видеозвонок</string>
+<string name="icomed_menu"translatable="false">Меню</string>
+<string name="send"translatable="false">Отправить</string>
+<string name="new_user"translatable="false">Создать пользователя</string>
+<string name="txtNewProfileInfo1"translatable="false">Чтобы создать пользователя, укажите свой адрес электронной почты и 6-значный пароль пользователя.</string>
+<string name="email" translatable="false">Электронная почта</string>
+<string name="password"translatable="false">Пароль</string>
+<string name="passwordAgain" translatable="false">Повторите пароль</string>
+<string name="start_profile_creation"translatable="false">Начать профилирование</string>
+<string name="new_profile"translatable="false">Создать профиль</string>
+<string name="next_step"translatable="false">Следующий шаг</string>
+<string name="gender"translatable="false">Пол</string>
+<string name="name">Имя</string>
+<string name="surname">Фамилия</string>
+<string name="new_profile_barcode_info">Вы можете передать информацию профиля, выполнив поиск\n по вашему идентификатору.</string>
+<string name="female">Женщина</string>
+<string name="мужской">Мужчина</string>
+<string name="change_photo">Изменить изображение</string>
+<string name="nationality">Национальность</string>
+<string name="identity_no">Идентификационный номер TR</string>
+<string name="birth_date">Дата рождения</string>
+<string name="location_info" tools:ignore="Typos">Информация о вашем адресе помогает нам рекомендовать медицинские учреждения, расположенные ближе к вам.</string>
+<string name="country">Страна</string>
+<string name="city">Город</string>
+<string name="Район">Округ</string>
+<string name="great_profile">ваш профиль выглядит великолепно!</string>
+<string name="skip_profile">Пропустить</string>
+<string name="health_card">Карта здоровья</string>
+<string name="permission_camera">Пожалуйста, разрешите добавлять фото</string>
+<string name="permission_camera_and_microphone">Разрешите доступ к камере и микрофону</string>
+<string name="permission_video_call">Разрешения должны быть предоставлены, прежде чем вы сможете совершать видеовызовы.</string>
+<string name="take_photo">Сделать фото</string>
+<string name="upload_photo">Загрузить фото</string>
+
+
+<string name="confirm_phone_number"translatable="false">Подтвердите свой номер телефона\nначните использовать его.</string>
+<string name="hint_phone_number"translatable="false">Номер телефона</string>
+<string name="confirm_user_contract"translatable="false">Я согласен с пользовательским соглашением.</string>
+<string name="send_sms"translatable="false">Отправить SMS</string>
+<string name="resend_sms"translatable="false">Отправить SMS повторно</string>
+<string name="resend_mail"translatable="false">Отправить письмо повторно</string>
+<string name="validate_sms_code"translatable="false">Введите смс-код со своего номера телефона</string>
+<string name="validate"translatable="false">Подтвердить</string>
+<string name="is_this_your_account"translatable="false">Этот аккаунт принадлежит вам?</string>
+<string name="info_account_name"translatable="false">Введенный вами номер телефона 0500 000 00 00\nзарегистрирован на H***** K**a\na.</string>
+<string name="account_is_mine"translatable="false">Да, это я</string>
+<string name="account_is_not_mine"translatable="false">Нет, это не мой аккаунт</string>
+<string name="validate_sms"translatable="false">Подтвердить SMS</string>
+<string name="hint_sms_code"translatable="false">Код SMS</string>
+<string name="info_profiles_of_phone_number"translatable="false">Другие профили, связанные с этим номером телефона, будут отменены.</string>
+<string name="cancel_dialog"translatable="false">Отменить</string>
+<string name="yes"translatable="false">Да</string>
+<string name="question_continue"translatable="false">Продолжить?</string>
+<string name="validate_your_profile">Подтвердите свой профиль</string>
+<string name="did_you_forget_password">Забыли пароль?</string>
+<string name="deactivated_msg">Ваша учетная запись удалена!</string>
+</строка>
+<string name="custom_dialog_prompt_info">"Другие профили, связанные с номером телефона 0500 000 00 00, будут удалены".</string>
+<string name="empty_error">Пожалуйста, заполните все поля.</string>
+<string name="password_match_error">Введенные вами пароли не совпадают.</string>
+<string name="password_length_error">Пароль должен содержать не менее 6 символов!</string>
+<string name="phone_number_error">Пожалуйста, введите действительный номер телефона.</string>
+<string name="user_agreement_error">Вы должны подтвердить пользовательское соглашение.</string>
+
+
+<string name="good_morning">Доброе утро</string>
+<string name="weight">Вес</string>
+<string name="unit_weight">кг</string>
+<string name="height">Высота</string>
+<string name="unit_height">см</string>
+<string name="blood_group">Группа крови</string>
+<string name="blood_group_a">А</string>
+<string name="blood_group_b">Б</string>
+<string name="blood_group_zero">0</string>
+<string name="blood_group_ab">AB</string>
+<string name="rh_positive">Rh+</string>
+<string name="rh_negative">Rh -</string>
+<string name="rh">Rh</string>
+<string name="profile">Профиль</string>
+<string name="hospitals">Больницы</string>
+<string name="address">Адрес</string>
+<string name="update">Обновить</string>
+<string name="bed">Кровать</string>
+<string name="contact">Контакт</string>
+<string name="departments">Медицинские подразделения</string>
+<string name="more">Еще</string>
+<string name="less">Меньше</string>
+<string name="experiment">Опыт</string>
+<string name="appointment">Встреча</string>
+<string name="camera">Камера</string>
+<string name="microphone">Микрофон</string>
+
+<string name="requestSuccessful">Запрос выполнен успешно!</string>
+<string name="requestErrorMessage">Произошла ошибка!</string>
+
+<!-- ASM -->
+<string name="asm_onboarding_get_started">Начать</string>
+<string name="asm_create_profile">Создать аккаунт</string>
+<string name="asm_next">Продолжить</string>
+<string name="asm_onboarding_text_1">Быстрая встреча и\назначение</string>
+<string name="asm_onboarding_text_2">Позвоните своему врачу\nвидео из любого места</string>
+<string name="asm_onboarding_text_3">Отображать результаты теста и отчеты\немедленно</string>
+<string name="asm_create_profile_password_info">Ваш пароль должен состоять из 6 символов и цифр.</string>
+<string name="asm_birthdate_with_format">Дата рождения (ДД/ММ/ГГ)</string>
+<string name="asm_change_profile_photo">Изменить фото профиля</string>
+<string name="match_hospital">Матч Хоспитал</string>
+<string name="match_hospital_info">В нашей системе не удалось найти ни одной больничной документации. Затем вы можете \nсоответствовать больнице из управления профилями.</string>
+<string name="match_hospital_info_continue">Вы по-прежнему сможете выполнять \nследующие действия в приложении;</string>
+<string name="return_home">Вернуться на главную страницу</string>
+<string name="can_create_appointment">Возможность назначать встречи</string>
+<string name="video_meeting">Видеозвонок</string>
+<string name="match_hospital_success_info">Записи, связанные с номером телефона 0500 000 00 00, успешно сопоставлены;</string>
+<string name="match_hospital_need_phone_validation">Для доступа к следующим \nзаписям, связанным с другим номером телефона, требуется дополнительная проверка.</string>
+<string name="save">Сохранить</string>
+<string name="match_hospital_unsuccess_info">Нет связанных записей с номером телефона 0532 170 05 73.</string>
+
+
+
+
+
+
+<string name="asm_welcome">Добро пожаловать,</string>
+<string name="asm_phone_validation_info">Подтвердите свой номер телефона\nначните его использовать.</string>
+<string name="asm_country_code">Код страны</string>
+<string name="asm_user_contract">Я прочитал и принял Пользовательское соглашение и Информационный текст о защите природных данных</string>
+<string name="asm_send_sms">Отредактировать SMS</string>
+<string name="asm_sms_validation_info">Ваш код подтверждения отправлен на номер \n0555 666 77 88 \n</string>
+<string name="asm_hint_sms_code">Код СМС</string>
+<string name="asm_hint_mail_code">Код подтверждения</string>
+<string name="asm_hint_phone_number">Ваш номер телефона</string>
+<string name="asm_validate">Подтвердить</string>
+<string name="asm_didnt_you_receieve_sms_code">Вы не получили пароль на свой телефон?</string>
+<string name="asm_didnt_you_receieve_mail_code">Не получили пароль на свой адрес электронной почты?</string>
+<string name="asm_resend">Отредактировать повторно</string>
+<string name="asm_is_this_your_account">Этот аккаунт принадлежит вам?</string>
+<string name="asm_account_is_mine">Да, это я</string>
+<string name="asm_account_is_not_mine">Нет, это не мой аккаунт</string>
+<string name="custom_dialog_prompt_asm_info">Другие профили, связанные с номером телефона 0555 666 77 88\n, будут удалены</string>
+<string name="info_profiles_of_phone_number_asm" translatable="false">другие профили, связанные с номером телефона\n, будут \nзаблокированы</string>
+<string name="asm_success_phone_validation">Вы\nподтвердили свой телефон.</string>
+<string name="asm_sign_up">Зарегистрироваться</string>
+<string name="asm_pair_phone_numbers_title">Информация о совпадениях</string>
+<string name="asm_pair_phone_numbers_subtitle"> не удалось найти вашу запись, связанную с номером телефона.</string>
+<string name="asm_pair_phone_numbers_info">Для доступа к нашим записям, раскрытым с другим номером телефона, требуется дополнительная аутентификация.</string>
+<string name="asm_pair_phone_numbers_footer_info">Если соединение не обнаружено, вы не можете просмотреть свои исторические записи. \nВы можете подключиться снова позже.</string>
+<string name="asm_pair_phone_numbers_button">Продолжить без заражения</string>
+<string name="asm_import_hospital_data">Импорт информации о больнице</string>
+<string name="info_account_name_asm">Введенный вами номер телефона 0555 666 77 88 зарегистрирован на имя A** Y*****</string>
+<string name="asm_validate_profile">Подтвердите свой профиль</string>
+Чтобы проверить свою учетную запись в разделе <string name="asm_profile_edit_info">, введите пароль своего рождения и воскресный 6-значный пароль</string>.
+<string name="asm_identity_no">Т.С. Идентификационный номер</string>
+
+
+
+
+<string name="asm_birth_date">Дата рождения</string>
+<string name="asm_password">Пароль</string>
+<string name="asm_forgot_password">Забыли пароль</string>
+<string name="asm_invalid_idendity">Т.С. Введенный идентификационный номер отсутствует!</string>
+<string name="asm_remind_password">Напомнить пароль</string>
+<string name="asm_send">Отправить</string>
+<string name="asm_sent_password_your_phone_number">Ваш пароль отправлен на ваш зарегистрированный телефон</string>
+<string name="asm_ok">ОК</string>
+<string name="asm_upcoming_appointments">Ваши предстоящие встречи</string>
+<string name="asm_visits">Ваши прошлые посещения</string>
+<string name="asm_selection_for_you">Что мы выбрали для вас</string>
+<string name="asm_our_creative_solution">Наши подходы, которые имеют значение</string>
+<string name="asm_call_center">Колл-центр</string>
+<string name="asm_service_info">СЛУЖБА \nИНФОРМАЦИЯ</string>
+<string name="asm_my_appointments">Мои встречи</string>
+<string name="asm_appointments_in_hospital">Встречи на месте</string>
+<string name="asm_video_appointments">Видеозвонок</string>
+<string name="asm_no_appointments">У вас нет назначенной встречи.</string>
+<string name="asm_use_button_for_appointments">Вы можете использовать следующую \nкнопку, чтобы назначить встречу</string>
+<string name="asm_get_new_appointment">Назначить новую встречу</string>
+<string name="asm_waiting_video_appointment">Ожидание звонка</string>
+<string name="asm_login_info">Вы можете войти, введя свой пароль</string>
+<string name="asmForgotPassword">Забыли пароль</string>
+<string name="asm_appointment_of_hospital">Запись на прием в больнице</string>
+<string name="asm_appointment_of_video">Видеозвонок</string>
+<string name="asm_for_who">Для кого</string>
+<string name="asm_hospital">Больница</string>
+<string name="asm_date">Дата</string>
+<string name="asm_complaint">Жалоба</string>
+<string name="asm_lab">Лаборатория</string>
+<string name="asm_rad">Радиология</string>
+<string name="asm_pat">Патология</string>
+<string name="asm_report">Рецепт</string>
+
+<string name="asm_in_hospital_appointment">Больница\nНазначение</string>
+<string name="asm_video_appointment">Видео\nИнтервью</string>
+<string name="asm_support_center">\nЦентр поддержки</string>
+<string name="asm_cancel_appointment">Отменить встречу</string>
+<string name="asm_list">Список</string>
+<string name="asm_map">Карта</string>
+<string name="asm_our_hospitals">Наши больницы</string>
+<string name="asm_name_of_asm">Анатолийский центр здоровья</string>
+<string name="asm_atasehir">Аташехир</string>
+<string name="asm_gebze">Гебзе</string>
+<string name="asm_current_mark_tag">Ваше местоположение</string>
+<string name="asm_permission_granted">Разрешено</string>
+<string name="asm_permission_denied">Отказано в доступе</string>
+<string name="asm_current_location_permission">Для доступа к вашему текущему местоположению требуется разрешение!</string>
+<string name="asm_return">Возврат</string>
+<string name="asm_next_step">Следующий шаг</string>
+<string name="asm_did_you_forget_password">Забыли пароль?</string>
+<string name="asm_choose_validation_way">Выберите метод проверки</string>
+<string name="asm_sms">SMS</string>
+<string name="asm_email">Электронная почта</string>
+<string name="asm_create_new_password">Создать новый пароль</string>
+<string name="asm_new_password">Новый пароль</string>
+<string name="asm_renew_password">Повторите новый пароль</string>
+<string name="asm_create">Создать</string>
+<string name="asm_login_with_another_gsm_number">Войти с другим номером телефона</string>
+<string name="asm_enter_profile_info">Введите свою \ninfo, чтобы подтвердить свой профиль.</string>
+<string name="asm_start_text_for_sms_validation">Ваш код подтверждения</string>
+Оно было перенаправлено на <string name="asm_end_text_for_sms_validation"></string>
+<string name="asm_end_text_for_mail_validation"> переадресовано.</string>
+<string name="asm_medical_reports_results">Медицинская карта и результаты</string>
+<string name="asm_laboratory">Лаборатория</string>
+<string name="asm_radiology">Радиология</string>
+<string name="asm_other">Другое</string>
+
+
+<string name="asm_hospital_general_info">Познакомьтесь</string>
+<string name="asm_address_description">Маршруты</string>
+<string name="asm_roads_info">Служебная информация</string>
+<string name="asm_hospital_departments">Медицинские отделения</string>
+<string name="asm_hospital_doctors">Врачи</string>
+<string name="asm_hospital_working_time">Время работы скорой помощи и поликлиник</string>
+<string name="asm_weekdays">понедельник-пятница</string>
+<string name="asm_weekend">суббота</string>
+<string name="asm_work_hours_with_numbers">08:00–20:00</string>
+<string name="asm_gebze_hospital_meters">50 000 м2 закрытой территории</string>
+<string name="asm_bed_gebze_capacity_writing">Вместимость: 201 койка</string>
+<string name="asm_gebze_article_header">В медицинском центре Гебзе Анадолу вы в безопасности.</string>
+<string name="asm_atasehir_article_header">Вы в безопасности в медицинском центре Аташехир.</string>
+<string name="asm_gebze_article_text">Анатолийский фонд, который привез в Турцию десятки работ, осуществил еще одну мечту, введя в эксплуатацию медицинский центр Анадолу. Наша больница, которая защищает ценное наследие Анатолии, в котором тысячи лет опыта в области здравоохранения и много ценных медицинских работников, использует эти знания, чтобы внести свой вклад в здоровье человека. Наша больница, которая работает в стратегическом сотрудничестве с Johns Hopkins Medicine для улучшения образования и качества; предлагает услуги во всех отраслях, особенно в онкологии, здоровье сердца, женском здоровье и ЭКО, неврологических науках, хирургических науках, внутренних науках, диагностике и визуализации. Наша больница, которая была создана на территории площадью около 188 000 квадратных метров и продолжает работать с вместимостью 201 коек на закрытой территории площадью 50 тысяч квадратных метров, предоставляет услуги с аккредитацией JCI (Joint Commission International) и ESMO. (Европейская медицинская онкологическая ассоциация). Медицинский центр Анадолу продолжает оказывать медицинские услуги в Хирургическом медицинском центре Аташехир в Аташехире. Архивы транзакций пациентов, получающих услуги в сателлитной клинике, могут храниться в виртуальной среде. Центр трансплантации костного мозга, который начал свою работу в больнице в июне 2010 года, может проводить трансплантацию костного мозга одновременно 22 пациентам. Нашим главным приоритетом в нашей больнице всегда являются наши пациенты. По этой причине мы ценим потребности и ожидания наших пациентов и их родственников и работаем с большой осторожностью, чтобы обеспечить им мирный процесс лечения и чувствовать себя как дома.</string>
+<string name="asm_atasehir_article_text">Для Медицинского центра Anadolu нашим главным приоритетом является здоровье наших пациентов/родственников пациентов и сотрудников. В этом направлении мы принимаем меры, требуемые как национальными, так и международными органами, и предлагаем медицинские услуги нашим пациентам в безопасной среде во время нынешней пандемии COVID-19. В медицинском центре Аташехир, как и в нашей больнице Гебзе, в медицинском центре Anadolu Health Ataşehir, который работает с 2008 года, наши пациенты с подозрением на COVID-19 оцениваются специальной командой службы неотложной помощи и направляются в соответствующие государственные больницы для лечение. Мы предоставляем услуги во многих различных отделениях медицинского центра Anadolu Health Ataşehir, который предоставляет медицинские услуги в безопасной и стерильной среде. В нашем отделении функциональной медицины, одном из направлений, в котором мы имеем большое значение, наш врач функциональной медицины предоставляет услуги с индивидуальным и целостным подходом. Наши гости, которые хотят укрепить свою иммунную систему в период текущей пандемии, могут воспользоваться нашей озоновой терапией, которая применяется для укрепления иммунной системы. Медицинский центр Анадолу продолжает оказывать медицинские услуги в медицинском центре Аташехир. Результаты рентгенологического исследования пациентов в больницах и медицинских центрах можно хранить в виртуальной среде. Таким образом, при необходимости можно легко обмениваться информацией между Медицинским центром Анадолу и Медицинским центром Анадолу Хелс Аташехир. Кроме того, в медицинском центре Anadolu Health Ataşehir есть система, которая позволяет отслеживать процедуры пациентов и хранить архивы пациентов в виртуальной среде. Благодаря этой технологии записи пациентов можно просматривать в одной системе во всех филиалах Медицинского центра Анадолу. Медицинский центр Anadolu Health Ataşehir был основан в 2008 году с инвестиционной стоимостью 8 миллионов долларов. Центр, созданный на площади 3 тысячи 700 квадратных метров, имеет поликлиники и службы неотложной помощи по многим направлениям от педиатрии и болезней до кожных болезней, от урологии до внутренних болезней.</string>
+<string name="asm_atasehir_adress">Барбарос Мах. Ортабахар Сокак\nNo: 28, 28A\nАташехир Стамбул</string>
+<string name="asm_gebze_adress">Джумхуриет Махаллеси\nулица 2255 №3\nГебзе 41400 Коджаэли</string>
+<string name="asm_tel_no">Тел.: 44 44 276</string>
+<string name="asm_atasehir_fax_no">Факс: 0216 317 00 99</string>
+<string name="asm_gebze_fax_no">Факс: 0262 678 55 45</string>
+<string name="asm_gebze_latitude">Широта: 40,819035</string>
+<string name="asm_gebze_longitude">Долгота: 29.353974</string>
+<string name="asm_atasehir_latitude">Широта: 40,984598</string>
+<string name="asm_atasehir_longitude">Долгота: 29.097719</string>
+<string name="asm_address_info" tools:ignore="Typos">Информация об адресе</string>
+<string name="asm_contact_info">Контактная информация</string>
+<string name="asm_call">Позвонить</string>
+
+
+<string name="asm_coordinates">Координаты</string>
+<string name="asm_all_roads">Все маршруты обслуживания</string>
+<string name="asm_search_roads">Поиск служебного маршрута в округе</string>
+<string name="asm_roads_info_warning">Чтобы воспользоваться услугой, вам необходимо записаться на прием <b>за 1 час</b>\n<b>44 44 276</b>\nappointment.</string>
+<string name="asm_atasehir_hospital_name">Медицинский центр Аташехир - Больница Медицинского центра Анадолу</string>
+<string name="asm_izmit_hospital_name">Измит - больница Медицинского центра Анадолу</string>
+<string name="asm_our_hospital_departments">Наши медицинские отделения</string>
+<string name="asm_search_departments">Отдел поиска</string>
+<string name="asm_dental_health">Здоровье полости рта и зубов</string>
+<string name="asm_pain_management">Обезболивание</string>
+<string name="asm_biochemistry">Биохимия</string>
+<string name="asm_our_doctors">Наши врачи</string>
+<string name="asm_search_doctor">Поиск доктора</string>
+<string name="asm_show_on_map">Показать на карте</string>
+<string name="asm_health_guide">Руководство по здоровью</string>
+<string name="asm_health_articles">Статьи каталога здоровья</string>
+<string name="asm_all">Все</string>
+<string name="asm_nutrition_diet">Питание и диета</string>
+<string name="asm_cancer">Рак</string>
+<string name="asm_women">Женщины</string>
+<string name="asm_all_articles">Все сообщения</string>
+<string name="asm_take_an_appointment">Назначить встречу</string>
+<string name="asm_past_visits">Прошлые экзамены</string>
+<string name="asm_search_result">Результаты поиска</string>
+<string name="asm_visit_history_detail">Детали проверки</string>
+<string name="asm_details">Подробнее</string>
+<string name="asm_evaluate_point_visit">Оцените экзамен</string>
+<string name="asm_get_your_control_appointment">Назначить контрольную встречу</string>
+<string name="asm_results">Результаты</string>
+<string name="asm_notification">Уведомления</string>
+<string name="asm_lorem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusant dolorque laudantium, totam</string>
+<string name="asm_get_appointments">Назначить встречу</string>
+<string name="asm_get_control_appointment">Назначить контрольную встречу</string>
+<string name="asm_doctor_did_not_call_me">Врач мне не звонил</string>
+<string name="help">Справка</string>
+<string name="pay">Внести платеж</string>
+<string name="asm_account_infos">Информация о вашей учетной записи</string>
+<string name="asm_prescriptions">Предписания</string>
+<string name="asm_videos">Видео</string>
+<string name="asm_take_our_survey">Примите участие в нашем опросе</string>
+<string name="asm_contact_us">Свяжитесь с нами</string>
+<string name="asm_logout_my_app">Выйти из моего приложения</string>
+<string name="asm_get_appointment_steps">Этапы встречи</string>
+<string name="asm_who_is_appointment_for">Кого вы записываете на прием?</string>
+<string name="asm_choose_appointment_type">Выберите тип встречи</string>
+<string name="asm_choose_hospital">Выберите больницу</string>
+<string name="asm_education">Обучение</string>
+<string name="asm_doctor_specialty">Специализация</string>
+<string name="asm_journal">Публикации</string>
+<string name="asm_articles_of_doctor">Президентские статьи</string>
+<string name="asm_get_appointment">Назначить встречу</string>
+<string name="asm_my_profile">Моя учетная запись</string>
+<string name="asm_profile_informations">Информация об учетной записи</string>
+<string name="asm_personal_informations">Личная информация</string>
+<string name="asm_healthy_card">Карта здоровья</string>
+<string name="asm_mobile_number">Мобильный телефон</string>
+<string name="asm_re_password">Пароль(повторно)</string>
+<string name="asm_change_your_password">Изменить пароль</string>
+<string name="asm_identity_number">Т.С. Идентификационный номер</string>
+<string name="asm_blood_type">Группа крови</string>
+
+<string name="asm_body_height">Высота</string>
+<string name="asm_body_weight">Вес</string>
+<string name="asm_have_you_chronic_disease">Есть ли у вас хроническое заболевание?</string>
+<string name="asm_have_family_chronic_disease">Есть ли у членов семьи хронические заболевания?</string>
+<string name="asm_have_you_any_allergy">Есть ли у вас аллергия?</string>
+<string name="asm_have_using_routine_medicine">Вы регулярно принимаете лекарства?</string>
+<string name="asm_add_my_selections">Добавить избранное</string>
+<string name="asm_appointment_for_what_profile">Для кого вы записываетесь на прием?</string>
+<string name="asm_department">Отдел</string>
+<string name="asm_doctor">Доктор</string>
+<string name="asm_other_reports">Другие отчеты</string>
+<string name="asm_waiting_result">Результат\nОжидание</string>
+<string name="asm_info_pathology_report">Ваши отчеты "патология"\nсо страницы отображения результатов\nне отображаются.</string>
+<string name="asm_can_call_the_call_center">Для получения дополнительной информации вы можете позвонить в наш колл-центр.</string>
+<string name="asm_call_the_call_center">Позвонить в колл-центр</string>
+<string name="asm_close">Закрыть</string>
+<string name="asm_hours">с</string>
+<string name="asm_minutes">мин</string>
+<string name="asm_seconds">с</string>
+<string name="asm_waiting_meeting">ОЖИДАНИЕ ЗВОНКА</string>
+<string name="asm_meeting_completed">ЗВОНОК ЗАВЕРШЕН</string>
+<string name="asm_meeting_ending_susccess">ЗВОНОК СДЕЛАН</string>
+<string name="asm_meeting_waiting_payment">ОЖИДАНИЕ ОПЛАТЫ</string>
+<string name="asm_meeting_is_starting">ПЕРЕХОД НА ЗВОНОК</string>
+<string name="asm_meeting_cancelled">ЗВОНОК ОТМЕНЕН</string>
+<string name="asm_hospital_appointment_waiting">ОЖИДАНИЕ ЗАПИСИ</string>
+<string name="asm_meeting_no_happened">ЗВОНОК НЕ ПРОШЕЛ</string>
+<string name="asm_explanation">Описание</string>
+<string name="asm_lorem_long">Приостановить действие tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Презентация id porta nunc. Vivamus malesuada и pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. В паломничестве Хабитас платеа диктумст. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque обитатель morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+Suspendisse tincidunt ex eros, nec venenatis odio gravida elementum. Ut sit amet neque vitae mi commodo maximus vitae non quam. Mauris imperdiet finibus lorem ac consequat. Mauris luctus eros vitae libero ullamcorper lobortis. Duis placerat dui nec neque cursus tristique. Mauris sed posuere leo in laoreet velit. Praesent ornare urna sed est tincidunt feugiat eu ac ante. Презентация id porta nunc. Vivamus malesuada и pellentesque gravida.
+Etiam suscipit id tellus sit amet vulputate. Fusce laoreet libero dolor, ac tincidunt nisi rutrum non. Nunc nunc magna, cursus ac enim eget, auctor tincidunt dolor. В паломничестве Хабитас платеа диктумст. Praesent sagittis odio a nibh efficitur lobortis. Maecenas blandit rhoncus quam vitae varius. Nulla pharetra metus in est aliquet commodo. Pellentesque обитатель morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n
+</строка>
+
+
+<string name="asm_result">Результат</string>
+<string name="asm_for_patients_visit_from_another_country">Для наших пациентов из-за рубежа;</string>
+<string name="asm_for_patients_visit_from_another_city">Для наших иногородних пациентов;</string>
+<string name="asm_info_and_contact">Информация и общение</string>
+<string name="asm_mail_for_international_patients">int.patients@anadolusaglik.org</string>
+<string name="asm_info_website">www.anadolumedicalcenter.com</string>
+<string name="asm_patients_from_out_of_country">Наши пациенты из-за рубежа</string>
+<string name="asm_patients_from_out_of_city">Наши пациенты из других городов</string>
+<string name="asm_choose_department">Выберите отдел</string>
+<string name="asm_choose_doctor">Выберите врача</string>
+<string name="asm_choose">Выбрать</string>
+<string name="asm_header_department">Раздел:</string>
+<string name="asm_header_hospital">Больница:</string>
+<string name="asm_header_doctor">Доктор:</string>
+<string name="asm_header_date">Дата:</string>
+<string name="asm_header_date_today">Сегодня</string>
+<string name="asm_choose_time">Выберите время</string>
+<string name="asm_choose_date">Выберите дату</string>
+<string name="asm_other_our_doctors">Другие наши врачи в этом разделе</string>
+<string name="asm_success_appointment_info">Ваша встреча успешно создана.</string>
+<string name="asm_note">Примечание</string>
+<string name="asm_appointment_type">Тип встречи</string>
+<string name="asm_appointment_holder">Назначающий</string>
+<string name="asm_delete_note">Удалить примечание</string>
+<string name="asm_completed">Завершить</string>
+<string name="asm_is_there_note">Есть ли заметка, которую вы хотели бы переслать своему врачу?</string>
+<string name="asm_note_hint">Вы можете написать здесь свою заметку.</string>
+<string name="asm_success_visit">Успех переговоров</string>
+<string name="asm_cvc_no">CVC №</string>
+<string name="asm_name_on_the_card">Имя на карте</string>
+<string name="asm_surname_on_the_card">Фамилия на карте</string>
+<string name="asm_card_number">Номер карты</string>
+<string name="asm_expiration_date">Срок действия</string>
+<string name="asm_pay_with_credit_card">Оплатить кредитной картой</string>
+<string name="asm_approve_user_agreement">Я принимаю пользовательское соглашение</string>
+<string name="asm_online_meeting_price">Стоимость онлайн-звонка</string>
+<string name="asm_tax">НДС 8%</string>
+<string name="asm_appointment_discount">Скидка</string>
+<string name="asm_total_price">Сумма к оплате</string>
+<string name="asm_download_as_pdf">Просмотреть в формате PDF</string>
+<string name="asm_click_to_see">Нажмите для просмотра</string>
+<string name="минуты">мин</string>
+<string name="asm_success_payment">Ваш платеж успешно произведен, и ваша встреча создана.</string>
+<string name="asm_error_payment">Ваш платеж не прошел,\nпожалуйста, повторите попытку.</string>
+<string name="asm_unsuccess_visit">Ошибка согласования</string>
+<string name="asm_login_welcome">Добро пожаловать</string>
+<string name="asm_invalid_email">Пожалуйста, введите действительный адрес электронной почты.</string>
+<string name="asm_sms_code_error">Пожалуйста, введите 6-значный смс-код.</string>
+<string name="asm_choose_error">Выберите.</string>
+<string name="asm_test">Тест%1$d</string>
+<string name="asm_waiting_test">%1$d Ожидание результатов</string>
+<string name="asm_estimate_time">Приблизительно: %1$s</string>
+<string name="asm_explain">Описание</string>
+<string name="asm_normal_prescription">ОБЫЧНЫЙ РЕЦЕПТ</string>
+<string name="asm_text_value_for_lab_termes">%1$s.%2$s</string>
+<string name="asm_red_prescription">КРАСНЫЙ РЕЦЕПТ</string>
+<string name="asm_yellow_prescription">ЖЕЛТЫЙ РЕЦЕПТ</string>
+<string name="asm_purple_prescription">ФИОЛЕТОВЫЙ РЕЦЕПТ</string>
+<string name="asm_green_prescription">ЗЕЛЕНЫЙ РЕЦЕПТ</string>
+<string name="asm_optic_prescription">РЕЦЕПТ ДЛЯ ГЛАЗ</string>
+<string name="asm_success_download_report">Отчет сохранен</string>
+<string name="asm_storage_permission">Пожалуйста, дайте разрешение на скачивание!</string>
+<string name="asm_test_for_lab_child">тест</string>
+<string name="asm_critical_high">Критический максимум</string>
+<string name="asm_above_reference_range">Ссылка выше диапазона</string>
+<string name="asm_reference_within_range">Ссылка в диапазоне</string>
+<string name="asm_below_reference_range">Ссылка в диапазоне</string>
+<string name="asm_critical_low">Критический минимум</string>
+<string name="asm_match_phone_number_info">Вы зарегистрированы на другой номер телефона с теми же учетными данными. Подтвердите.</string>
+<string name="asm_success_new_password">Ваш пароль успешно изменен.</string>
+<string name="asm_information">Информация</string>
+<string name="asm_accept">Принять</string>
+
+<string name="icomed_mail_validation_info">Ваш код подтверждения был отправлен на "%1$s".</string>
+<string name="icomed_sms_validation_info">Код подтверждения был отправлен на "%1$s".</string>
+<string name="icomed_sms_validation_info_example">Ваш код подтверждения был отправлен на номер 0555 666 77 88.</string>
+<string name="asm_prescription_detail">Подробности рецепта</string>
+<string name="asm_payment">Платеж</string>
+<string name="asm_use_filter">Использовать фильтр</string>
+<string name="asm_filter_by_hospitals">Фильтровать по больницам</string>
+<string name="asm_filter_by_departments">Фильтр по медицинским отделениям</string>
+<string name="asm_choose_department_for_filter">Выберите отдел</string>
+<string name="asm_clear">Очистить</string>
+<string name="asm_apply">Применить</string>
+<string name="title_activity_twilio">TwilioActivity</string>
+<string name="next">Далее</string>
+<string name="previous">Предыдущий</string>
+<string name="asm_call_reject">Отклонить</string>
+<string name="asm_call_accept">Ответить</string>
+<string name="asm_doctor_calling">она хочет позвонить вам по видеосвязи</string>
+<string name="asm_no_history_report">Ваш прошлый экзамен \nno.</string>
+<string name="asm_max_500_characters">Макс. Вы можете ввести 500 символов.</string>
+<string name="asm_would_you_like_to_an_appointment">Вы хотите записаться на перерыв?</string>
+<string name="asm_permission_call">Пожалуйста, дайте разрешение на поиск.</string>
+<string name="asm_additional_appointment">Встреча</string>
+<string name="asm_your_upcoming_appointments">Ваши предстоящие встречи</string>
+<string name="asm_tsi_info">Используется местное время Турции.</string>
+<string name="asm_lab_result">Результат лаборатории</string>
+<string name="asm_support_center_flat">Центр поддержки</string>
+<string name="asm_choose_subject">Выберите тему</string>
+<string name="asm_we_are_listening_to_you">Мы вас слушаем</string>
+<string name="asm_support_center_sub_info">Мы прислушиваемся к вашим комментариям, предложениям и критическим замечаниям, чтобы еще больше улучшить качество наших услуг.</string>
+<string name="asm_your_message">Ваше сообщение</string>
+<string name="asm_subject_proposal">Предложение</string>
+<string name="asm_subject_request">Запрос</string>
+<string name="asm_subject_complaint">Жалоба</string>
+<string name="asm_subject_thanks">Спасибо</string>
+<string name="asm_subject_price_information">Информация о ценах</string>
+<string name="asm_about_the_doctor">О докторе</string>
+<string name="asm_are_you_sure_want_to_logout">Вы уверены, что хотите выйти?</string>
+<string name="asm_are_you_sure_want_to_delete_appointment">Ваша встреча будет отменена. Хотите продолжить?</string>
+<string name="asm_appointment_success_canceled">Отмена вашей встречи прошла\nуспешно. Процесс возврата вашего платежа\nia начался.</string>
+<string name="asm_request_error_try_again">Произошла ошибка. Пожалуйста, попробуйте еще раз.</string>
+<string name="asm_my_mother">Моя мама</string>
+<string name="asm_my_father">Мой отец</string>
+<string name="asm_brother">Брат</string>
+<string name="asm_sister">Сестра</string>
+<string name="asm_video_call_information">Ваши видеозвонки с врачами не будут записываться и не будут передаваться третьим лицам или учреждениям в соответствии с принципами конфиденциальности пациентов. В соответствии с Законом о защите персональных данных наши пациенты не имеют права записывать интервью и передавать их третьим лицам.</string>
+<string name="asm_add_to_phone_calendar">Добавить в календарь телефона</string>
+<string name="asm_appointment_successfull_must_pay">Ваш запрос о встрече получен. Если вы не внесете платеж, ваша встреча будет отменена.</string>
+
+
+<string name="room_status">статус</string>
+<string name="permissions_needed">Необходимы разрешения для камеры и микрофона. Разрешите использование дополнительных функций в настройках приложения.</string>
+<string name="error_retrieving_access_token">Ошибка получения токена</string>
+<string name="title_activity_settings">Настройки</string>
+<string name="settings">Настройки</string>
+<string name="codec_title">Установите предпочтительный аудио- и видеокодек. Не все кодеки поддерживаются групповыми комнатами. Медиасервер переключится на OPUS или VP8, если предпочтительный кодек не поддерживается.</string>
+<string name="pref_title_audio_codec">Аудиокодек</string>
+<string name="pref_title_video_codec">Видеокодек</string>
+<string name="sender_bandwidth_constraints">Установите ограничения пропускной способности отправителя. Ноль представляет значение WebRTC по умолчанию, которое зависит от кодека.</string>
+<string name="max_audio_bitrate">Максимальный битрейт аудио (бит в секунду)</string>
+<string name="max_video_bitrate">Максимальный битрейт видео (бит в секунду)</string>
+<string name="vp8_simulcast">Одновременная передача VP8</string>
+<string name="audio_device">Аудиоустройство</string>
+<string name="room_screen_select_device">Выберите устройство</string>
+
+
+
+
+<string name="icomed_signup_match_phone_numbers_title">Информация о зарегистрированном профиле</string>
+<string name="icomed_identity_passport_no">Идентификационный номер TR или номер паспорта</string>
+<string name="icomed_enter_profile_info">Введите информацию, чтобы подтвердить свой профиль.</string>
+<string name="icomed_mail">Почта</string>
+<string name="icomed_email">Электронная почта</string>
+<string name="icomed_profile_address">%1$s - %2$s - %3$s</string>
+<string name="icomed_profile_nationality_id">%1$s - %2$s</string>
+<string name="icomed_nationality_identify_id">Национальность – TR</string>
+<string name="icomed_my_drugs">Мои лекарства</string>
+<string name="icomed_my_allergies">Мои аллергии</string>
+<string name="icomed_my_chronics">Хронические\nМои расстройства</string>
+<string name="icomed_my_family_disease">Моя семья\nПроблемы</string>
+<string name="icomed_my_body">Тело\nМои измерения</string>
+<string name="icomed_all_appointments">Все встречи</string>
+<string name="icomed_medical_results">Медицинская карта и результаты</string>
+<string name="icomed_prescriptions">Рецепт</string>
+<string name="icomed_drug_reminder">Напоминание о приеме лекарств</string>
+<string name="icomed_my_cards">Мои карты</string>
+<string name="icomed_do_exit">Выйти</string>
+<string name="icomed_share_friends">Предложить другу</string>
+<string name="icomed_settings">Настройки</string>
+<string name="icomed_show_profile">Просмотреть профиль</string>
+<string name="icomed_onsite_appointments">Встречи на месте</string>
+<string name="icomed_video_calls">Видеозвонки</string>
+<string name="icomed_upcoming_appointment">Предстоящая встреча</string>
+<string name="icomed_fore_info">Предисловие</string>
+<string name="icomed_i_will_late">Я опоздаю</string>
+<string name="icomed_cancel">Отмена</string>
+<string name="icomed_department">Отдел</string>
+<string name="icomed">iCoMED</string>
+<string name="icomed_publications">Публикации</string>
+<string name="icomed_nearest_appointment">Ближайшая встреча</string>
+<string name="asm_experience">Опыт</string>
+
+<string name="asm_allow_permission">Разрешить</string>
+<string name="asm_title_permission_calendar">Включить уведомления для календаря</string>
+<string name="asm_title_permission_gallery">Предоставить доступ к галерее</string>
+<string name="asm_title_permission_camera">Предоставить доступ к камере</string>
+<string name="asm_title_permission_location">Предоставить доступ к местоположению</string>
+<string name="asm_title_permission_microphone">Предоставить доступ к микрофону</string>
+<string name="asm_subtitle_permission_calendar">Вы должны предоставить доступ к календарю, чтобы вам было легче отслеживать свои встречи.</string>
+<string name="asm_subtitle_permission_gallery">Вы должны предоставить доступ, прежде чем сможете загружать фотографии из галереи.</string>
+<string name="asm_subtitle_permission_camera">Вы должны предоставить доступ, прежде чем сможете использовать камеру.</string>
+<string name="asm_subtitle_permission_location">Вы должны предоставить доступ для просмотра карты, используя информацию о вашем местоположении.</string>
+<string name="asm_subtitle_permission_microphone">Вы должны предоставить доступ, прежде чем сможете использовать свой микрофон.</string>
+<string name="asm_allow_notifications">Разрешить ваши уведомления</string>
+<string name="asm_call_voice_accept">Голос\nОтветить</string>
+<string name="asm_call_cancel">Вызов\nОтклонить</string>
+<string name="asm_call_video_accept">Показать\nОтветить</string>
+
+</resources>
+
