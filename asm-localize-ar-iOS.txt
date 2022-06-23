@@ -19,96 +19,96 @@
 "common.tsi" =يتم استخدام التوقيت المحلي في تركيا. "؛
 
 // MARK: - General Error
-"generalErrorMessage" = "There's an error. Please try again later.";
-"internetConnectionError" = "Check your internet connection!";
-"parseError" = "An error occurred while retrieving the information!";
-"selectionError" = "Please make a choice.";
+"generalErrorMessage" = "هناك خطأ. يرجى المحاولة مرة أخرى في وقت لاحق." ؛
+"internetConnectionError" = "تحقق من اتصالك بالإنترنت!" ؛
+"parseError" = "حدث خطأ أثناء استرداد المعلومات!" ؛
+"selectionError" = "الرجاء الاختيار".
 
 // MARK: - Onboarding
-"welcome," = "Welcome,";
-"welcome" = "Welcome";
-"(skip)" = "(Skip)";
-"get_started" = "Get started!";
-"step1_text" = "Quickly book and organize an appointment";
-"step2_text" = "Video chat with your doctor from anywhere";
-"step3_text" = "Instantly view your test results and reports";
+"welcome," = "أهلا وسهلا،"؛
+"welcome" = "أهلا وسهلا"؛
+"(skip)" = "(يتخطى)";
+"get_started" ="البدء!"؛
+"step1_text" = "احجز موعدًا سريعًا ونظمه" ؛
+"step2_text" = "دردشة فيديو مع طبيبك من أي مكان" ؛
+"step3_text" = "عرض نتائج الاختبار والتقارير الخاصة بك على الفور" ؛
 
 // MARK: - Send SMS
-"verify_phone_text" = "Get started by verifying with your phone number.";
-"phone_number" = "Phone number";
-"accept_user_agreement" = "I Agree to the User Agreement.";
-"send_sms" = "Send SMS";
-"invalid_phone" = "Please enter a valid phone number!";
-"must_agree" = "You must confirm the user agreement!";
+"verify_phone_text" = "ابدأ بالتحقق من رقم هاتفك." ؛
+"phone_number" = "رقم الهاتف"؛
+"accept_user_agreement" = "أوافق على اتفاقية المستخدم." ؛
+"send_sms" = "أرسل رسالة نصية قصيرة"؛
+"invalid_phone" = "يرجى إدخال رقم هاتف صالح!"؛
+"must_agree" = "يجب عليك تأكيد اتفاقية المستخدم!" ؛
 // ASM
-"send_sms_title_text" = "Get started by verifying your phone number.";
-"asm_accept_user_agreement" = "I have read and accept the User Agreement and the Information Text on the Protection of Personal Data";
-"country_code" = "Country Code";
+"send_sms_title_text" = "ابدأ بالتحقق من رقم هاتفك." ؛
+"asm_accept_user_agreement" = "لقد قرأت وأوافق على اتفاقية المستخدم ونص المعلومات حول حماية البيانات الشخصية" ؛
+"country_code" = "الرقم الدولي"؛
 
 // MARK: - Validate SMS
-"verify_sms" = "Verify SMS";
-"verify_mail" = "Verify Mail";
-"enter_code_text" = "Enter the SMS code sent to your phone number";
-"enter_code_email_text" = "Enter the email code sent to your phone number";
-"sms_code" = "SMS Code";
-"validation_code" = "Validation Code";
-"resend_sms_code" = "Resend SMS Code";
-"resend_email_code" = "Resend Email Code";
-"verify" = "Verify";
-"invalid_code" = "Please enter your 6 digit SMS password!";
+"verify_sms" = "التحقق من الرسائل القصيرة" ؛
+"verify_mail" ="التحقق من البريد" ؛
+"enter_code_text" = "أدخل رمز SMS المرسل إلى رقم هاتفك" ؛
+"enter_code_email_text" = "أدخل رمز البريد الإلكتروني المرسل إلى رقم هاتفك" ؛
+"sms_code" = "رمز الرسائل القصيرة" ؛
+"validation_code" = "رمز التأكيد"؛
+"resend_sms_code" ="إعادة إرسال رمز SMS" ؛
+"resend_email_code" = "إعادة إرسال رمز البريد الإلكتروني" ؛
+"verify" ="يؤكد"؛
+"invalid_code" = "الرجاء إدخال كلمة مرور SMS المكونة من 6 أرقام!" ؛
 //ASM
-"asm_enter_code_text" = "Verification code has been sent to the number \n%@\ .";
-"asm_enter_mail_code_text" = "Verification code has been sent to the email address at \n%@\ .";
-"asm_resend_sms_code" = "Resend";
-"asm_resend_text" = "Didn't get a password on your phone?";
+"asm_enter_code_text" = "تم إرسال رمز التحقق إلى الرقم \ n٪ @ \."؛
+"asm_enter_mail_code_text" = "تم إرسال رمز التحقق إلى عنوان البريد الإلكتروني على \ n٪ @ \." ؛
+"asm_resend_sms_code" = "إعادة إرسال"؛
+"asm_resend_text" = "ألم تحصل على كلمة مرور على هاتفك؟" ؛
 
 // MARK: - Confirm User
-"confirm_info_text" = "The number %@ you've entered , is registered to the name %@.";
-"is_your_account" = "Does this user account belong to you?";
-"yes_my_account" = "Yes, this account belongs to me.";
-"not_my_account" = "No, this account does not belong to me.";
-"deactivate_warning_message" = "%@ Other profiles associated with the phone number will be deactivated.";
-"deactivate_warning_title" = "Do you wish to continue?";
+"confirm_info_text" = "الرقم٪ @ الذي أدخلته ، مسجل باسم٪ @." ؛
+"is_your_account" = "هل حساب المستخدم هذا ملك لك؟" ؛
+"yes_my_account" = "نعم ، هذا الحساب يخصني" ؛
+"not_my_account" = "لا ، هذا الحساب لا يخصني" ؛
+"deactivate_warning_message" = "٪ @ سيتم إلغاء تنشيط الملفات الشخصية الأخرى المرتبطة برقم الهاتف."؛
+"deactivate_warning_title" = "هل ترغب في الاستمرار؟"؛
 
 // MARK: - Verify User
-"verify_user" = "Confirm your profile";
-"verify_info_text" = "Enter your date of birth and your previous 6-digit user password to verify your account defined on behalf of %@.";
-"ask_forgot_password" = "Forgot password?";
-"registered_user_verify_message" = "You are registered to a different phone number with the same identity information. Please verify.";
+"verify_user" = "تأكيد ملف التعريف الخاص بك" ؛
+"verify_info_text" = "أدخل تاريخ ميلادك وكلمة مرور المستخدم السابقة المكونة من 6 أرقام للتحقق من حسابك المحدد نيابة عن٪ @." ؛
+"ask_forgot_password" = "هل نسيت كلمة السر؟"؛
+"registered_user_verify_message" = "أنت مسجل برقم هاتف مختلف بنفس معلومات الهوية. يرجى التحقق." ؛
 
 // MARK: - Profile
-"nationality" = "Nationality";
-"identity_no" = "Turkish Identity Number";
-"passport_no" = "Passport Number";
-"birthdate" = "Date of Birth";
-"email" = "E-Mail";
-"password" = "Password";
-"password_again" = "Password Again";
-"name" = "Name";
-"surname" = "Surname";
-"gender" = "Gender";
-"woman" = "Female";
-"man" = "Male";
-"country" = "Country";
+"nationality" ="جنسية"؛
+"identity_no" = "رقم الهوية التركية" ؛
+"passport_no" ="رقم جواز السفر"؛
+"birthdate" = "تاريخ الولادة"؛
+"email" = "البريد الإلكتروني"؛
+"password" = "كلمة المرور"؛
+"password_again" = "أدخل كلمة السر مرة أخرى"؛
+"name" = "اسم"؛
+"surname" = "اسم العائلة"؛
+"gender" = "جنس"؛
+"woman" = "أنثى"؛
+"man" = "ذكر"؛
+"country" = "دولة"؛
 "city" = "City";
-"town" = "Town";
-"my_account" = "My Account";
-"account_info" = "Account Info";
-"personal_info" = "Personal Info";
-"health_card" = "Health Card";
-"cell_phone" = "Cell Phone";
-"change_password" = "Change Password";
-"blood_group" = "Blood Group";
-"height" = "Height";
-"weight" = "Weight";
-"do_you_have_chronic_diseases" = "do you have chronic diseases?";
-"do_your_family_have_chronic_diseases" = "Do you have chronic illnesses in your family history?";
-"do_you_have_allergy" = "Do you have allergy?";
-"are_you_using_drugs" = "Are there any medications you routinely use??";
-"your_account_info" = "Your Account Info";
-"logout_from_app" = "Logout from app";
-"support_center_2" = "Support Center";
-"call_center_2" = "Call Center";
+"town" = "بلدة"؛
+"my_account" = "حسابي"؛
+"account_info" = "معلومات الحساب"؛
+"personal_info" = "معلومات شخصية"؛
+"health_card" ="بطاقة صحية"؛
+"cell_phone" = "الهاتف الخلوي"؛
+"change_password" ="غير كلمة السر"؛
+"blood_group" = "فصيلة الدم"؛
+"height" = "ارتفاع"؛
+"weight" ="وزن"؛
+"do_you_have_chronic_diseases" = "هل لديك أمراض مزمنة؟" ؛
+"do_your_family_have_chronic_diseases" = "هل لديك أمراض مزمنة في تاريخ عائلتك؟" ؛
+"do_you_have_allergy" = "هل لديك حساسية؟" ؛
+"are_you_using_drugs" ="هل هناك أي أدوية تستخدمها بشكل روتيني؟" ؛
+"your_account_info" = "معلومات حسابك" ؛
+"logout_from_app" = "تسجيل الخروج من التطبيق" ؛
+"support_center_2" ="مركز الدعم"؛
+"call_center_2" ="مركز الاتصال"؛
 
 // MARK: - Create User
 "create_user" = "Create User";
